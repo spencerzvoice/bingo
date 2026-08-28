@@ -40,8 +40,11 @@ Get Spencer out of the low-rate bracket and into higher-paying, longer, **repeat
 - **The pattern to break (his own diagnosis, day one):** he has been accepting low-priced jobs and wants out. When a cheap gig is on the table, that's exactly when I say something.
 - The lever isn't "repeat clients" (that's the outcome) — it's **new relationships started + disciplined follow-up after a job lands.**
 
-### Near-term priority (from 2026-08-28): CASH VOLUME for the Lisbon property downpayment
-Spencer is saving for the downpayment and wants pricing advice weighted toward **booking jobs**, not maximising per-job rate. Bingo's calibrated stance:
+### Near-term priority (from 2026-08-28): CASH for the Lisbon property downpayment
+**Target: ~€28–29k available by end of October 2026** — €18k downpayment + €6k fees + €4–5k living buffer to keep afterward. Plus covering monthly expenses in the meantime. ~9 weeks from 2026-08-28.
+Reality check: €28k net in 9 weeks ≈ **€3,100–3,500/week**, i.e. €13–15k/month — *above* the €10k target. Feasibility depends entirely on **what he already has saved** + monthly expenses + current run-rate (all still to get). If he's starting from a low base, end-of-October on VO income alone is not realistic and the plan needs another lever (mortgage covering some fees, timeline flex, etc.). Marketplace $400 jobs at a low hit-rate will not move this — the reconnect clients + retainers + bigger direct work are the plan, not optional.
+
+Spencer wants pricing advice weighted toward **booking jobs**, not maximising per-job rate. Bingo's calibrated stance:
 - **Marketplace jobs (Voices.com etc.):** quote **fair-market-mid**, not the ceiling. On high-response jobs (100+ bids) the ceiling loses winnable work. Take everything that clears a real floor (covers the work + a fair margin).
 - **Do NOT chase volume by discounting.** Undercutting trains the Voices algorithm and clients to see him as a budget option, which costs more than the downpayment. Volume comes from **hit-rate and throughput** (more auditions, faster, better reads) and **warm channels** (the ~18 unsent reconnect drafts, the CrowdReply retainer) — those convert far better than a shaved marketplace quote.
 - **Direct / agency / representation work:** the €10k long-game rate discipline still fully applies. The volume lean is specifically for marketplace jobs during the save-up.
