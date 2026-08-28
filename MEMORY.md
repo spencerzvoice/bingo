@@ -42,7 +42,9 @@ Get Spencer out of the low-rate bracket and into higher-paying, longer, **repeat
 
 ### Near-term priority (from 2026-08-28): CASH for the Lisbon property downpayment
 **Target: ~€28–29k available by end of October 2026** — €18k downpayment + €6k fees + €4–5k living buffer to keep afterward. Plus covering monthly expenses in the meantime. ~9 weeks from 2026-08-28.
-Reality check: €28k net in 9 weeks ≈ **€3,100–3,500/week**, i.e. €13–15k/month — *above* the €10k target. Feasibility depends entirely on **what he already has saved** + monthly expenses + current run-rate (all still to get). If he's starting from a low base, end-of-October on VO income alone is not realistic and the plan needs another lever (mortgage covering some fees, timeline flex, etc.). Marketplace $400 jobs at a low hit-rate will not move this — the reconnect clients + retainers + bigger direct work are the plan, not optional.
+**Has saved: $18k USD (≈ €16.5k) as of 2026-08-28.** Gap to ~€28–29k target ≈ **€12k**, plus covering ~9 weeks of living expenses on top → needs to **net roughly €16–17k from VO over 9 weeks ≈ €7–7.5k/month**. That's the top of the "hard but possible" band — works only if the warm pipeline fires (the ~18 reconnect drafts sent *now*, CrowdReply retainer landed, consistent marketplace booking). Pricing jobs ≠ sending outreach — the gap is execution, not analysis.
+Pressure valve: **confirm whether end-of-October is a hard deed date** (CPCV deed timing is often 60–90 days, sometimes extendable — ask Ricardo Baia). If it slips to Nov/Dec, €12k over 13+ weeks is far easier. Also: some fees may be financeable into the mortgage. And the $18k→€ conversion will shave €200–400 (FX + transfer).
+Still needed to firm the plan: monthly expenses, current VO run-rate, auditions/week.
 
 Spencer wants pricing advice weighted toward **booking jobs**, not maximising per-job rate. Bingo's calibrated stance:
 - **Marketplace jobs (Voices.com etc.):** quote **fair-market-mid**, not the ceiling. On high-response jobs (100+ bids) the ceiling loses winnable work. Take everything that clears a real floor (covers the work + a fair margin).
