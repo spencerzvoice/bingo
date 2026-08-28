@@ -50,11 +50,13 @@ The deadline is **landlord-driven** (she's the seller, wants it sold by end of O
 - Closing €12k in 9 weeks on top of expenses needs ~**€7,600/mo** sustained — nearly 3× current run-rate and above his best-ever month. Not realistic. Even at the 12-month average he'd land ~€4k short.
 - He's already at ~45 auditions/week — near the marketplace ceiling. More volume won't move it.
 
-**The gap closes with mortgage structure, not hustle. Three calls, in priority order:**
-1. **Millennium BCP / Ricardo Baia — max LTV.** 80→90% cuts the downpayment from €18k to ~€9k → gap €12k → ~€3k. Biggest single lever.
-2. **Can the €6k fees be financed into the loan?** Another big chunk off the cash need.
-3. **The seller — completed sale vs signed CPCV by Oct 31?** If she just needs a signed CPCV (+ deposit, ~10% ≈ €9k which he can cover now), the deed/full cash moves to Nov/Dec.
-If LTV→90% *and* fees financed: cash need ≈ €9k + buffer ≈ €14k, and he has €16.5k — **the gap may vanish entirely.**
+**LTV is already 90% (max for a PT resident) — that lever is spent.** So the €18k downpayment *is* the 10% deposit → property ≈ **€180k**, and the downpayment can't be reduced.
+
+**The CPCV timeline is now the whole game. Establish with the seller / lawyer:**
+1. **What is the sinal (CPCV deposit) amount, and when is it due?** In PT the sinal is often the full 10% and counts toward the price. If Oct 31 = signed CPCV + sinal, and the sinal ≈ €18k, his real Oct-31 gap is only **~€1.5k** (he has €16.5k) — not €12k. Everything changes on this number.
+2. **When is the deed (escritura)?** That's when the €6k fees + remaining equity + buffer are due — likely Nov/Dec, giving real runway for that chunk.
+3. Can the €6k fees be financed into the loan? (Probably no at 90% LTV — ask anyway.)
+Then map it: €X needed by Oct 31 (likely small), €Y by the deed date (more runway). Trim the buffer to €2–3k if needed.
 
 VO role: keep the audition pace, get on the €2,290 cut-back budget *now*, push the warm channels — but it's the supplement, not the plan. Don't burn out chasing a number the math says isn't there.
 
