@@ -1,0 +1,139 @@
+---
+name: outreach-email
+description: >-
+  Draft a client outreach or re-engagement email for Spencer's voiceover
+  business. Use when Spencer wants to contact a new prospect (cold), reconnect
+  with a past client (warm re-engagement), or nudge someone who hasn't replied.
+  Produces a ready-to-review draft in Spencer's own voice and logs it — never sends.
+---
+
+# Outreach Email
+
+Draft outreach in **Spencer's** voice — casual, direct, warm but plain-spoken,
+contractions throughout, first names, warmth before business. Not a generic
+cold-email template. **You never send it** — hand Spencer a draft he reviews and
+sends himself (hard rule).
+
+## Modes
+
+- **cold** — a new prospect (production company, agency, casting director, brand).
+- **warm** — a past client being re-approached. Highest-probability source of the
+  next booking; treat it as the priority.
+- **follow-up** — a nudge on a cold or warm email that got no reply.
+
+## Step 1 — Pull what's already known
+
+Before asking Spencer anything, read:
+- `MEMORY.md` and `reference/vo-client-directory.md` — his positioning, credits,
+  the end client behind a past job, prior rates, relationship history.
+- `reference/outreach-pipeline.md` and `memory/outreach-log.md` — has this person
+  been contacted before? When? What was pitched? Any reply or bounce? (Create the
+  log from the template at the bottom if it doesn't exist.)
+
+## Step 2 — Gather the gaps
+
+Ask Spencer only for what's missing:
+- Who: company/person, the specific contact, their role, email, and — because it
+  changes the opener — a rough read on gender and age.
+- Why now: the hook. **For warm:** the exact past project and roughly when.
+- What Spencer wants: a call, a custom audition, roster addition, representation.
+- Which reel/sample fits their work best.
+- Whether this goes as a **brand-new email or a reply in an existing thread** —
+  and tell Spencer which in the handoff (a "Re:" subject with no real prior
+  thread is a stylistic convention here, not a literal reply; flag that).
+
+**News hook:** proactively search for one genuine, recent hook (award, campaign
+launch, new hire, milestone) before drafting. Use first-hand reputable sources.
+**If nothing real turns up, do NOT invent one** — use a plain "I've kept busy
+with…" line instead. (Spencer nearly sent a fabricated Cisco connection once
+because of a name collision — verify every credit/connection claim.)
+
+## Step 3 — Rate guardrail
+
+If Spencer's framing implies underselling — leading with price, a discount,
+"whatever works for your budget," or a rate below his target — **say so before
+drafting.** That's the pattern he asked Bingo to break. For any actual numbers,
+use the `vo-pricing` skill.
+
+## Step 4 — Draft (Spencer's rules, verbatim)
+
+- **Opener by recipient:** women and older men get a formal opener —
+  "Hello [Name], I hope this message finds you well." Younger men get casual —
+  "Hey [Name], hope you're doing well."
+- **Never** open with "Firstly," or any formal pivot opener. Flow straight from
+  the greeting into the content. Lead with a friendly check-in / warmth before
+  any business.
+- **Full-name intro (required, for cold or anyone who won't remember him):**
+  "My name is Spencer Pearman and I'm a professional voiceover artist and audio
+  engineer based in Lisbon, Portugal."
+- **Reference a specific, verified piece of their work** by name and say what
+  stood out — only if confirmed. Never assume or fabricate a credit.
+- **Website as a full sentence:** "You can hear my work at spencerzvoice.com." —
+  never a bare URL fragment.
+- **Close** warm and low-pressure: "please keep me in mind" or "Hope to hear from
+  you soon!" — not "I'd love to be considered."
+- **Sign-off, exactly:**
+  ```
+  Best,
+  Spencer
+  spencerzvoice.com
+  ```
+- Keep it to something readable on a phone in one screen. Proofread this specific
+  draft — never batch-reuse a skeleton across emails.
+- Draft it via the **Gmail compose module** so a "Send with Gmail" button renders
+  — not plain text for manual copy-paste, unless Spencer says otherwise.
+
+**Warm re-engagement adds:**
+- Name the exact past project and roughly when; one specific warm memory of it.
+- For 6+ months of silence: acknowledge the gap directly — a soft, slightly more
+  explanatory reconnect, not a breezy "hey, checking in."
+- On rates: the mission is to move them up — usually "my rates have shifted a
+  little since then; happy to send a current quote for anything you have coming,"
+  not "same as last time."
+
+**Follow-up adds:**
+- Short. Bring a new angle or new proof, not "just bumping this."
+
+## Step 5 — Follow-up cadence (for scheduling the nudge)
+
+- **Cold agency contacts:** 7–10 days. 0–6 days is too soon; 10+ with no reply =
+  overdue, send the follow-up.
+- **Warm / recurring clients:** slower — fast follow-up reads as needy.
+  2–3 weeks if mid-conversation on a live project or recent quote; 4–8 weeks for
+  a pure check-in with no open thread; 6+ months = treat as a soft reconnect.
+
+## Step 6 — Hand it over
+
+1. Subject-line options (2–3). Specific, a reason to open — never "Voiceover
+   artist available."
+2. The draft, ready to paste / the compose link.
+3. One line: why this angle, whether it's a new email or a thread reply, and what
+   a good reply looks like.
+4. The reminder: **Spencer reviews and sends it himself.**
+5. Offer to draft the follow-up now and note the cadence date.
+
+## Step 7 — Log it
+
+Append to `memory/outreach-log.md`, drop `🧠 remembered: drafted <mode> outreach
+to <client>`, and update `reference/outreach-pipeline.md` / `MEMORY.md` if it's a
+new tracked relationship.
+
+---
+
+## Template: `memory/outreach-log.md`
+
+```markdown
+# Outreach Log — Bingo
+
+One entry per email. Update "Result" when a reply lands.
+
+## <YYYY-MM-DD> — <Client / Company> — <cold | warm | follow-up N>
+- Contact: <name, role, email>
+- Hook / angle: <one line>
+- Ask: <the CTA>
+- Reel linked: <which one>
+- New email or thread reply: <which>
+- Status: draft in Bingo / Spencer sent <date>
+- Follow up on: <date> if no reply
+- Result: <blank until known>
+```

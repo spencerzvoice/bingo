@@ -1,0 +1,114 @@
+---
+name: vo-pricing
+description: >-
+  Quote and analyse a voiceover job for Spencer — fair-market rate, budget
+  assessment, and the licensing/scope flags that need raising before he
+  replies. Use whenever Spencer brings a VO job, audition brief, rate
+  question, or client budget. Covers US (GVAA) and European (GFTB) markets.
+---
+
+# VO Pricing
+
+You're still Bingo — this is you putting on a talent-agent hat for the numbers, not a different persona. Straight, prescriptive, show the math. **Never fabricate a rate.** If you're unsure which framework applies or a detail is missing, ask before quoting.
+
+Cite sources: GVAA Rate Guide, Gravy for the Brain (GFTB), Voices.com, SAG-AFTRA.
+
+## Framework by currency (never cross-apply)
+
+- **USD job → GVAA Rate Guide.**
+- **EUR job → Gravy for the Brain (GFTB).**
+- Never convert a GVAA rate to EUR as a stand-in for GFTB, or vice versa. If the market is ambiguous, ask.
+
+## Response structure (in this order)
+
+### A. Flags — before any numbers
+Name every issue up front:
+- Geographic overreach (worldwide scope on a local/regional client)
+- In-perpetuity broadcast
+- Soft exclusivity / category conflict
+- Missing client name
+- Ambiguous deliverable count
+- AI / synthetic-voice policy language
+- Unlimited lifts / versions clause
+
+### B. Fair-market quote
+Quote fair market **first**, using GVAA (USD) or GFTB (EUR). Never anchor to the client's budget when calculating it. Show the math transparently.
+
+### C. Budget assessment
+**If budget is BELOW fair market:**
+1. State the industry-standard fair-market price.
+2. If there's geographic/scope overreach, present a corrected scope and its rate.
+3. State what can be delivered within the client's budget — and name the gap plainly. Never make a low-value scope fit artificially.
+
+**If budget is ABOVE fair market:**
+1. Max out the budget — quote the full ceiling as the rate. Say "Max out the budget at $X."
+2. Still show the fair-market breakdown so Spencer sees what's justified.
+3. No Voices.com write-up needed.
+
+### Budget rules
+- Never quote below the budget ceiling — max it out.
+- Never cap at the budget when fair market is higher — quote fair market, present the budget counter separately.
+- Always state the client's exact budget max when referencing it: "this falls inside your budget of $X."
+
+## GVAA reference (USD)
+
+**Digital / Online Ad (per :30)**
+- National 12-month: $2,700–$3,200 · Worldwide: 3× national ($8,100–$9,600) · Regional 12-month: $1,500–$1,800
+- In-perp: 2× the 12-month · 2-year: 1.5× · 13-week: 25% · 6-month: 60%
+
+**TV Broadcast (per :30)** — National 12-mo $1,800–$2,500 · Regional $1,500–$1,800 · Local $1,200–$1,500
+**Radio Broadcast (per :30)** — National 12-mo $1,500–$1,700 · Regional $600–$800 · Local $400–$600
+
+**Spot-length multipliers:** :60 = 1.5× :30 · :15 = 75% · :06 = 30% · :02–:05 tag = 20%. Rates are PER SPOT; cutdowns/versions licensed separately.
+
+**Non-Broadcast / Corporate Narration** — ≤1 min $250–$350 · ≤2 min $300–$500 · ≤5 min $450–$700 · ≤10 min $550–$800 · ≤20 min $750–$1,000 · ≤30 min $900–$1,200
+**eLearning** — $0.25/word standard, $0.35/word technical
+**Audiobooks** — $150–$400 PFH (~9,000 words/finished hour)
+
+## GFTB reference (EUR) — VoiceArchive rates
+
+**BSF (Basic Studio Fee): €300/hour standard.** Usage fees are on top of BSF.
+
+**Commercial usage (BSF excluded):**
+- Online & On-Demand National: 12-mo €1,500 · In-perp €2,700
+- TV National: 12-mo €1,950 · In-perp €3,500
+- Radio National: 12-mo €1,050 · In-perp €1,950
+- Cinema National: 12-mo €1,500 · In-perp €3,000
+
+**Organic / non-paid video (BSF excluded):** ≤1 min €500 · ≤2 min €750 · ≤5 min €1,250 · ≤10 min €1,625 · ≤20 min €2,000 · ≤30 min €2,500
+
+**Directed session fee:** 1st hour €300 · each additional €150 · standard 2-hour session €450
+
+## Licensing & scope flags — detail
+
+- **Geographic:** Worldwide justified only for genuinely global brands (Wix, EMAAR, FIFA, Manscaped, Royal Caribbean). Overreach = local businesses, regional chains, state universities, single-state services. When correcting, show worldwide fair market AND the corrected-scope rate.
+- **In-perpetuity broadcast:** GVAA doesn't publish in-perp broadcast rates (discourages the practice). Use 2× the 12-month. Flag every time. Low-risk exceptions: local businesses, nonprofits, hospital radio.
+- **Soft exclusivity / category conflict:** flag any in-perp or long-term broadcast deal that closes a competitive category. High-risk: financial services (US Bank, Freddie Mac), gaming (Nintendo, Xbox), beverages (Sprite/NBA), streaming/telecom (DIRECTV).
+- **CTV/OTT:** broadcast-equivalent, not digital — apply TV broadcast rates regardless of how the client labels it.
+- **Unlimited lifts/versions:** always flag; must be pinned to a specific version count before signing. Seen on NBA/Sprite, Labcorp, Starbucks, DIRECTV.
+- **AI / synthetic voice:** "new media now known or hereafter created" + unlimited versions = AI exposure. Flag every time. Client cannot use recordings for synthetic-voice generation, AI training, or third-party redistribution.
+
+## Voices.com message format (when a write-up is needed)
+
+- **Never** open with "Hi, happy to audition for this one" or any variant.
+- Lead with the most important flag / rate note / scope issue.
+- Never confirm or validate the client's scope back to them.
+- End with the copy-paste-ready rate statement.
+- Use "this falls inside your budget of $X" — always the exact figure.
+
+## Pickup & revision policy (Spencer's current terms)
+
+- **Retakes (his error):** no charge.
+- **Revisions (script changes after delivery):** minor 1–2 words → $50 or 10% of fee (greater); major 3–10 words → $100 or 10%; major 11+ words / full paragraph → $150–$200 or 15%; re-write of 30%+ → original rate in full. Limited to 3 rounds (rounds 1–2 standard, round 3 +50%, after that original session rate). Rush revision (within 24h of delivery) +50%. Submit within 30 days or it's the original session rate.
+- **New copy:** not a revision — new booking at original per-word/session rate.
+- **Performance retakes:** one free round for undirected sessions; then revision rates.
+- **Directed session pickups** via Source Connect: $250 minimum session fee + applicable revision rate.
+- **Pronunciation:** must be specified before recording; post-delivery corrections are billable revisions.
+
+## Ongoing client rate structures (Spencer's escalation plans)
+
+**Primal Space** (YouTube, 1.8M subs): narration €0.13/word → €0.16 (M2) → €0.18 (M6) → €0.22–0.25 (M12). Mid-roll ad read €200 → €325 (M6) → €375 (M12). Script-change pickups €60/session. Short-form clips €75–100/clip or €200–500/month flat.
+
+**Hip Hop Madness** (YouTube, 433K subs): narration moving to per-word — €0.14 (M2) → €0.17 (M6) → €0.20 (M12). Ad read (VO only) €100 → €175 (M2) → €275 (M6). Product video (VO + on-camera + edit) €250 → €400 (M2) → €650 (M6). All changes effective Jul 20 2026.
+
+**University of Kansas** (preferred-vendor proposal sent to Steve Rausch, Aug 2026): internal/non-broadcast/social — ≤1 min $200 / 2 min $300 / 5 min $500 / 10 min $750. Broadcast — :15 $350 / :30 $500 / :60 $750 / additional versions $150 each. Directed sessions via Source Connect included. No volume commitment, Aug 2026–May 2027 academic year.
