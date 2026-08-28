@@ -69,7 +69,9 @@ Compact log of rapid-fire Voices.com / marketplace jobs Spencer prices with Bing
 
 | Date | Job | Format | Licence | Budget | Bingo quote | Floor | Outcome |
 |---|---|---|---|---|---|---|---|
-| 08-28 | "BRING IT!" initiative | Internal video, 309 wds / ~2m | Non-bcast, in-perp | $250–499 | **$475** | $350 | quoted / TBD |
+| 08-28 | "BRING IT!" initiative | Internal video, 309 wds / ~2m, **+ live directed session** | Non-bcast, in-perp | $250–499 | **$675** ($450 narration + $225 session) | $550 | quoted / TBD |
+
+_BRING IT! note: adding the directed session flips this from "inside budget" to budget-below-fair-market — same trap as Enterprise. The session is ~$200–250 of live time; their $499 ceiling can't cover session + 2-min perpetual buyout. Confirm session length. Pass below $550._
 
 ## Standing action items
 
