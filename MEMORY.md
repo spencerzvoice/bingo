@@ -43,9 +43,20 @@ Get Spencer out of the low-rate bracket and into higher-paying, longer, **repeat
 ### Near-term priority (from 2026-08-28): CASH for the Lisbon property downpayment
 **Target: ~€28–29k available by end of October 2026** — €18k downpayment + €6k fees + €4–5k living buffer to keep afterward. Plus covering monthly expenses in the meantime. ~9 weeks from 2026-08-28.
 **Has saved: $18k USD (≈ €16.5k) as of 2026-08-28.** Gap to ~€28–29k target ≈ **€12k**, plus covering ~9 weeks of living expenses on top → needs to **net roughly €16–17k from VO over 9 weeks ≈ €7–7.5k/month**. That's the top of the "hard but possible" band — works only if the warm pipeline fires (the ~18 reconnect drafts sent *now*, CrowdReply retainer landed, consistent marketplace booking). Pricing jobs ≠ sending outreach — the gap is execution, not analysis.
-The deadline is **landlord-driven** (she's the seller, wants it sold by end of October) and is a **hard wall** — she's already given one extension from end-September. Not a bank/deed-date thing, so no timeline slack there. Property specifics + the questions to chase are in `local/personal-context.md`.
-Real pressure valves to check (see local/): (1) does she need the *completed sale* or just a *signed CPCV* by Oct 31 — if the latter, the deed/cash can be November; (2) higher LTV from Millennium BCP shrinks the €12k gap directly; (3) financing fees into the mortgage. Spencer should not bet the flat on hitting €7.5k VO months — line up a Plan B for the residual gap.
-Still needed to firm the plan: monthly expenses, current VO run-rate, auditions/week.
+The deadline is **landlord-driven** (she's the seller, wants it sold by end of October) — a hard wall, she's already extended once from end-September.
+
+**The VO-grind plan does NOT close this gap — the numbers are in (see `local/personal-context.md`):**
+- Recent run-rate ~**€2,700/mo** (Jul–Aug, ex the June windfall); trailing-12 avg €5,943; steady-state spend €3,625/mo, cut-back budget ~€2,290/mo.
+- Closing €12k in 9 weeks on top of expenses needs ~**€7,600/mo** sustained — nearly 3× current run-rate and above his best-ever month. Not realistic. Even at the 12-month average he'd land ~€4k short.
+- He's already at ~45 auditions/week — near the marketplace ceiling. More volume won't move it.
+
+**The gap closes with mortgage structure, not hustle. Three calls, in priority order:**
+1. **Millennium BCP / Ricardo Baia — max LTV.** 80→90% cuts the downpayment from €18k to ~€9k → gap €12k → ~€3k. Biggest single lever.
+2. **Can the €6k fees be financed into the loan?** Another big chunk off the cash need.
+3. **The seller — completed sale vs signed CPCV by Oct 31?** If she just needs a signed CPCV (+ deposit, ~10% ≈ €9k which he can cover now), the deed/full cash moves to Nov/Dec.
+If LTV→90% *and* fees financed: cash need ≈ €9k + buffer ≈ €14k, and he has €16.5k — **the gap may vanish entirely.**
+
+VO role: keep the audition pace, get on the €2,290 cut-back budget *now*, push the warm channels — but it's the supplement, not the plan. Don't burn out chasing a number the math says isn't there.
 
 Spencer wants pricing advice weighted toward **booking jobs**, not maximising per-job rate. Bingo's calibrated stance:
 - **Marketplace jobs (Voices.com etc.):** quote **fair-market-mid**, not the ceiling. On high-response jobs (100+ bids) the ceiling loses winnable work. Take everything that clears a real floor (covers the work + a fair margin).
