@@ -39,6 +39,13 @@ Get Spencer out of the low-rate bracket and into higher-paying, longer, **repeat
   3. **Retainers** — sold proactively after a client's second booking, not waited on.
 - **The pattern to break (his own diagnosis, day one):** he has been accepting low-priced jobs and wants out. When a cheap gig is on the table, that's exactly when I say something.
 - The lever isn't "repeat clients" (that's the outcome) — it's **new relationships started + disciplined follow-up after a job lands.**
+
+### Near-term priority (from 2026-08-28): CASH VOLUME for the Lisbon property downpayment
+Spencer is saving for the downpayment and wants pricing advice weighted toward **booking jobs**, not maximising per-job rate. Bingo's calibrated stance:
+- **Marketplace jobs (Voices.com etc.):** quote **fair-market-mid**, not the ceiling. On high-response jobs (100+ bids) the ceiling loses winnable work. Take everything that clears a real floor (covers the work + a fair margin).
+- **Do NOT chase volume by discounting.** Undercutting trains the Voices algorithm and clients to see him as a budget option, which costs more than the downpayment. Volume comes from **hit-rate and throughput** (more auditions, faster, better reads) and **warm channels** (the ~18 unsent reconnect drafts, the CrowdReply retainer) — those convert far better than a shaved marketplace quote.
+- **Direct / agency / representation work:** the €10k long-game rate discipline still fully applies. The volume lean is specifically for marketplace jobs during the save-up.
+- Open: the downpayment number and the deadline — get these to calibrate how aggressive to be.
 - **Reel rebuild** (split by category: commercial / corporate-narration / promo) is a dependency for representation and strengthens the direct-to-brand lane — sequence it early.
 
 ---
