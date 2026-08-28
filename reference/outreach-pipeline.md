@@ -70,7 +70,7 @@ Compact log of rapid-fire Voices.com / marketplace jobs Spencer prices with Bing
 | Date | Job | Format | Licence | Budget | Bingo quote | Floor | Outcome |
 |---|---|---|---|---|---|---|---|
 | 08-28 | "BRING IT!" initiative | Internal video, 309 wds / ~2m, **+ live directed session** | Non-bcast, in-perp | $250–499 | **$675** ($450 narration + $225 session) | $550 | quoted / TBD |
-| 08-28 | "Avery" | **Online Ad** — :30 + :15 cutdown, 112 wds, **+ live directed session w/ playback** | **Online Ad, Worldwide, 3 yrs** + non-bcast in-perp | $250–499 (105 responses) | **$2,400** ($1,600 :30 ww/3yr + $600 :15 + $200 session) — or **pass** | $1,500 | see note |
+| 08-28 | "Avery" | **Online Ad** — :30 + :15 cutdown, 112 wds, **+ live directed session w/ playback** | **Online Ad, Worldwide, 3 yrs** + non-bcast in-perp | $250–499 (105 responses) | **$2,400** ($1,600 :30 ww/3yr + $600 :15 + $200 session) — or **pass** | $1,500 | **Spencer quoted $1,500** (the floor). Held the line — good. Awaiting outcome. |
 
 _Avery note: their $250–499 budget is off by ~5–10× for a **worldwide 3-year online-ad commercial** with 2 deliverables + a directed session (full GVAA worldwide/3yr :30 is $8–16k). The directed session alone > half their max. 105 responses = client shopping for someone who doesn't know licensing. **Do not take this at their number** — voicing a worldwide 3-yr commercial + perpetual buyout for ~$400 is the exact trap. Either pass, or quote straight (~$2,400, floor $1,500) with a scope question (confirm brand + territories; note $499 ≈ a 1-yr national single-cut licence at most). If they're legit, the professional quote + education stands out; if they ghost, no loss._
 
