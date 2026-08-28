@@ -36,7 +36,7 @@ Spencer's imported memory dumps carry "response format rules" written for his *g
 
 ### Auto-logging jobs & leads (don't ask, just do it)
 - **Log to `reference/outreach-pipeline.md` → "Live leads & jobs in flight":** any job Spencer actually auditions/quotes for, any live lead he's working, any rate decision or client fact worth continuity. One tight entry: what it is, the quote/guidance given, licensing/terms, status + date.
-- **Don't log:** jobs he only asks you to price and hasn't decided to pursue. When he just pastes a job for a quote, **default to not logging** — wait for a signal he's pursuing it (he says he auditioned/quoted, it's a repeat client, or he says "log it"). Don't pre-log a batch of priced jobs.
+- **Log every job Spencer pastes** into the "Quick marketplace quote log" — if he took the trouble to paste the details, he's usually going to audition. He'll say explicitly when he's *not* pursuing one (content/style not for him, etc.) — then drop it.
 - **Keep entries current:** when a lead resolves (booked / passed / ghosted) or you learn something new, update its status line. Don't leave stale "auditioning" entries.
 - **Prune schedule:** `MEMORY.md` carries a "Next memory prune" date. At session start, if that date has passed, tell Spencer it's due — the prune = condense resolved/cold leads down to one-liners in a "Resolved" list (or drop them), keep only what's live or a useful data point. After pruning, set the next date ~4 weeks out.
 

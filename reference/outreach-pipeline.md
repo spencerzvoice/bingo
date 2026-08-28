@@ -80,7 +80,7 @@ _BRING IT! note: adding the directed session flips this from "inside budget" to 
 ## Standing action items
 
 1. **Fix + resend bounced emails:** Maya Roberts, Tami Hachiya, Janae David (Team One — pattern `firstname.lastname@teamone-usa.com` but these bounced; verify via Hunter.io), Nathan Mallon (The Team — Mimecast `550 5.4.1` rejection), Anna Jacobsen (Tellary — try `poullet@tellary.com` or `tellyourstory@tellary.com`).
-2. **Send the ~18 written-but-unsent reconnect drafts** (see list below).
+2. **Send the 10 genuinely-unsent reconnect drafts** (cross-checked list below — was ~18, trimmed after checking the live tracker).
 3. **Re-add Robert Salas** (GMR Marketing, Senior Producer) — row vanished before his ready draft was sent.
 4. **Lori Lins auditions:** Plaud + AT&T Quantum Fiber (were due Aug 28) — check status.
 5. Follow up when Sam Walsh (back Aug 25) and Michael MacMillan (back Sept 1) return from OOO.
@@ -88,10 +88,20 @@ _BRING IT! note: adding the directed session flips this from "inside budget" to 
 7. Submit the Gmail-connector bug report to Anthropic support if not already done.
 8. Track the Sept 19 Elaine Craig workshop → resubmit to Allie Silber at DDO afterward.
 
-## The ~18 unsent reconnect drafts (exist, ready, not sent)
+## Unsent reconnect drafts — cross-checked against the live tracker 2026-08-28
 
-Andrew Davis (Cheil) · Melissa Gillis (ATTN) · Rebeccah Sheridan (CGI) · Evan Kay (Climb High) · Ruthie Mason (Coronation) · Kayla Gremer Foreid (Diamond View) · Erin Daughenbaugh (EDP) · Mel Kane (Invision) · Lucas Bertoli (Laundry Design) · Taylor Ballam (Modo) · Evan Romoff (Romoff Media) · Mackenzie Prokos (Rune Haus) · David Martin (ShadowLion) · Devin Leisher (TBC) · Jeff McKown (Diamond View) · Lilah Kohlman (Altra) · Luke Mellows (Noah Media) · Luke O'Reilly (Noah Media).
-Held intentionally: Janet Bell Anderson (Team One — wait until cast). Excluded: Tony / Vishuddha.
+Original list was ~18 (from the memory import). After checking the current sheet:
+
+**Send these 10 — genuinely unsent, no conflict:**
+Melissa Gillis (ATTN, mgillis@attn.com — end client Pawstruck) · Rebeccah Sheridan (CGI Interactive, rsheridan@cgiinteractive.com — Dell) · Evan Kay (Climb High, evan@climbhighproductions.com — OutThere) · Erin Daughenbaugh (EDP Inc, edaughenbaugh@gmail.com — Informatica) · Mel Kane (Invision, mkane@iv.com — Gilead) · Lucas Bertoli (Laundry Design, lucas@laundrymat.tv — Fred & Ted/Informatica) · Taylor Ballam (Modo Studios, taylor@modostudios.com — NordicTrack) · Evan Romoff (Romoff Media, evan@romoffmedia.com — DPSCS) · Mackenzie Prokos (Rune Haus, makenzie@runehauscreative.com — Woodward) · Devin Leisher (TBC, dleisher@tbc.us — ADA "We Fight").
+
+**Already sent (drop from list):** Jeff McKown (Diamond View — checked in Aug 27) · Lilah Kohlman (Altra — checked in Aug 27).
+
+**Now redundant — same company already contacted, skip unless Spencer wants a second touch:** David Martin (ShadowLion — Jeff Fine already sent the same ESPN/Champ Fund reconnect Aug 26; Ryan Lago active) · Kayla Gremer Foreid (Diamond View — Jeff McKown already active; Kimley-Horn/Jordan Deva already replied) · Ruthie Mason (Coronation — Haley Rossi already reconnected Aug 26 with the same Mount St. Mary's reference).
+
+**Low priority:** Luke Mellows + Luke O'Reilly (Noah Media — both "pick-ups/rewrites" contacts, ~100+ days quiet). If reconnecting with Noah Media, hit **Eve O'Sullivan** (primary VO coordinator) instead — the whole Noah cluster (6 contacts) has had no touch since May–June.
+
+**Held:** Andrew Davis (Cheil — not casting-focused, deprioritized) · Janet Bell Anderson (Team One — wait until cast). **Excluded:** Tony / Vishuddha.
 
 ## History: the Gmail sweep (Aug 19–20 2026)
 
