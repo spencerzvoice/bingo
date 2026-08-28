@@ -36,20 +36,32 @@ The live CRM for Spencer's outreach. **The Google Sheet is ground truth** — Sp
 - **Old Client Reconnect:** Melissa Gillis (ATTN), Rebeccah Sheridan (CGI), Evan Kay (Climb High), Ruthie Mason (Coronation), Kayla Gremer Foreid (Diamond View), Erin Daughenbaugh (EDP), Mel Kane (Invision), Lucas Bertoli (Laundry Design), Taylor Ballam (Modo), Evan Romoff (Romoff Media), Mackenzie Prokos (Rune Haus), David Martin (ShadowLion), Devin Leisher (TBC), Dan Haas (ATTN — sent), Deb (Kanahoma — sent).
 - **Professional Development:** Elaine Craig (registered, Sept 19), Carrie Faverty (fall dates pending).
 
-## Live leads (not yet in the sheet)
+## Live leads & jobs in flight
+
+_Auto-logged (see the memory protocol in CLAUDE.md). Keep status lines current; condense/prune resolved + cold entries on the schedule in MEMORY.md._
 
 ### CrowdReply — first Lane 1 (direct-to-brand) opportunity
 - **Contact:** Jim Loining ("Jim L"), **co-founder**, 20s. Met in person 2026-08-28 (padel). Also runs a separate side project, BambooVPN.
 - **Company:** CrowdReply (crowdreply.io) — AI-search-visibility / GEO-AEO platform (get your brand cited by ChatGPT, Perplexity, Gemini, Claude) + Reddit/social listening + backlinks marketplace. Founded Feb 1 2025 by Jim Loining + Dawood Khan. Seed-stage, NZ-linked (Icehouse Ventures), content-marketing-heavy — claims "5,000+ brands" (marketing figure, ~18-month-old company).
-- **The opening:** Jim sent Spencer two of their product videos from X. Spencer re-voiced both and **sent samples 2026-08-28 14:14 (Lisbon)** to `jim@crowdreply.io`, subject "VO samples" — 2 re-voiced CrowdReply videos (Google Drive links) + 2 attached past jobs (Amazon AWS SageMaker overview, Artlist 2024). Warm casual note, no pricing, padel sign-off. **Awaiting reply.** Goal: land the recurring monthly video, then expand.
-- Note for next send: put all files on Drive rather than mixing Drive links + 21MB of attachments (close to Gmail's limit).
+- **Their cadence:** ~1 product/marketing video per month → X + YouTube, likely with paid promotion behind it. Spencer asked whether they also do internal / B2B client videos — awaiting answer (that's the retainer-expansion path).
+- **The opening:** Jim sent two CrowdReply product videos from X. Spencer re-voiced both and **sent samples 2026-08-28 14:14 (Lisbon)** to `jim@crowdreply.io`, subject "VO samples" — 2 re-voiced videos (Drive links) + 2 attached past jobs (Amazon AWS SageMaker overview, Artlist 2024). Warm casual note, no pricing, padel sign-off. **Status: awaiting reply.**
+- **Pricing plan:** one-off fair rate **~$350/video**; recurring retainer **$300/month** for 1 guaranteed video (24h turnaround, 12-mo rate lock); **~$275** per additional video same month. **Floor $250** — no mate's rates; VC-backed company, his credits justify it. Quote per-video first, then offer the retainer. No pricing in the first send. Confirm paid-media spend + usage term when pricing comes up (real ad spend → attach 12-mo digital usage, rate rises).
+- Note for next send: all files on Drive, not mixed Drive links + 21MB attachments (near Gmail's limit).
 
 ### Enterprise "#OnEveryCorner" — Voices.com case-study narration
-- **What:** Voices.com VoiceMatch job (90% match, ~28 responses). Internal case-study presentation for **Enterprise**'s #OnEveryCorner World Cup 2026 campaign (corner-kick sweepstakes w/ Kia). 370 words / ~2m28s. **Non-broadcast, in-perpetuity.** Requires a 1-hr Source Connect **directed session** this week. Deliver cleaned mix-ready WAVs. 2 rounds revisions for talent error; script changes billable. Budget stated $250–$499 (gross, incl. platform fee) but explicitly "quote as you see fit."
-- **Bingo's quote guidance (2026-08-28):** quote **$850** — $600 narration (2.5 min, non-broadcast, in-perp buyout) + $250 directed session. **Floor $600** ($400 + $200); pass below that (a directed session alone is worth $250 — their $499 ceiling can't cover session + perpetual buyout). Don't apologise for going over; they invited it.
-- **Status:** guidance given — Spencer deciding whether to audition/quote. If booked → another World Cup credit alongside the FIFA series; also a data point on what these jobs really pay.
-- **Their cadence:** ~1 product/marketing video per month, posted to X + YouTube, likely with paid promotion behind it. Spencer has asked whether they also do internal / B2B client videos — awaiting answer (that's the retainer-expansion path).
-- **Pricing plan (2026-08-28):** one-off fair rate **~$350/video**; recurring retainer **$300/month** for 1 guaranteed video (24h turnaround, rate locked 12 months); **~$275** per additional video in the same month. **Floor $250** — do not go "mate's rates" below that; it's a VC-backed company and Spencer's credits justify it. Quote per-video first, then offer the retainer as the better deal. No pricing in the first send — samples only. Confirm paid-media spend + usage term when pricing comes up (real ad spend → attach a 12-month digital usage term, rate goes up).
+- **What:** Voices.com VoiceMatch (90% match, ~28 responses). Internal case-study video for **Enterprise**'s #OnEveryCorner World Cup 2026 campaign (corner-kick sweepstakes w/ Kia). 370 words / ~2m28s. **Non-broadcast, in-perpetuity.** Requires a 1-hr Source Connect **directed session** this week. Cleaned mix-ready WAVs. 2 rounds revisions for talent error; script changes billable. Budget $250–$499 (gross, incl. platform fee) but explicitly "quote as you see fit."
+- **Bingo's quote guidance (2026-08-28):** quote **$850** — $600 narration (2.5 min, non-broadcast, in-perp buyout) + $250 directed session. **Floor $600** ($400 + $200); pass below that. Don't apologise for going over; they invited it.
+- **Status:** guidance given — Spencer deciding whether to audition/quote. If booked → another World Cup credit next to the FIFA series.
+
+### Father-daughter animated educational series — recurring character (Voices.com)
+- **What:** Voices.com (116 responses). Short-form animated educational series, international social-media release. **Recurring voice for "the father"** — warm, calm, human, "sounds like a father speaking to his daughter, not a narrator." Male, neutral English, middle age. 1 min/episode. **Usage: Cartoons / Online (organic social).** Budget **€150–249**.
+- **Bingo's quote guidance (2026-08-28):** treat as episodic content-series character work, NOT commercial — GFTB's €500 organic-video rate is the wrong comp. Fair: **€250–300/episode**, or a **batch session ~€300–350 covering 4–6 episodes** (better for a series). Their €249 ceiling ≈ bottom of Spencer's own recurring-content rate, so negotiate structure, don't walk. **Don't drop to €150/episode on singles** — that's batch-only territory. **Get the episode count + schedule in writing before building a rate.** Cap the licence at life-of-series; paid ads = separate fee; watch for a character-exclusivity ask (that's a premium).
+- **Status:** guidance given — Spencer deciding whether to audition/quote.
+
+### Walmart Marketplace Seller Summit — Voices.com internal video
+- **What:** Voices.com (116 responses). **Internal Video** — "Walmart Marketplace Seller Summit" (event/summit content for Walmart's 3rd-party Marketplace sellers). 100 words / ~0m40s. **Non-broadcast, in-perpetuity.** Budget **$500–$749** (gross).
+- **Bingo's quote guidance (2026-08-28):** budget is **at/above** fair market → **max it out**. Fair market ~$500 (GVAA non-broadcast up-to-1-min $250–350, +top-tier because it's a Walmart event piece, + in-perp buyout premium). Their ceiling is $749. **Quote $700** (upper end; $749 also defensible — Walmart + perpetual buyout). Show the fair-market breakdown so it's not arbitrary. **Flag:** confirm it's genuinely internal — if it goes seller-facing (YouTube / seller portal / recruitment), that's wider usage, quote separately ($900–1200+).
+- **Status:** guidance given — Spencer deciding whether to audition/quote.
 
 ## Standing action items
 

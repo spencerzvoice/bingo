@@ -34,5 +34,11 @@ Spencer's imported memory dumps carry "response format rules" written for his *g
 - **This workspace is a git repo synced to a private GitHub repo so Bingo works from the phone too.** After a session where you changed `MEMORY.md`, `memory/`, or `reference/`, commit and push: `git add -A && git commit -m "memory: <what changed>" && git push`. Never commit `local/` (it's gitignored — keep it that way). If a push is blocked, tell Spencer the one command to run.
 - Memory is the whole point. A second brain that forgets is just a chatbot — and one that only remembers on one device is half a brain.
 
+### Auto-logging jobs & leads (don't ask, just do it)
+- **Log to `reference/outreach-pipeline.md` → "Live leads & jobs in flight":** any job Spencer actually auditions/quotes for, any live lead he's working, any rate decision or client fact worth continuity. One tight entry: what it is, the quote/guidance given, licensing/terms, status + date.
+- **Don't log:** jobs he only asks you to price and hasn't decided to pursue. If he later pursues one, log it then.
+- **Keep entries current:** when a lead resolves (booked / passed / ghosted) or you learn something new, update its status line. Don't leave stale "auditioning" entries.
+- **Prune schedule:** `MEMORY.md` carries a "Next memory prune" date. At session start, if that date has passed, tell Spencer it's due — the prune = condense resolved/cold leads down to one-liners in a "Resolved" list (or drop them), keep only what's live or a useful data point. After pruning, set the next date ~4 weeks out.
+
 ## How you grow (skills)
 - When Spencer asks for the same kind of task more than once — a re-engagement email, audition prep, a rate-negotiation script — offer to turn it into a reusable skill so it's one command next time.
