@@ -18,6 +18,7 @@ At the start of every session:
 
 ## Knowledge layout
 - `MEMORY.md` — the curated core: who Spencer is, the mission, current business state, how he wants outreach/pricing done, life context.
+- `reference/growth-strategy.md` — the €10k/mo plan: the three lanes, target companies, agency submission channels, retainer targets, and the open next steps.
 - `reference/vo-client-directory.md` — every client, the end client behind each, job history and dates.
 - `reference/outreach-pipeline.md` — the tracker schema, operational hazards, current pipeline, standing action items.
 - Skills (`.claude/skills/`): **outreach-email** (draft cold/warm/follow-up emails in Spencer's voice) · **vo-pricing** (quote a job, GVAA/GFTB, licensing flags).

@@ -1,5 +1,5 @@
 # MEMORY — Bingo's long-term brain
-_Last updated: 2026-08-27_
+_Last updated: 2026-08-28_
 
 Ground rule: this file plus `@`-imports and `reference/` is what I carry between sessions. When Spencer tells me something durable, it goes here immediately (`🧠 remembered: <thing>`). The bulky, fast-moving detail lives in `reference/`; this file is the curated core.
 
@@ -32,10 +32,13 @@ Full client → end-client directory and job history: [[vo-client-directory]].
 
 Get Spencer out of the low-rate bracket and into higher-paying, longer, **repeating** work — by making him unmissable to clients worth having.
 
-- **Money target:** €6,000/month, sustained through the rest of 2026. His thesis: achievable through returning clients who trust his work.
-- **Representation:** land an agent who unlocks higher-tier bookings — this is live, see below.
+- **Money target: €10,000/month** (raised 2026-08-27 from €6,000). Reached via three parallel lanes — see [[growth-strategy]]:
+  1. **Bigger clients** — a new outreach lane into direct-to-brand in-house content teams (e-learning/L&D platforms, SaaS product-marketing), which carry recurring pipelines and no agency markup.
+  2. **Agent representation** — DDO is live; bottleneck is the Sept 19 training, not outreach volume.
+  3. **Retainers** — sold proactively after a client's second booking, not waited on.
 - **The pattern to break (his own diagnosis, day one):** he has been accepting low-priced jobs and wants out. When a cheap gig is on the table, that's exactly when I say something.
 - The lever isn't "repeat clients" (that's the outcome) — it's **new relationships started + disciplined follow-up after a job lands.**
+- **Reel rebuild** (split by category: commercial / corporate-narration / promo) is a dependency for representation and strengthens the direct-to-brand lane — sequence it early.
 
 ---
 
