@@ -60,8 +60,16 @@ _Auto-logged (see the memory protocol in CLAUDE.md). Keep status lines current; 
 
 ### Walmart Marketplace Seller Summit — Voices.com internal video
 - **What:** Voices.com (116 responses). **Internal Video** — "Walmart Marketplace Seller Summit" (event/summit content for Walmart's 3rd-party Marketplace sellers). 100 words / ~0m40s. **Non-broadcast, in-perpetuity.** Budget **$500–$749** (gross).
-- **Bingo's quote guidance (2026-08-28):** budget is **at/above** fair market → **max it out**. Fair market ~$500 (GVAA non-broadcast up-to-1-min $250–350, +top-tier because it's a Walmart event piece, + in-perp buyout premium). Their ceiling is $749. **Quote $700** (upper end; $749 also defensible — Walmart + perpetual buyout). Show the fair-market breakdown so it's not arbitrary. **Flag:** confirm it's genuinely internal — if it goes seller-facing (YouTube / seller portal / recruitment), that's wider usage, quote separately ($900–1200+).
-- **Status:** guidance given — Spencer deciding whether to audition/quote.
+- **Bingo's guidance (2026-08-28):** budget at/above fair market (~$500). With 116 bids, guidance was $600–625 to win; **Spencer quoted $700** (nets ~$560). Flag left in the quote: confirm genuinely internal — if seller-facing (YouTube / seller portal / recruitment) it's wider usage worth $900–1200+.
+- **Status:** quoted $700. Awaiting outcome.
+
+## Quick marketplace quote log
+
+Compact log of rapid-fire Voices.com / marketplace jobs Spencer prices with Bingo. Calibration since 2026-08-28: quote **fair-market-mid to win** (not the ceiling) on high-response jobs, keep a real floor, don't undercut. Prune resolved rows on the MEMORY.md schedule.
+
+| Date | Job | Format | Licence | Budget | Bingo quote | Floor | Outcome |
+|---|---|---|---|---|---|---|---|
+| 08-28 | "BRING IT!" initiative | Internal video, 309 wds / ~2m | Non-bcast, in-perp | $250–499 | **$475** | $350 | quoted / TBD |
 
 ## Standing action items
 
