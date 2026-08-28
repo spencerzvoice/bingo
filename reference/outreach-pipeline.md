@@ -99,7 +99,7 @@ Melissa Gillis (ATTN, mgillis@attn.com — end client Pawstruck) · Rebeccah She
 
 **Now redundant — same company already contacted, skip unless Spencer wants a second touch:** David Martin (ShadowLion — Jeff Fine already sent the same ESPN/Champ Fund reconnect Aug 26; Ryan Lago active) · Kayla Gremer Foreid (Diamond View — Jeff McKown already active; Kimley-Horn/Jordan Deva already replied) · Ruthie Mason (Coronation — Haley Rossi already reconnected Aug 26 with the same Mount St. Mary's reference).
 
-**Low priority:** Luke Mellows + Luke O'Reilly (Noah Media — both "pick-ups/rewrites" contacts, ~100+ days quiet). If reconnecting with Noah Media, hit **Eve O'Sullivan** (primary VO coordinator) instead — the whole Noah cluster (6 contacts) has had no touch since May–June.
+**Low priority:** Luke Mellows + Luke O'Reilly (Noah Media — both "pick-ups/rewrites" contacts, ~100+ days quiet). The whole Noah cluster has had no touch since May–June; if reconnecting, **Dan Shaw or Neil Housley** are the production contacts (Eve O'Sullivan has left Noah — removed from tracker 2026-08-28).
 
 **Held:** Andrew Davis (Cheil — not casting-focused, deprioritized) · Janet Bell Anderson (Team One — wait until cast). **Excluded:** Tony / Vishuddha.
 
