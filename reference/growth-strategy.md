@@ -58,7 +58,16 @@ The current pipeline (Cheil, Team One, Untold, Octagon, Anomaly) is **ad agencie
 
 Sell retainers **proactively after a client's second booking** — a scoped monthly package (e.g. "X finished minutes/month, guaranteed 24h turnaround, locked rate"). Don't wait for the client to ask.
 
-**Retainer-ready now** (recurring work + established relationship): Noah Media Group (FIFA series, 5 contacts) · Dove Street Films (same series, separate producer) · Shadow Lion (Ryan Lago, 9 threads) · Xpedition Media (net-14 terms set) · Tony Beck (8 threads, active paid) · Condado Tacos / Pentak (Sara Kear + Craig) · Acclaim Lighting · Diamond View (Jeff McKown, project in progress). Lori Lins Ltd isn't a retainer target but is worth a standing "priority responder" arrangement.
+**Reality check (Spencer, 2026-08-28):** the "retainer-ready" list below (carried over from the strategy doc / client data) is **overstated**. Most of these were single projects or have already been re-approached with no live opening:
+- **Noah Media Group** — the FIFA Preview Series was *one* large project (~£12k then £9k), not recurring work. Not a retainer candidate.
+- **Shadow Lion** — already re-approached.
+- **Xpedition Media** — was the recurring one (YouTube / C-SPAN) but framed past-tense; pipeline may have dried up. Confirm before treating as live.
+- **Tony Beck** — the French-market connection (did Venum with him). One relationship, not retainer-shaped.
+- **Condado Tacos / Pentak** — re-approached; replied "nothing right now, will reach out in future." Not actionable now.
+- **Dove Street Films** — Spencer doesn't recall the engagement. Low priority.
+- Acclaim Lighting, Diamond View — periodic/project, not obviously retainer material either.
+
+**So Lane 3 is not where the near-term action is.** Revisit specific names only when a *second* live booking actually lands. The retainer *play* (proactive scoped-package pitch after booking #2) still stands as a rule — it just doesn't have ready targets today.
 
 **Warm, not yet recurring — re-approach in 60–90 days:** Kimley-Horn (Jordan Deva), Archetype (Mike Milburn), Wild Creative, IMG/EuroLeague.
 

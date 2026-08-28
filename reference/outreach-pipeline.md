@@ -36,6 +36,15 @@ The live CRM for Spencer's outreach. **The Google Sheet is ground truth** — Sp
 - **Old Client Reconnect:** Melissa Gillis (ATTN), Rebeccah Sheridan (CGI), Evan Kay (Climb High), Ruthie Mason (Coronation), Kayla Gremer Foreid (Diamond View), Erin Daughenbaugh (EDP), Mel Kane (Invision), Lucas Bertoli (Laundry Design), Taylor Ballam (Modo), Evan Romoff (Romoff Media), Mackenzie Prokos (Rune Haus), David Martin (ShadowLion), Devin Leisher (TBC), Dan Haas (ATTN — sent), Deb (Kanahoma — sent).
 - **Professional Development:** Elaine Craig (registered, Sept 19), Carrie Faverty (fall dates pending).
 
+## Live leads (not yet in the sheet)
+
+### CrowdReply — first Lane 1 (direct-to-brand) opportunity
+- **Contact:** Jim Loining ("Jim L"), **co-founder**, 20s. Met in person 2026-08-28 (padel). Also runs a separate side project, BambooVPN.
+- **Company:** CrowdReply (crowdreply.io) — AI-search-visibility / GEO-AEO platform (get your brand cited by ChatGPT, Perplexity, Gemini, Claude) + Reddit/social listening + backlinks marketplace. Founded Feb 1 2025 by Jim Loining + Dawood Khan. Seed-stage, NZ-linked (Icehouse Ventures), content-marketing-heavy — claims "5,000+ brands" (marketing figure, ~18-month-old company).
+- **The opening:** Jim sent Spencer two of their product videos from X. Spencer is re-recording the VO for both and sending them back, plus a third sample from the Artlist job (similar vein). Goal: land the recurring monthly video, then expand.
+- **Their cadence:** ~1 product/marketing video per month, posted to X + YouTube, likely with paid promotion behind it. Spencer has asked whether they also do internal / B2B client videos — awaiting answer (that's the retainer-expansion path).
+- **Pricing plan (2026-08-28):** one-off fair rate **~$350/video**; recurring retainer **$300/month** for 1 guaranteed video (24h turnaround, rate locked 12 months); **~$275** per additional video in the same month. **Floor $250** — do not go "mate's rates" below that; it's a VC-backed company and Spencer's credits justify it. Quote per-video first, then offer the retainer as the better deal. No pricing in the first send — samples only. Confirm paid-media spend + usage term when pricing comes up (real ad spend → attach a 12-month digital usage term, rate goes up).
+
 ## Standing action items
 
 1. **Fix + resend bounced emails:** Maya Roberts, Tami Hachiya, Janae David (Team One — pattern `firstname.lastname@teamone-usa.com` but these bounced; verify via Hunter.io), Nathan Mallon (The Team — Mimecast `550 5.4.1` rejection), Anna Jacobsen (Tellary — try `poullet@tellary.com` or `tellyourstory@tellary.com`).
