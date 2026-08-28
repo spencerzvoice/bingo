@@ -88,12 +88,12 @@ _BRING IT! note: adding the directed session flips this from "inside budget" to 
 7. Submit the Gmail-connector bug report to Anthropic support if not already done.
 8. Track the Sept 19 Elaine Craig workshop → resubmit to Allie Silber at DDO afterward.
 
-## Unsent reconnect drafts — cross-checked against the live tracker 2026-08-28
+## Reconnect drafts — 10 SENT 2026-08-28, follow-up window ~Sept 4–7
 
-Original list was ~18 (from the memory import). After checking the current sheet:
+Original list was ~18 (from the memory import). After checking the live sheet: 2 already sent, 3 redundant, 3 held. The remaining 10 **were all sent 2026-08-28 ~17:50 (Lisbon)**:
+Melissa Gillis (ATTN — Pawstruck) · Rebeccah Sheridan (CGI — Dell) · Evan Kay (Climb High — OutThere) · Erin Daughenbaugh (EDP — Informatica) · Mel Kane (Invision — Gilead) · Lucas Bertoli (Laundry Design — Fred & Ted/Informatica) · Taylor Ballam (Modo — NordicTrack) · Evan Romoff (Romoff Media — DPSCS) · Mackenzie Prokos (Rune Haus — Woodward) · Devin Leisher (TBC — ADA "We Fight").
 
-**Send these 10 — genuinely unsent, no conflict:**
-Melissa Gillis (ATTN, mgillis@attn.com — end client Pawstruck) · Rebeccah Sheridan (CGI Interactive, rsheridan@cgiinteractive.com — Dell) · Evan Kay (Climb High, evan@climbhighproductions.com — OutThere) · Erin Daughenbaugh (EDP Inc, edaughenbaugh@gmail.com — Informatica) · Mel Kane (Invision, mkane@iv.com — Gilead) · Lucas Bertoli (Laundry Design, lucas@laundrymat.tv — Fred & Ted/Informatica) · Taylor Ballam (Modo Studios, taylor@modostudios.com — NordicTrack) · Evan Romoff (Romoff Media, evan@romoffmedia.com — DPSCS) · Mackenzie Prokos (Rune Haus, makenzie@runehauscreative.com — Woodward) · Devin Leisher (TBC, dleisher@tbc.us — ADA "We Fight").
+**Tone review of what went out (for follow-up calibration):** solid and on-brand — correct formal/casual opener by recipient, specific past-project named, genuine news hooks where found (ATTN independence, Invision Inc. recognition), right sign-off. Two misses to fix on the follow-ups: (1) the middle paragraph ("kept busy with a mix of commercial and sports/tech work… FIFA/AWS/NordicTrack") was **verbatim identical across all 10** — batch skeleton, against his own rule; vary the credits to match each recipient's world (corporate credits for Gilead/Informatica contacts, commercial for agencies). (2) the casual ones closed with "I'd love to be considered again" — which his own style rule explicitly says *not* to use; use "please keep me in mind" / "Hope to hear from you soon!". Also: give the follow-up an active, zero-friction close (offer an updated demo / "send anything on your slate my way").
 
 **Already sent (drop from list):** Jeff McKown (Diamond View — checked in Aug 27) · Lilah Kohlman (Altra — checked in Aug 27).
 
