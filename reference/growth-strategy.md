@@ -35,7 +35,35 @@ The current pipeline (Cheil, Team One, Untold, Octagon, Anomaly) is **ad agencie
 - **No pricing in the first touch.**
 - Otherwise follows the standard `outreach-email` skill rules.
 
-**Contact sourcing:** needs the desktop LinkedIn People-tab + title-pass workflow (per the standing lead-finding process — People tab, title-specific passes, cross-check theorg.com and trade press). Not doable from a mobile/chat session.
+**Contact sourcing:** needs the desktop LinkedIn People-tab + title-pass workflow (per the standing lead-finding process — People tab, title-specific passes, cross-check theorg.com and trade press). Web search alone only returns fragments.
+
+### Lane 1 — prioritized target list (built 2026-08-29)
+
+**SEQUENCING NOTE (Bingo):** this lane produces *nothing* in the Sept–Oct downpayment window — cold outreach to in-house teams is a months-long build at ~1–3% hit rate. Don't spend this week on it. This week = the mortgage calls (Ricardo/Zé) + the warm follow-ups (10 reconnects due ~Sept 5, Janae David ~Sept 5). Run Lane 1 *after* the downpayment picture is settled. And layer it: cold email, **plus** mine his own network (padel → CrowdReply, LinkedIn → Janae — his warm wins all came from people, not cold) and ask current clients for warm intros to in-house teams.
+
+**Titles to run at every company:** Video Producer / Senior Video Producer · Content Producer · Head of Content · Head of Video · Brand Studio Lead / Creative Director, Brand · Content Marketing Manager · (e-learning) Learning Experience Producer / Head of Curriculum Production.
+
+**SaaS product-marketing (do first — monthly release cadence = natural retainer):**
+| Rank | Company | Notes / starting points |
+|---|---|---|
+| 1 | **HubSpot** | Massive in-house video/content org ("HubSpot Media"), actively hiring Senior Video Producers → live pipeline + a hiring manager to find. Named: Nelson Chacón (content strategist, corp YouTube). |
+| 2 | **Canva** | Huge video output, growing brand studio. |
+| 3 | **Notion** | Active brand/creative team. Named: Katie Chang (brand & integrated marketing), Andrea Lim (creative strategy). (Camille Ricketts has left — don't use.) |
+| 4 | **Figma** | Strong brand team, lots of product-launch video. |
+| 5–8 | Asana · Monday.com · Atlassian · Zoom | Second tier — same approach. |
+
+**E-learning / L&D (batch-narration model, project not retainer):**
+| Rank | Company | Notes |
+|---|---|---|
+| 1 | **Pluralsight** | Tech-skills, huge volume of narrated course video. |
+| 2 | **Coursera** | Biggest; industry + university course production. |
+| 3 | **Articulate** | Makes e-learning authoring tools — maximally on-brand; also produces its own marketing video. |
+| 4–8 | Udemy Business · LinkedIn Learning · Go1 · Docebo · 360Learning | Second tier. |
+
+**The pitch per category:**
+- **SaaS:** "One warm, credible voice across everything you ship — per-release explainer/feature VO, onboarding, demos. 24-hour turnaround, locked monthly rate." Attach a custom 20–30 sec sample reading copy from *one of their actual videos*.
+- **E-learning:** "On-call narrator for one course category (e.g. business / professional development) — consistent voice, batched monthly." Sample from one of their actual modules.
+- Cold email to a *named* person, never a general inbox. Subject references their real recent content. No pricing in the first touch.
 
 ---
 
