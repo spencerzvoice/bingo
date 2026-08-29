@@ -49,10 +49,11 @@ _Auto-logged (see the memory protocol in CLAUDE.md). Keep status lines current; 
 - Note for next send: all files on Drive, not mixed Drive links + 21MB attachments (near Gmail's limit).
 
 ### Janae David (Team One, Producer) — warm LinkedIn lead
-- **Status:** replied on LinkedIn **Aug 28** — apologised for the delay, thanked Spencer for following up, **asked for his reel**. Spencer sent reel + reply on LinkedIn **Aug 29**. Best forward motion out of the whole Team One push (the other 4 Team One contacts silent since Aug 24).
-- **Channel:** LinkedIn DM only — her email `janae.david@teamone-usa.com` **bounces**. Get a working address via Hunter.io before any real project comms.
-- **Next:** don't chase. ~1 week after she has the reel, one light touch ("happy to put down a custom read of anything on your slate"). A producer with the reel on file = warm asset, let it sit warm.
-- **Dependency:** this makes the **commercial reel cut** live-priority — Team One does commercial/broadcast; a tailored cut wins here, not the general reel.
+- **Status:** replied on LinkedIn **Aug 28** — apologised for the delay, thanked Spencer for following up, **asked for his reel**. **Aug 29: Spencer sent the reel link + a short warm reply on LinkedIn** ("thanks for getting back to me, no worries on the delay… here's the link"). Reel sent = `Spencer Pearman Voiceover Reel 2026.mov` (Drive file `1c7_eCvNwox47JShpSUZjrGTjIggKSE1j`, "anyone with link" — verified viewable). Best forward motion of the whole Team One push (other 4 Team One contacts silent since Aug 24).
+- **Note:** the file she got is titled "Voiceover Reel 2026", not "Commercial". Renaming the Drive file retroactively changes what she sees on open — offered, pending Spencer confirming it's the commercial cut.
+- **Channel:** LinkedIn DM only — her email `janae.david@teamone-usa.com` **bounces**. Get a working address via Hunter.io before real project comms.
+- **Next:** don't chase. ~1 week out (≈Sept 5), one light touch — "happy to put down a custom read of anything on your slate." Producer with reel on file = warm asset; let it sit warm.
+- **Dependency:** keeps the **commercial reel cut** live-priority for the wider Team One / agency push.
 
 ### Enterprise "#OnEveryCorner" — Voices.com case-study narration
 - **What:** Voices.com VoiceMatch (90% match, ~28 responses). Internal case-study video for **Enterprise**'s #OnEveryCorner World Cup 2026 campaign (corner-kick sweepstakes w/ Kia). 370 words / ~2m28s. **Non-broadcast, in-perpetuity.** Requires a 1-hr Source Connect **directed session** this week. Cleaned mix-ready WAVs. 2 rounds revisions for talent error; script changes billable. Budget $250–$499 (gross, incl. platform fee) but explicitly "quote as you see fit."
