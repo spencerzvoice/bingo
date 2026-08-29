@@ -49,8 +49,7 @@ _Auto-logged (see the memory protocol in CLAUDE.md). Keep status lines current; 
 - Note for next send: all files on Drive, not mixed Drive links + 21MB attachments (near Gmail's limit).
 
 ### Janae David (Team One, Producer) — warm LinkedIn lead
-- **Status:** replied on LinkedIn **Aug 28** — apologised for the delay, thanked Spencer for following up, **asked for his reel**. **Aug 29: Spencer sent the reel link + a short warm reply on LinkedIn** ("thanks for getting back to me, no worries on the delay… here's the link"). Reel sent = `Spencer Pearman Voiceover Reel 2026.mov` (Drive file `1c7_eCvNwox47JShpSUZjrGTjIggKSE1j`, "anyone with link" — verified viewable). Best forward motion of the whole Team One push (other 4 Team One contacts silent since Aug 24).
-- **Note:** the file she got is titled "Voiceover Reel 2026", not "Commercial". Renaming the Drive file retroactively changes what she sees on open — offered, pending Spencer confirming it's the commercial cut.
+- **Status:** replied on LinkedIn **Aug 28** — apologised for the delay, thanked Spencer for following up, **asked for his reel**. **Aug 29: Spencer sent his commercial reel link + a short warm reply on LinkedIn** ("thanks for getting back to me, no worries on the delay… here's the link"). Reel = Drive file `1c7_eCvNwox47JShpSUZjrGTjIggKSE1j` (his **commercial cut**, confirmed; Spencer renamed the file himself; "anyone with link" — verified viewable). Best forward motion of the whole Team One push (other 4 Team One contacts silent since Aug 24).
 - **Channel:** LinkedIn DM only — her email `janae.david@teamone-usa.com` **bounces**. Get a working address via Hunter.io before real project comms.
 - **Next:** don't chase. ~1 week out (≈Sept 5), one light touch — "happy to put down a custom read of anything on your slate." Producer with reel on file = warm asset; let it sit warm.
 - **Dependency:** keeps the **commercial reel cut** live-priority for the wider Team One / agency push.
