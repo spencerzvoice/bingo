@@ -60,6 +60,21 @@ The current pipeline (Cheil, Team One, Untold, Octagon, Anomaly) is **ad agencie
 | 3 | **Articulate** | Makes e-learning authoring tools — maximally on-brand; also produces its own marketing video. |
 | 4–8 | Udemy Business · LinkedIn Learning · Go1 · Docebo · 360Learning | Second tier. |
 
+### Lane 1 — named contacts (web-sourced 2026-08-29, currency NOT yet verified)
+
+Found via web/press/blog bylines only — NOT LinkedIn (Bingo won't automate Spencer's account; a throwaway account was ruled out — I don't create accounts / enter login passwords, and it's ToS-evasion). Spencer to run his own logged-in People-tab passes for density; these are the starting seeds. **Every name needs a "still there?" check and every email a Hunter.io verify before sending.**
+
+| Company | Name | Role (as found) | Email pattern (verify in Hunter) |
+|---|---|---|---|
+| HubSpot | Nelson Chacón (Guzmán) | Lead content strategist, corporate YouTube (HubSpot Media) | `flast@hubspot.com` / `first.last@hubspot.com` — HubSpot also actively hiring Sr Video Producers, a hiring manager exists |
+| Notion | Katie Chang | Brand & integrated marketing | `first@makenotion.com` |
+| Notion | Andrea Lim | Creative strategy | `first@makenotion.com` |
+| Figma | Sydney Halle | Brand Producer, Brand Studio (runs product-launch video) — **strongest fit** | `first@figma.com` |
+| Pluralsight | Chris Colucci | Senior Video Content Editor (IC, not lead) | `first.last@pluralsight.com` |
+| Articulate | Callie Hawley | Director, Content Marketing | `flast@articulate.com` / `first.last@articulate.com` |
+| Canva | — (open "Director of Video Content" role, Sydney; Brand Studio "Manila Squad"; SF Creative Production Team) | need People-tab | `first.last@canva.com` |
+| Coursera | — (web search SEO-drowned by course catalog) | need People-tab | `flast@coursera.org` |
+
 **The pitch per category:**
 - **SaaS:** "One warm, credible voice across everything you ship — per-release explainer/feature VO, onboarding, demos. 24-hour turnaround, locked monthly rate." Attach a custom 20–30 sec sample reading copy from *one of their actual videos*.
 - **E-learning:** "On-call narrator for one course category (e.g. business / professional development) — consistent voice, batched monthly." Sample from one of their actual modules.
