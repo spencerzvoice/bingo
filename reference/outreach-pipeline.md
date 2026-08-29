@@ -48,6 +48,12 @@ _Auto-logged (see the memory protocol in CLAUDE.md). Keep status lines current; 
 - **Pricing plan:** one-off fair rate **~$350/video**; recurring retainer **$300/month** for 1 guaranteed video (24h turnaround, 12-mo rate lock); **~$275** per additional video same month. **Floor $250** — no mate's rates; VC-backed company, his credits justify it. Quote per-video first, then offer the retainer. No pricing in the first send. Confirm paid-media spend + usage term when pricing comes up (real ad spend → attach 12-mo digital usage, rate rises).
 - Note for next send: all files on Drive, not mixed Drive links + 21MB attachments (near Gmail's limit).
 
+### Janae David (Team One, Producer) — warm LinkedIn lead
+- **Status:** replied on LinkedIn **Aug 28** — apologised for the delay, thanked Spencer for following up, **asked for his reel**. Spencer sent reel + reply on LinkedIn **Aug 29**. Best forward motion out of the whole Team One push (the other 4 Team One contacts silent since Aug 24).
+- **Channel:** LinkedIn DM only — her email `janae.david@teamone-usa.com` **bounces**. Get a working address via Hunter.io before any real project comms.
+- **Next:** don't chase. ~1 week after she has the reel, one light touch ("happy to put down a custom read of anything on your slate"). A producer with the reel on file = warm asset, let it sit warm.
+- **Dependency:** this makes the **commercial reel cut** live-priority — Team One does commercial/broadcast; a tailored cut wins here, not the general reel.
+
 ### Enterprise "#OnEveryCorner" — Voices.com case-study narration
 - **What:** Voices.com VoiceMatch (90% match, ~28 responses). Internal case-study video for **Enterprise**'s #OnEveryCorner World Cup 2026 campaign (corner-kick sweepstakes w/ Kia). 370 words / ~2m28s. **Non-broadcast, in-perpetuity.** Requires a 1-hr Source Connect **directed session** this week. Cleaned mix-ready WAVs. 2 rounds revisions for talent error; script changes billable. Budget $250–$499 (gross, incl. platform fee) but explicitly "quote as you see fit."
 - **Bingo's quote guidance (2026-08-28):** quote **$850** — $600 narration (2.5 min, non-broadcast, in-perp buyout) + $250 directed session. **Floor $600** ($400 + $200); pass below that. Don't apologise for going over; they invited it.
