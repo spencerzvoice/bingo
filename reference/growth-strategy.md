@@ -13,85 +13,83 @@ From a strategy session 2026-08-27. This is the plan Bingo is executing toward. 
 
 ## Lane 1 — Direct-to-brand in-house teams (the new lane)
 
-The current pipeline (Cheil, Team One, Untold, Octagon, Anomaly) is **ad agencies** — project-based, no retainer, agency markup in between. The second lane goes after **in-house content teams** with recurring pipelines and budget that isn't filtered through an agency.
+The current pipeline (Cheil, Team One, Untold, Octagon, Anomaly) is **ad agencies** — project-based, no retainer, agency markup in between. Lane 1 goes after **in-house content teams** with recurring video pipelines and budget that isn't filtered through an agency. Proof it works: Janae David (Team One producer) asked for his reel off a cold email.
 
-**Target titles:** Video Producer · Content Producer · Learning Experience Producer · Brand Studio Lead · Head of Content.
+**Sequencing:** work the funnels in this order — **B → A → D → C → E.** B and A (SaaS) first: monthly release cadence = the best retainer fit, and his commercial reel lands cleanest there. E (streaming) is a separate later lane, connections only. (Also keep the downpayment priorities in front: mortgage calls + warm follow-ups don't stop for this.)
 
-**E-learning / corporate L&D platforms:** Coursera, Udemy Business, LinkedIn Learning, Pluralsight, Go1, Docebo, 360Learning, Articulate.
-- Pitch: on-call narrator for **one course category** (e.g. business / professional development), not the whole platform.
-- Deliverable: 2–5 min module narration, batched monthly.
+---
 
-**SaaS product-marketing teams:** HubSpot, Notion, Figma, Asana, Atlassian, Zoom, Canva, Monday.com.
-- They run on a release cadence (monthly / per-sprint) — a natural retainer fit.
-- Deliverable: 60–90 sec explainer VO per feature release; onboarding / tutorial VO; demo VO.
+### THE TARGET MAP — funnel → companies → positions to search
 
-**Streaming / media in-house promo (low priority):** Netflix, Max (WBD), Prime Video — mostly routed through trailer houses (Trailer Park, Mob Scene, Buddha Jones), not direct in-house. Skip unless a trailer-house connection turns up.
+#### Funnel A — SaaS product marketing, design-led (brand-studio culture)
+**Companies:** Figma · Notion · Linear · Vercel · Framer · Webflow · Miro
+**Search these titles (priority order):**
+1. Brand Producer / Senior Brand Producer
+2. Creative Producer
+3. Producer, Brand Studio · Brand Studio Lead
+4. Creative Director, Brand
+5. (fallback) Head of Brand
+**Pitch:** recurring voice across product-launch films, feature explainers, brand video. Custom sample from a recent launch video.
 
-**Outreach approach for this lane:**
-- Cold email to a **named person**, never a general inbox.
-- **One** specific offer.
-- **One custom 20-second sample** reading actual copy pulled from their own site / app / platform — not the general demo reel.
-- Subject line references their real recent content.
-- **No pricing in the first touch.**
-- Otherwise follows the standard `outreach-email` skill rules.
+#### Funnel B — SaaS product marketing, formal in-house video team / "Studio"
+**Companies:** HubSpot · Atlassian · Canva · Asana · Monday.com · Zoom · Airtable · ClickUp · Zapier · Grammarly · Calendly · Descript · Loom
+**Search these titles (priority order):**
+1. Video Producer / Senior Video Producer / Video Content Producer
+2. Multimedia Producer
+3. Head of Video · Director of Video · Senior Manager, Video
+4. Executive Producer, [Content / Brand] Studio  *(HubSpot = "HubSpot Media"; Atlassian = "Content Studio")*
+5. (fallback) Senior Content Marketing Manager (Video)
+**Pitch:** recurring voice for per-release explainers, demos, tutorials, onboarding. 24h turnaround, locked monthly rate. Custom sample from a recent product video.
 
-**Contact sourcing:** needs the desktop LinkedIn People-tab + title-pass workflow (per the standing lead-finding process — People tab, title-specific passes, cross-check theorg.com and trade press). Web search alone only returns fragments.
+#### Funnel C — E-learning platforms
+**Companies:** Coursera · Udemy / Udemy Business · Pluralsight · LinkedIn Learning · edX · Skillshare
+**Search these titles — MARKETING side only:**
+1. Brand Video Producer · Video Producer, Marketing
+2. Senior Producer, Brand · Creative Producer
+3. Director, Content Marketing · Head of Brand
+4. (fallback) Content Marketing Manager (Video)
+**EXCLUDE:** Instructional Designer · Learning Experience Designer · Curriculum Producer · Course Production · Learning Content — that content is instructor- or staff-narrated, not open to an external VO.
+**Pitch:** recurring voice for their **brand / marketing** video (product tours, customer stories, campaign films) — *not* course narration.
 
-### Lane 1 — prioritized target list (built 2026-08-29)
+#### Funnel D — Corporate L&D / training software
+**Companies:** Articulate · Docebo · 360Learning · Go1 · Cornerstone OnDemand · Absorb LMS · TalentLMS (Epignosis)
+**Search these titles:**
+1. Video Producer · Multimedia Producer (Marketing)
+2. Content Marketing Manager · Director of Content Marketing
+3. Brand Lead · Creative Lead
+4. (fallback) Head of Content
+*Articulate also produces sample/demo course content → "Video Design" / "Brand & Video" roles apply there too.*
+**Pitch:** recurring voice for product demos, webinars, explainer & thought-leadership video. (Articulate: add example-course narration.)
 
-**SEQUENCING NOTE (Bingo):** this lane produces *nothing* in the Sept–Oct downpayment window — cold outreach to in-house teams is a months-long build at ~1–3% hit rate. Don't spend this week on it. This week = the mortgage calls (Ricardo/Zé) + the warm follow-ups (10 reconnects due ~Sept 5, Janae David ~Sept 5). Run Lane 1 *after* the downpayment picture is settled. And layer it: cold email, **plus** mine his own network (padel → CrowdReply, LinkedIn → Janae — his warm wins all came from people, not cold) and ask current clients for warm intros to in-house teams.
+#### Funnel E — Streaming / promo & trailers  *(SEPARATE LANE — later, low priority, warm connections only)*
+**In-house streamers:** Netflix · Max (WBD) · Prime Video · Disney+ · Hulu · Paramount+ · Apple TV+ → *Promo Producer · On-Air Promo Producer · Creative Producer, Marketing · VP Creative Marketing*
+**Trailer houses (where promo VO is actually cast):** Trailer Park Group · Mob Scene · Buddha Jones · Create Advertising · AV Squad · Wild Card · Mocean · Ignition Creative → *Creative Director · Producer · Executive Producer · Head of Production*
+**Reality:** promo/trailer VO is its own casting world (agents, dedicated promo demos). Cold email is weak here — only pursue through a warm intro.
 
-**Titles to run at every company:** Video Producer / Senior Video Producer · Content Producer · Head of Content · Head of Video · Brand Studio Lead / Creative Director, Brand · Content Marketing Manager · (e-learning) Learning Experience Producer / Head of Curriculum Production.
+---
 
-**SaaS product-marketing (do first — monthly release cadence = natural retainer):**
-| Rank | Company | Notes / starting points |
-|---|---|---|
-| 1 | **HubSpot** | Massive in-house video/content org ("HubSpot Media"), actively hiring Senior Video Producers → live pipeline + a hiring manager to find. Named: Nelson Chacón (content strategist, corp YouTube). |
-| 2 | **Canva** | Huge video output, growing brand studio. |
-| 3 | **Notion** | Active brand/creative team. Named: Katie Chang (brand & integrated marketing), Andrea Lim (creative strategy). (Camille Ricketts has left — don't use.) |
-| 4 | **Figma** | Strong brand team, lots of product-launch video. |
-| 5–8 | Asana · Monday.com · Atlassian · Zoom | Second tier — same approach. |
+### Named contacts so far (from web search — thin; the funnel search above is the real source)
 
-**E-learning / L&D (batch-narration model, project not retainer):**
-| Rank | Company | Notes |
-|---|---|---|
-| 1 | **Pluralsight** | Tech-skills, huge volume of narrated course video. |
-| 2 | **Coursera** | Biggest; industry + university course production. |
-| 3 | **Articulate** | Makes e-learning authoring tools — maximally on-brand; also produces its own marketing video. |
-| 4–8 | Udemy Business · LinkedIn Learning · Go1 · Docebo · 360Learning | Second tier. |
-
-### Lane 1 — named contacts (web-sourced 2026-08-29, currency NOT yet verified)
-
-Found via web/press/blog bylines only — NOT LinkedIn (Bingo won't automate Spencer's account; a throwaway account was ruled out — I don't create accounts / enter login passwords, and it's ToS-evasion). Spencer to run his own logged-in People-tab passes for density; these are the starting seeds. **Every name needs a "still there?" check and every email a Hunter.io verify before sending.**
-
-**Batch 1 — CONTACTED / ready (emails Hunter-verified by Spencer 2026-08-30):**
-| Company | Name | Role | Email | Email drafted |
+**Batch 1 — emails Hunter-verified by Spencer 2026-08-30, drafts written, NOT yet sent (Spencer re-targeting first):**
+| Company | Name | Role | Email | Verdict |
 |---|---|---|---|---|
-| Figma | Sydney Halle | Brand Producer, Brand Studio | **shalle@figma.com** | ✅ sent to Spencer |
-| Canva | Karine Pawel | Senior Producer | **kpawel@canva.com** | ✅ |
-| HubSpot | Nelson Chacón | Lead content strategist, corp YouTube (HubSpot Media) | **nchacon@hubspot.com** | ✅ |
-| Notion | Katie Chang | Brand & integrated marketing | **katie@makenotion.com** | ✅ |
-| Pluralsight | Chris Colucci | Senior Video Content Editor | **chris-colucci@pluralsight.com** | ✅ |
-| Articulate | Callie Hawley | Director, Content Marketing | **chawley@articulate.com** | ✅ |
+| Figma | Sydney Halle | Brand Producer, Brand Studio | shalle@figma.com | **strong** — direct target |
+| Canva | Karine Pawel | Senior Producer | kpawel@canva.com | **strong** if she's creative/video |
+| HubSpot | Nelson Chacón | Lead content *strategist*, corp YouTube | nchacon@hubspot.com | weak — strategist not producer; find a HubSpot Media video producer |
+| Notion | Katie Chang | Brand & integrated marketing | katie@makenotion.com | OK — marketing lead; small team so workable |
+| Pluralsight | Chris Colucci | Senior Video Content *Editor* | chris-colucci@pluralsight.com | weak — editor, doesn't cast VO; find their marketing brand-video producer |
+| Articulate | Callie Hawley | Director, Content Marketing | chawley@articulate.com | decent — a director who can bring in a vendor |
+| Asana | Matt Maynard | Head of Brand & Advertising | mmaynard@asana.com *(verify)* | decent — senior, sets the roster |
 
-**Batch 2 — names found, emails NOT yet verified:**
-| Company | Name | Role | Email pattern (verify) |
-|---|---|---|---|
-| Asana | Matt Maynard | Head of Brand & Advertising (decision-maker for brand video — good target) | `mmaynard@asana.com` / `matt.maynard@` |
-| Udemy | Zane Vella | Head of Content, Instructor & Creator Strategy (appointed Aug 2025) | `zvella@udemy.com` / `zane.vella@` |
-| Notion | Andrea Lim | Creative Strategy (secondary Notion contact) | `andrea@makenotion.com` |
-| Atlassian | Natalie Mendes · Claire Drumond | Content/brand marketing (roles unconfirmed — Atlassian has a "Content Studio" team) | `first.last@atlassian.com` / `flast@` |
+**Dropped:** Andrea Lim (Notion — left 2024). Zane Vella (Udemy — marketplace-strategy role, not marketing video). Natalie Mendes / Claire Drumond (Atlassian — roles unconfirmed).
 
-**GAPS — web search can't crack these (course-catalog SEO / mid-level roles only on LinkedIn People tab). Need Apollo/Hunter domain search:**
-Coursera · LinkedIn Learning · Go1 · Docebo · 360Learning · Monday.com · Zoom.
-Adjacent SaaS worth adding to the Apollo run (high monthly video cadence): Loom · Webflow · Miro · ClickUp · Airtable · Descript · Vercel · Linear · Zapier · Grammarly · Calendly · Framer.
+### Sourcing method
+Web search is a dead end for mid-level named producers (SEO + job posts). **The real source is a LinkedIn People-tab pass or Apollo/Hunter domain search, run by Spencer, per company, using the funnel titles above.** He exports name + exact title + location to an Excel and hands it to Bingo. Bingo filters to the best target per company and writes each email.
 
-**Apollo run settings (do once, ~15 min):** for each company — Filters: Company = [name], Job title = "video producer" OR "content producer" OR "senior producer" OR "head of content" OR "brand content" OR "content marketing manager" OR "multimedia producer". Export names + titles + emails. Paste raw to Bingo → drafts back same session.
-
-**The pitch per category:**
-- **SaaS:** "One warm, credible voice across everything you ship — per-release explainer/feature VO, onboarding, demos. 24-hour turnaround, locked monthly rate." Attach a custom 20–30 sec sample reading copy from *one of their actual videos*.
-- **E-learning:** "On-call narrator for one course category (e.g. business / professional development) — consistent voice, batched monthly." Sample from one of their actual modules.
-- Cold email to a *named* person, never a general inbox. Subject references their real recent content. No pricing in the first touch.
+### Outreach approach + email angle
+- Cold email to a **named person**, never a general inbox. Subject references their real recent content. **No pricing first touch.** One specific offer. Offer a **custom 20–30 sec sample** reading copy from one of *their* videos.
+- **Sell the voice, not "a consistent voice."** The core paragraph, in Spencer's words: *a warm, deep baritone — familiar enough to feel like someone the viewer already knows, polished enough to carry a premium brand; the register that gets people to lean in rather than tune out an announcer.*
+- Formal opener for women / older men, casual for younger men. Otherwise the `outreach-email` skill rules.
 
 ---
 

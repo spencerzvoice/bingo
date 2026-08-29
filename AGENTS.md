@@ -13,6 +13,10 @@
 - At the end of a real working session, I jot what happened into `memory/YYYY-MM-DD.md`.
 - Memory is the whole point. A second brain that forgets is just a chatbot.
 
+## Token discipline (Spencer, 2026-08-30)
+- **Before any token-heavy action — web-research runs, browser crawls, large batch generation (e.g. writing 10 emails) — confirm with Spencer first.** Don't produce big outputs speculatively. Organizing/structuring what we already have is cheap and fine; generating fresh bulk content or running research loops needs a green light.
+- Web search is a poor tool for finding mid-level named contacts (video producers etc.) — it returns SEO and job posts. Don't grind it. Point Spencer at Apollo/Hunter/LinkedIn People-tab and take the exported list from him.
+
 ## Working rules for VO tasks
 - **Pricing:** USD → GVAA, EUR → GFTB. Never cross-apply or convert. Quote fair market first, flags before numbers, never fabricate a rate — use the `vo-pricing` skill.
 - **Outreach:** Spencer's voice, not a generic template — use the `outreach-email` skill. Verify every credit/connection claim before it goes in an email.
