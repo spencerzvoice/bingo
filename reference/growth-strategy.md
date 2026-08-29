@@ -64,16 +64,29 @@ The current pipeline (Cheil, Team One, Untold, Octagon, Anomaly) is **ad agencie
 
 Found via web/press/blog bylines only — NOT LinkedIn (Bingo won't automate Spencer's account; a throwaway account was ruled out — I don't create accounts / enter login passwords, and it's ToS-evasion). Spencer to run his own logged-in People-tab passes for density; these are the starting seeds. **Every name needs a "still there?" check and every email a Hunter.io verify before sending.**
 
-| Company | Name | Role (as found) | Email pattern (verify in Hunter) |
+**Batch 1 — CONTACTED / ready (emails Hunter-verified by Spencer 2026-08-30):**
+| Company | Name | Role | Email | Email drafted |
+|---|---|---|---|---|
+| Figma | Sydney Halle | Brand Producer, Brand Studio | **shalle@figma.com** | ✅ sent to Spencer |
+| Canva | Karine Pawel | Senior Producer | **kpawel@canva.com** | ✅ |
+| HubSpot | Nelson Chacón | Lead content strategist, corp YouTube (HubSpot Media) | **nchacon@hubspot.com** | ✅ |
+| Notion | Katie Chang | Brand & integrated marketing | **katie@makenotion.com** | ✅ |
+| Pluralsight | Chris Colucci | Senior Video Content Editor | **chris-colucci@pluralsight.com** | ✅ |
+| Articulate | Callie Hawley | Director, Content Marketing | **chawley@articulate.com** | ✅ |
+
+**Batch 2 — names found, emails NOT yet verified:**
+| Company | Name | Role | Email pattern (verify) |
 |---|---|---|---|
-| HubSpot | Nelson Chacón (Guzmán) | Lead content strategist, corporate YouTube (HubSpot Media) | `flast@hubspot.com` / `first.last@hubspot.com` — HubSpot also actively hiring Sr Video Producers, a hiring manager exists |
-| Notion | Katie Chang | Brand & integrated marketing | `first@makenotion.com` |
-| Notion | Andrea Lim | Creative strategy | `first@makenotion.com` |
-| Figma | Sydney Halle | Brand Producer, Brand Studio (runs product-launch video) — **strongest fit** | `first@figma.com` |
-| Pluralsight | Chris Colucci | Senior Video Content Editor (IC, not lead) | `first.last@pluralsight.com` |
-| Articulate | Callie Hawley | Director, Content Marketing | `flast@articulate.com` / `first.last@articulate.com` |
-| Canva | — (open "Director of Video Content" role, Sydney; Brand Studio "Manila Squad"; SF Creative Production Team) | need People-tab | `first.last@canva.com` |
-| Coursera | — (web search SEO-drowned by course catalog) | need People-tab | `flast@coursera.org` |
+| Asana | Matt Maynard | Head of Brand & Advertising (decision-maker for brand video — good target) | `mmaynard@asana.com` / `matt.maynard@` |
+| Udemy | Zane Vella | Head of Content, Instructor & Creator Strategy (appointed Aug 2025) | `zvella@udemy.com` / `zane.vella@` |
+| Notion | Andrea Lim | Creative Strategy (secondary Notion contact) | `andrea@makenotion.com` |
+| Atlassian | Natalie Mendes · Claire Drumond | Content/brand marketing (roles unconfirmed — Atlassian has a "Content Studio" team) | `first.last@atlassian.com` / `flast@` |
+
+**GAPS — web search can't crack these (course-catalog SEO / mid-level roles only on LinkedIn People tab). Need Apollo/Hunter domain search:**
+Coursera · LinkedIn Learning · Go1 · Docebo · 360Learning · Monday.com · Zoom.
+Adjacent SaaS worth adding to the Apollo run (high monthly video cadence): Loom · Webflow · Miro · ClickUp · Airtable · Descript · Vercel · Linear · Zapier · Grammarly · Calendly · Framer.
+
+**Apollo run settings (do once, ~15 min):** for each company — Filters: Company = [name], Job title = "video producer" OR "content producer" OR "senior producer" OR "head of content" OR "brand content" OR "content marketing manager" OR "multimedia producer". Export names + titles + emails. Paste raw to Bingo → drafts back same session.
 
 **The pitch per category:**
 - **SaaS:** "One warm, credible voice across everything you ship — per-release explainer/feature VO, onboarding, demos. 24-hour turnaround, locked monthly rate." Attach a custom 20–30 sec sample reading copy from *one of their actual videos*.
