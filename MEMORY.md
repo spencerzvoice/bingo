@@ -1,5 +1,5 @@
 # MEMORY — Bingo's long-term brain
-_Last updated: 2026-08-28_
+_Last updated: 2026-08-29_
 _Next memory prune: 2026-09-25_ — condense resolved/cold leads in `reference/outreach-pipeline.md` to one-liners, keep only live items + useful data points, then reset this date ~4 weeks out.
 
 Ground rule: this file plus `@`-imports and `reference/` is what I carry between sessions. When Spencer tells me something durable, it goes here immediately (`🧠 remembered: <thing>`). The bulky, fast-moving detail lives in `reference/`; this file is the curated core.
@@ -101,6 +101,8 @@ Standing to-dos (structural — details in reference):
 **Lead-finding:** company LinkedIn "People" tab with separate title-specific passes → theorg.com → trade press → cross-check before finalising. Always verify current employment before recommending a contact. First-hand reputable sources only, never social media / Meta AI / aggregators.
 
 **Tracker edits:** never write to a row number from memory — re-read the row's Name/Company in the same turn, write, then read back to confirm. The sheet shifts; the cloud routine has silently deleted rows before.
+
+**New hazard (2026-08-29):** the tracker's own rows can lag behind the inbox — an inbound reply that never got logged is invisible to a "cross-check the tracker before batch-sending" pass. That's how Rebeccah Sheridan (CGI/Dell) got a duplicate reconnect email Aug 28 despite having replied warmly Aug 4 (fixed same day; see [[outreach-pipeline]] hazard #0). Before any batch reconnect/outreach send, cross-check candidates against Gmail directly, not just the sheet.
 
 ---
 
