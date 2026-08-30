@@ -93,7 +93,12 @@ The current pipeline (Cheil, Team One, Untold, Octagon, Anomaly) is **ad agencie
 | Figma | Madison Fenton | Brand Producer | mfenton@figma.com ⚠️verify | secondary |
 | **Miro** | **Samuel Rollier** | **Sr. Brand Producer** (Jul 2021–present) — per his LinkedIn (Spencer, primary source): produces internal + external creative content for Marketing / Brand / Employer Brand / Product / Customer stories / Events; directs talent + crew on video & photo sets; designed & built two cyclorama studios (Amsterdam + Austin). Strong hands-on brand-video producer. | samuel@miro.com ✅ | **primary — strong target.** RETRACTED: earlier "does AI cinematic direction himself" came from a WebSearch summary, NOT verified, and is absent from his LinkedIn. |
 
-**Miro VO history (Spencer, verified):** used a human VO ~10 months ago on a product video, then switched to AI voice + AI avatar for product/tutorial content. Angle = factual, non-judgmental: "I noticed you moved from a real voice to synthetic — here's why going back is worth it." The AI switch may have been product-marketing/docs, not Samuel — worth knowing who owns it.
+**Miro VO history (Spencer, verified):** used a human VO ~10 months ago on a product video, then switched to AI voice + AI avatar for product/tutorial content.
+
+**Miro creative leadership — ✅ verified (The Org, ZoomInfo, Miro's own blog `miro.com/blog/miro-ai-brand-campaign/`):**
+- **Drew Jaz — Head of Creative at Miro** (2nd-degree connection for Spencer). Prior: Creative Lead at Google/YouTube; Global Creative Director at Bumble.
+- **Drew personally led Miro's first AI brand campaign (Jan 2026)** — built with Miro's own AI tools, AI-generated characters "including how they move and speak." Blog frames it as a proof-of-concept, 🟡 not a stated commitment to AI-only creative forever. ❓ Unknown whether the everyday AI-voiced tutorials are Drew's call.
+- **Implication:** the "human upgrade over AI" pitch is a hard sell at Miro leadership — you'd argue against their signature initiative. If pursuing Miro: target **Samuel** (producer, would book a VO), **not Drew**; **don't frame it anti-AI**; narrow angle only (real customer stories / brand films with actual people). Otherwise rank Miro below the rest of Funnel A.
 
 **Emails to re-verify before send (Apollo "User Managed"):** Andrew Landini, Madison Fenton, Justin Jones.
 **AI-voice-company framing (Miro etc.):** never call their videos "cringe" — frame as an upgrade with an easy proof (re-voice one, side-by-side), tied to their human/creative brand. And check who *actually* made that call before pitching them.
