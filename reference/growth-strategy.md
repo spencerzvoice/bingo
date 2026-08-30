@@ -91,28 +91,26 @@ Web search is a dead end for mid-level named producers (SEO + job posts). **The 
 - **Sell the voice, not "a consistent voice."** The core paragraph, in Spencer's words: *a warm, deep baritone — familiar enough to feel like someone the viewer already knows, polished enough to carry a premium brand; the register that gets people to lean in rather than tune out an announcer.*
 - Formal opener for women / older men, casual for younger men. Otherwise the `outreach-email` skill rules.
 
-### The custom sample — this is the hook, not an afterthought (Spencer, 2026-08-30)
-A ~20–30 sec recording of Spencer reading copy lifted from **one of that company's own videos**, matched to its tone and pace. It's the "I already sound like your brand" proof — the thing that makes cold VO outreach convert. A generic reel clip is not this.
-- **One sample per company**, not per person — all contacts at a company get the same one.
-- **Which video:** the most recent flagship — product-launch film (Funnel A), popular explainer/tutorial (B), brand campaign film (C/D). Bingo can identify the specific video per company (light research — confirm token cost first).
-- **Delivery:** unlisted YouTube or Drive link, same as the reel. Audio-only reading their copy is fine and fast; video-over-their-footage is stronger but more work.
-- **Sequencing (given cold hit-rate + his time):**
-  - **Top ~8 companies (2–3 per funnel, best retainer fit):** record the custom sample *up front*. Email 1 leads with it — "I put my voice on [specific video] — here's how it sits: [link]."
-  - **The rest:** email 1 = reel + "happy to do a custom read of [name their specific video] — say the word." Record theirs only when they reply.
+### The custom sample — splits by funnel (corrected 2026-08-30)
 
-**Sample-match per company (identified 2026-08-30 — record ~20–30 sec matching each's tone/pace/music energy):**
-| Company | Video to match — link | Notes |
-|---|---|---|
-| Figma | "All the launches at Config 2025": youtube.com/watch?v=NHodnYFUT_I · Config 2025 keynote: watch?v=5q8YAUTYAyk · individual Figma Make/Sites/Draw films on youtube.com/@Figma | Polished motion + VO — his lane |
-| Notion | Make with Notion 2025 keynote (Ivan Zhao): youtube.com/watch?v=KZ3hAy_XZwI · Notion 3.0 / Notion Mail standalone films on youtube.com/@Notion | Warm, human, understated — ideal fit |
-| Canva | "Canva Create 2025: Visual Suite 2.0": youtube.com/watch?v=1GNYx2P1OB8 · Uncharted keynote: watch?v=LupwvXsOQqs | Higher energy |
-| HubSpot | "HubSpot Breeze: AI Tools — Copilot, Agents and Intelligence": youtube.com/watch?v=nVmYD6QxT1I · Official Breeze AI Tutorial: watch?v=OHJQe8kI5h4 | Product-explainer style (Funnel B) |
-| Atlassian | "Rovo: AI-native teamwork…": youtube.com/watch?v=5L6gnz12on4 · "Meet Rovo, your AI-powered teammate": watch?v=PKw0uhPKTds | "Content Studio" = narrative-led branded content |
-| Asana | "Introducing Asana AI Teammates": youtube.com/watch?v=BARSjoW4ino · Summit talk: watch?v=XzLhFtL06OI · asana.com/demo/ai-teammates | Calm, confident brand tone |
-| Pluralsight | No standout flagship — pick the latest brand/product-overview piece from youtube.com/c/pluralsight/videos | — |
-| Articulate | "Transform Training with Articulate 360": youtube.com/watch?v=hWNDsX4vVbY (Aug 2025) | ⚠️ Articulate added AI TTS voiceover to their product in 2025 — pitch **brand/marketing** video, not course narration |
+**Bingo can't reliably source the exact video via web search** — it returns third-party tutorials and reviews, not official films. Spencer picks the source video off the company's own YouTube channel (30 sec of scrolling). Bingo writes the email against it.
 
-**Pulling the copy:** watch the video, note the 20–30 sec stretch that best shows range (usually the open or a key feature beat), record matching their pace and the energy of the music bed.
+**Funnel A — design-led (Figma, Notion, Linear, Vercel, Framer, Webflow, Miro):**
+Their launch/brand films are **music + motion + on-screen text — NO voiceover** (confirmed on Figma's Config 2025 recap). So:
+- Sample = Spencer voicing their **written launch copy** (the video's on-screen text, or their launch blog post) as a spec read — "here's how your film would sound with a voice on it."
+- **This is also the pitch angle** (Spencer likes this): *"Your launch films have never had a voice — here's what one would add."* For a company that's only done silent motion films, that's a real hook, not a me-too.
+
+**Funnels B / C / D — video-team SaaS + e-learning + L&D (HubSpot, Atlassian, Asana, Canva feature videos, Coursera, Udemy, Pluralsight, Articulate, Docebo, 360Learning, Go1):**
+These **do narrate** their explainers, tutorials, and product tours. Sample = re-voice one of those.
+- Spencer opens the company's **official YouTube channel**, scrolls recent uploads, picks a narrated product/explainer (has a voice, not just music). That's the source.
+
+**Delivery:** audio reading their copy is fine and fast; over-their-footage is stronger if time allows. Unlisted YouTube or Drive link.
+
+**Sequencing (given cold hit-rate + his time):**
+- **Top ~8 companies:** record the sample up front; email 1 leads with it.
+- **The rest:** email 1 = reel + "happy to do a custom read of [their specific video] — say the word." Record theirs on reply.
+
+⚠️ **Articulate:** added AI TTS voiceover *to their product* in 2025 — pitch brand/marketing video, not course narration; expect them lukewarm.
 
 ---
 
