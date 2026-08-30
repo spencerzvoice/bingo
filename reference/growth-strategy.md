@@ -68,41 +68,33 @@ The current pipeline (Cheil, Team One, Untold, Octagon, Anomaly) is **ad agencie
 
 ---
 
-### Funnel A — Apollo export + web-researched 2026-08-30 (`C:\Users\spenc\Desktop\Client Outreach\Contact CSV\funnel a-apollo-contacts-export.csv`, 17 contacts)
+### Funnel A — target table (updated 2026-08-30)
 
-**Roles below are web-verified (LinkedIn/ZoomInfo/The Org), not Apollo's truncated title field.** Bingo's first pass ruled people out on Apollo strings alone and was badly wrong (Marc Andrews, Julian Lehr) — don't do that.
+**Confidence tags: ✅ = Spencer confirmed from the person's LinkedIn (primary source), or Bingo opened the actual page. 🟡 = from web-search results only, not primary-source confirmed. ❓ = unknown.**
+Source: `C:\Users\spenc\Desktop\Client Outreach\Contact CSV\funnel a-apollo-contacts-export.csv` (17) + web search + Spencer's LinkedIn checks.
 
-| Company | Contact | Verified role | Email | Priority |
-|---|---|---|---|---|
-| **Framer** | **Andy Orsow** | Video Marketer — product/hype videos, built the Academy virtual studio, ex-InVision product video | andy@framer.com ✅ | primary. **BUT (Spencer, 2026-08-30): Framer's content is mostly long-form employee-narrated roll-out walkthroughs; the "Framer Agents" :30 VO spot looks like a one-off.** The "consistent voice for Framer Update" angle is WEAK — needs a different angle before pitching. |
-| Framer | Justin Jones | "Education at Framer" — Academy host (on camera) + video; **VO himself** | justin@framer.com ⚠️ | LinkedIn peer angle (in motion) |
-| Framer | Ryan Cotrupi | Digital Marketing — more junior | ryan.cotrupi@framer.com ✅ | internal ally, warm |
-| **Notion** (VO use unverified) | **Cory Zapatka** | Video Lead — Emmy-winning, ex-Vox (launched Verge Science), oversees ALL Notion video | coryz@makenotion.com ✅ | **primary** |
-| Notion | Alex Tamura | Creative Operations & Video Production — coordinates/books production | atamura@makenotion.com ✅ | strong secondary (the booker) |
-| Notion | Billy Disney | Video Producer, Customer Education — tutorial/explainer, ex-Verge/Mic | bdisney@makenotion.com ✅ | good if education content fits |
-| **Webflow** (VO use unverified) | **Marc Andrews** | Senior Manager, Brand Video (ZoomInfo: "Video Director, Brand") — makes brand video, Conf keynote films (Telly Award), Webflow 101 course | marc.andrews@webflow.com ✅ | **primary — was wrongly skipped** |
-| Webflow | Alexander Diner | Head of Brand Studio / Director, Brand & Web Design — senior leader over brand; more brand/web design than hands-on video | alexander.diner@webflow.com ✅ | senior contact; **viewed Spencer's profile** |
-| Webflow | Nick Blackmon | Manager, Brand Studio — hands-on under Diner | nick.blackmon@webflow.com ✅ | secondary |
-| Webflow | Curtis Judd | Director of Education Video (not on CSV — from search) | — | route for education content |
-| **Vercel** (VO use unverified) | **Andrew Landini** | Head of Video (confirmed; has IMDb — Producer/Editor/Director) | andrew.landini@vercel.com ⚠️verify | **primary** |
-| Vercel | Sean Raya | Senior Producer (not on CSV — from search) | — | secondary |
-| Vercel | Daniel Linthwaite / Marijana Pavlinić | Brand *designers*, not video | — | route-in only, not a pitch target |
-| **Linear** (VO use unverified; small high-craft team) | **Julian Lehr** | Creative Director / storytelling lead — owns creative vision + storytelling for releases; writes julian.digital | julian@linear.app ✅ | **primary — was wrongly skipped** |
-| Linear | Ari Mojdeh | Filmmaker, Brand & Product Storytelling — hands-on, ex-agency EP/Director (Serious People) | ari@linear.app ✅ | strong — the hands-on filmmaker |
-| **Figma** (VO use unverified) | **Sydney Halle** | Brand Studio Producer — ex-Instrument EP, core Brand Studio, Config work | shalle@figma.com ✅ | **primary** |
-| Figma | Madison Fenton | Brand Producer | mfenton@figma.com ⚠️verify | secondary |
-| **Miro** | **Samuel Rollier** | **Sr. Brand Producer** (Jul 2021–present) — per his LinkedIn (Spencer, primary source): produces internal + external creative content for Marketing / Brand / Employer Brand / Product / Customer stories / Events; directs talent + crew on video & photo sets; designed & built two cyclorama studios (Amsterdam + Austin). Strong hands-on brand-video producer. | samuel@miro.com ✅ | **primary — strong target.** RETRACTED: earlier "does AI cinematic direction himself" came from a WebSearch summary, NOT verified, and is absent from his LinkedIn. |
+| Company | **Primary** | Role | Email | Secondary | VO status |
+|---|---|---|---|---|---|
+| **Framer** | **Andy Orsow** | Video Marketer — product/hype videos, built Academy studio, ex-InVision 🟡 | andy@framer.com ✅ | Justin Jones (Academy host, VO himself ✅; LinkedIn peer angle in motion) · Ryan Cotrupi (Digital Mktg, junior ✅ — ally) | ✅ mostly long-form employee walkthroughs; one :30 VO spot. "Consistent voice" angle **weak — needs new angle** |
+| **Notion** | **Cory Zapatka** | Video Lead — Emmy-winner, ex-Vox (launched Verge Science), oversees all Notion video 🟡 | coryz@makenotion.com ✅ | Alex Tamura (Creative Ops & Video Production 🟡 — the booker) · Billy Disney (Video Producer, Customer Ed 🟡) | ❓ Spencer to check |
+| **Webflow** | **Marc Andrews** | Brand video lead — Conf keynote films (Telly Award), Webflow 101 course. Title: "Director of Brand Video" (Spencer ✅) / "Sr Manager, Brand Video" (search 🟡) | marc.andrews@webflow.com ✅ | Alexander Diner (Head of Brand Studio 🟡, senior; **viewed Spencer's profile** ✅) · Nick Blackmon (Mgr, Brand Studio) · Curtis Judd (Dir Education Video 🟡, no email) | ❓ Spencer to check |
+| **Vercel** | **Andrew Landini** | Head of Video, has IMDb (Producer/Editor/Director) 🟡 | andrew.landini@vercel.com ⚠️verify | Sean Raya (Sr Producer 🟡, no email) | ❓ Spencer to check |
+| **Linear** | **Julian Lehr** | Creative Director / storytelling lead — owns creative vision for releases (Spencer ✅) | julian@linear.app ✅ | Ari Mojdeh (Filmmaker, Brand & Product Storytelling — hands-on, ex-agency EP/Director 🟡) — ari@linear.app ✅ | ❓ Spencer to check |
+| **Figma** | **Sydney Halle** | Brand Studio Producer — ex-Instrument EP, Config work 🟡 | shalle@figma.com ✅ | Madison Fenton (Brand Producer) — mfenton@figma.com ⚠️verify | ❓ Spencer to check |
+| **Miro** | **Samuel Rollier** — best "in" for a first job | Sr. Brand Producer (5+ yrs) — directs talent + crew on sets, built 2 cyclorama studios (Spencer read LinkedIn ✅) | samuel@miro.com ✅ | **Antoine Levi** (Creative Production Lead, 12+ yrs agency, hires external studios — best for a *retainer* ✅) email ❓ · Drew Jaz (Head of Creative — **SKIP for VO**, led Miro's AI campaign ✅) | ✅ AI voice + avatar on tutorials; human VO ~10mo ago on a product video; Not Just Any studio spot series VO type ❓ |
 
-**Miro VO history (Spencer, verified):** used a human VO ~10 months ago on a product video, then switched to AI voice + AI avatar for product/tutorial content.
+**Not video (route-in only, not pitch targets):** Daniel Linthwaite, Marijana Pavlinić (Vercel brand designers — Spencer ✅).
 
-**Miro creative leadership — ✅ verified (The Org, ZoomInfo, Miro's own blog `miro.com/blog/miro-ai-brand-campaign/`):**
-- **Drew Jaz — Head of Creative at Miro** (2nd-degree connection for Spencer). Prior: Creative Lead at Google/YouTube; Global Creative Director at Bumble.
-- **Drew personally led Miro's first AI brand campaign (Jan 2026)** — built with Miro's own AI tools, AI-generated characters "including how they move and speak." Blog frames it as a proof-of-concept, 🟡 not a stated commitment to AI-only creative forever. ❓ Unknown whether the everyday AI-voiced tutorials are Drew's call.
-- **✅ Antoine Levi — Creative Production Lead at Miro** (The Org + Spencer's LinkedIn). 12+ yrs agency production. Own LinkedIn post: produced a spot series with external studio **"Not Just Any."** Tagline: "turning creative craft into scalable global content systems." 🟡 may also have produced the AI Rome campaign (search conflated it — unconfirmed). ❓ Not Just Any spots' VO type unknown — **Spencer to check that series.**
-- **Revised Miro play:** target **Antoine** (production lead — brings in external vendors, does traditional studio production, values craft) + **Samuel** (hands-on producer). **Skip Drew** for anything VO. Frame practically — "external voice for your studio-produced spots" — **never anti-AI.** If the Not Just Any series used a human VO, that's the proof point: Miro still uses real voices for studio work.
+**Framing:** never call a company's AI videos "cringe" — frame as an upgrade with an easy proof (re-voice one, side-by-side). Practical, producer-to-VO. Never anti-AI at leadership level (see Miro/Drew).
 
-**Emails to re-verify before send (Apollo "User Managed"):** Andrew Landini, Madison Fenton, Justin Jones.
-**AI-voice-company framing (Miro etc.):** never call their videos "cringe" — frame as an upgrade with an easy proof (re-voice one, side-by-side), tied to their human/creative brand. And check who *actually* made that call before pitching them.
+### What Bingo CANNOT gather itself — Spencer's to provide
+
+1. **LinkedIn profile contents** — login wall. Bingo only gets 🟡 fragments from search snippets. Spencer confirms exact current title/tenure/responsibilities in a 2-sec glance. (Confirmed so far: Marc Andrews, Julian Lehr, Samuel Rollier, Drew Jaz, Antoine Levi, Justin Jones, Ryan Cotrupi.)
+2. **Email verification** — no Hunter/Apollo access. Spencer verifies: Andrew Landini, Madison Fenton, Justin Jones, + get Antoine Levi's email.
+3. **Whether each company uses human VO in its marketing videos** — Bingo's browser attempts hit walls and are slow. Spencer's 2-min YouTube scrub is far better. Done: Framer, Miro. **Need: Notion, Webflow, Vercel, Linear, Figma.**
+4. **Internal/non-public context** — who made a given creative call, video budgets, whether a team is actively looking. Only answerable by asking them.
+5. **The Not Just Any Miro spot series** — did it use a human VO.
+6. **Which exact video to match for a custom sample** per company — needs watching.
 
 ### Named contacts (older — from web search)
 
