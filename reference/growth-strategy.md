@@ -68,24 +68,33 @@ The current pipeline (Cheil, Team One, Untold, Octagon, Anomaly) is **ad agencie
 
 ---
 
-### Funnel A — Apollo export received 2026-08-30 (`C:\Users\spenc\Desktop\Client Outreach\Contact CSV\funnel a-apollo-contacts-export.csv`, 17 contacts)
+### Funnel A — Apollo export + web-researched 2026-08-30 (`C:\Users\spenc\Desktop\Client Outreach\Contact CSV\funnel a-apollo-contacts-export.csv`, 17 contacts)
 
-**Primary target per company (owns video):**
-| Company | Contact | Title | Email | VO check |
+**Roles below are web-verified (LinkedIn/ZoomInfo/The Org), not Apollo's truncated title field.** Bingo's first pass ruled people out on Apollo strings alone and was badly wrong (Marc Andrews, Julian Lehr) — don't do that.
+
+| Company | Contact | Verified role | Email | Priority |
 |---|---|---|---|---|
-| Notion | Cory Zapatka | Video Lead | coryz@makenotion.com ✅ | unverified — Spencer to check |
-| Vercel | Andrew Landini | Head of Video | andrew.landini@vercel.com ⚠️verify | unverified |
-| Miro | Samuel Rollier | Sr. Brand Producer & Video Director | samuel@miro.com ✅ | **VERIFIED: product/tutorial videos use AI voice + AI avatar.** Angle = human upgrade; email drafted. Check if tutorials-only + if a separate "customer education" owner exists. |
-| Webflow | Alexander Diner | Head of Brand Studio | alexander.diner@webflow.com ✅ | unverified; already viewed Spencer's profile |
-| Linear | Ari Mojdeh | Filmmaker, Brand & Product Storytelling | ari@linear.app ✅ | unverified |
-| Framer | Justin Jones (LinkedIn peer angle) + Andy Orsow (andy@framer.com ✅) | Video Marketeer / Video Marketer | — | VERIFIED: uses real VO, inconsistently |
-| Figma | Sydney Halle | Producer, Brand Studio | shalle@figma.com ✅ | unverified; Madison Fenton (mfenton@figma.com ⚠️verify) = backup |
+| **Framer** (uses real VO, inconsistent) | **Andy Orsow** | Video Marketer — product/hype videos, built the Academy virtual studio, ex-InVision product video | andy@framer.com ✅ | **primary** (likely owns the "Framer Update" spots) |
+| Framer | Justin Jones | "Education at Framer" — Academy host (on camera) + video; **VO himself** | justin@framer.com ⚠️ | LinkedIn peer angle (in motion) |
+| Framer | Ryan Cotrupi | Digital Marketing — more junior | ryan.cotrupi@framer.com ✅ | internal ally, warm |
+| **Notion** (VO use unverified) | **Cory Zapatka** | Video Lead — Emmy-winning, ex-Vox (launched Verge Science), oversees ALL Notion video | coryz@makenotion.com ✅ | **primary** |
+| Notion | Alex Tamura | Creative Operations & Video Production — coordinates/books production | atamura@makenotion.com ✅ | strong secondary (the booker) |
+| Notion | Billy Disney | Video Producer, Customer Education — tutorial/explainer, ex-Verge/Mic | bdisney@makenotion.com ✅ | good if education content fits |
+| **Webflow** (VO use unverified) | **Marc Andrews** | Senior Manager, Brand Video (ZoomInfo: "Video Director, Brand") — makes brand video, Conf keynote films (Telly Award), Webflow 101 course | marc.andrews@webflow.com ✅ | **primary — was wrongly skipped** |
+| Webflow | Alexander Diner | Head of Brand Studio / Director, Brand & Web Design — senior leader over brand; more brand/web design than hands-on video | alexander.diner@webflow.com ✅ | senior contact; **viewed Spencer's profile** |
+| Webflow | Nick Blackmon | Manager, Brand Studio — hands-on under Diner | nick.blackmon@webflow.com ✅ | secondary |
+| Webflow | Curtis Judd | Director of Education Video (not on CSV — from search) | — | route for education content |
+| **Vercel** (VO use unverified) | **Andrew Landini** | Head of Video (confirmed; has IMDb — Producer/Editor/Director) | andrew.landini@vercel.com ⚠️verify | **primary** |
+| Vercel | Sean Raya | Senior Producer (not on CSV — from search) | — | secondary |
+| Vercel | Daniel Linthwaite / Marijana Pavlinić | Brand *designers*, not video | — | route-in only, not a pitch target |
+| **Linear** (VO use unverified; small high-craft team) | **Julian Lehr** | Creative Director / storytelling lead — owns creative vision + storytelling for releases; writes julian.digital | julian@linear.app ✅ | **primary — was wrongly skipped** |
+| Linear | Ari Mojdeh | Filmmaker, Brand & Product Storytelling — hands-on, ex-agency EP/Director (Serious People) | ari@linear.app ✅ | strong — the hands-on filmmaker |
+| **Figma** (VO use unverified) | **Sydney Halle** | Brand Studio Producer — ex-Instrument EP, core Brand Studio, Config work | shalle@figma.com ✅ | **primary** |
+| Figma | Madison Fenton | Brand Producer | mfenton@figma.com ⚠️verify | secondary |
+| **Miro** (VERIFIED: AI voice + AI avatar on product/tutorial videos) | Samuel Rollier | Sr. Brand Producer & Video Director — **BUT does AI-powered cinematic direction himself** (prompt engineering, AI visual gen) | samuel@miro.com ✅ | ⚠️ **the anti-AI-voice pitch is RISKY with him** — he may champion AI video. Reframe, or find the customer-education content owner. Miro has a "Brand Production" team (other names on The Org). |
 
-**Secondary:** Notion — Alex Tamura (Creative Ops & Production, Video; would *book* the VO), Billy Disney (Video Producer, Customer Education). Webflow — Nick Blackmon (Manager, Brand Studio).
-**Skip (not video):** Julian Lehr (Linear growth/brand), Daniel Linthwaite + Marijana Pavlinić (Vercel designers), Marc Andrews (Webflow, vague).
-**Emails to re-verify before send (Apollo "User Managed"):** Andrew Landini, Madison Fenton, Justin Jones, Marijana Pavlinić.
-
-**Framing note for AI-voice companies (Miro, and any others):** don't call their videos "cringe" to their face — frame as an upgrade with an easy proof (re-voice one, side-by-side). Tie the pitch to their human/creative brand identity.
+**Emails to re-verify before send (Apollo "User Managed"):** Andrew Landini, Madison Fenton, Justin Jones.
+**AI-voice-company framing (Miro etc.):** never call their videos "cringe" — frame as an upgrade with an easy proof (re-voice one, side-by-side), tied to their human/creative brand. And check who *actually* made that call before pitching them.
 
 ### Named contacts (older — from web search)
 
