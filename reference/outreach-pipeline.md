@@ -48,6 +48,13 @@ _Auto-logged (see the memory protocol in CLAUDE.md). Keep status lines current; 
 - **Pricing plan:** one-off fair rate **~$350/video**; recurring retainer **$300/month** for 1 guaranteed video (24h turnaround, 12-mo rate lock); **~$275** per additional video same month. **Floor $250** — no mate's rates; VC-backed company, his credits justify it. Quote per-video first, then offer the retainer. No pricing in the first send. Confirm paid-media spend + usage term when pricing comes up (real ad spend → attach 12-mo digital usage, rate rises).
 - Note for next send: all files on Drive, not mixed Drive links + 21MB attachments (near Gmail's limit).
 
+### Alexander Diner — Head of Brand Studio, Webflow (Funnel A — high priority)
+- Exactly the Funnel A decision-maker title. **Viewed Spencer's profile 2026-08-30** (warm signal) after Spencer sent a connection request. Awaiting connection accept.
+- When connected: casual warm note, specific compliment on recent Webflow work, no pitch — same playbook as Ryan.
+
+### Justin Jones — LinkedIn profile view (NOT a target)
+- "Product & Motion Designer. Professor of Design at LCAD. **Voice Actor.**" — icon suggests Framer (unconfirmed). He's a VO himself → never pitch. Possible peer/referral. If he *is* at Framer, note: Framer may source VO internally/from peers, which would soften the Framer opportunity — Spencer to confirm his company.
+
 ### Ryan Cotrupi (Framer) — new LinkedIn connection (Funnel A)
 - Title: "Editor | Photographer | Digital Creator | Digital Marketer at Framer" — grab-bag; role unclear (could be the person who makes their video, a junior generalist, or a route to the brand lead).
 - **2026-08-30: accepted connection; Spencer sent a casual no-ask note** — complimented "the video you guys posted yesterday," asked if he's on the video/content side. **Awaiting reply.**
