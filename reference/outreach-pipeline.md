@@ -52,11 +52,12 @@ _Auto-logged (see the memory protocol in CLAUDE.md). Keep status lines current; 
 - Exactly the Funnel A decision-maker title. **Viewed Spencer's profile 2026-08-30** (warm signal) after Spencer sent a connection request. Awaiting connection accept.
 - When connected: casual warm note, specific compliment on recent Webflow work, no pitch — same playbook as Ryan.
 
-### Justin Jones — Video Marketeer, Framer (Amsterdam, remote) — PRIMARY Framer target
-- **This is Framer's video owner:** Academy courses + feature-launch videos, "motion and storytelling," script writing in his skills. Oct 2024–present. Exactly the Funnel A target — Spencer sought him out deliberately.
-- **He's also a voice actor** (in his LinkedIn headline). Not a blocker — an *opening*. Don't pitch "you need a pro voice." Angle: collegial, fellow-VO — when he wants a different read, a second voice for volume, or to be behind the camera instead of in the booth.
-- 2nd degree, 1 mutual connection, **viewed Spencer's profile 2026-08-30.** Plan: connect with a peer-hook note (shared VO, specific compliment on the Academy work, no ask) → once accepted, gently open the "second voice / overflow" door.
-- Ryan Cotrupi stays warm as an internal ally, but **Justin is the one** for Framer.
+### Justin Jones — "Education at Framer" / Video Marketeer (Amsterdam, remote)
+**Verified from screenshots 2026-08-30:** he is the **on-camera host of Framer's Academy** — talking-head + screen-share tutorials, published ~weekly, his face/voice/format. Per his LinkedIn (his words): also does feature-launch videos. One-man band: on camera, editing, motion, scriptwriting. **Also a voice actor** (headline).
+- **Academy tutorials = no VO opportunity** — it's his show.
+- **Potential opening = feature-launch videos, IF they're narrated-over-footage** (not talking-head / not pure motion). **UNVERIFIED — Spencer must watch a couple of Framer's "Introducing [feature]" videos before pitching.** That check decides whether Framer is a real target or weak.
+- **If narrated:** angles are (1) overflow / second voice when volume spikes or he's on camera; (2) "you carry all of this — hand off the VO"; (3) peer-first, build the relationship, no rush.
+- 2nd degree, 1 mutual, viewed Spencer's profile. Connect as a peer (shared VO). Ryan Cotrupi = internal ally, kept warm.
 
 ### Ryan Cotrupi (Framer) — new LinkedIn connection (Funnel A)
 - Title: "Editor | Photographer | Digital Creator | Digital Marketer at Framer" — grab-bag; role unclear (could be the person who makes their video, a junior generalist, or a route to the brand lead).
