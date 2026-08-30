@@ -87,9 +87,18 @@ The current pipeline (Cheil, Team One, Untold, Octagon, Anomaly) is **ad agencie
 Web search is a dead end for mid-level named producers (SEO + job posts). **The real source is a LinkedIn People-tab pass or Apollo/Hunter domain search, run by Spencer, per company, using the funnel titles above.** He exports name + exact title + location to an Excel and hands it to Bingo. Bingo filters to the best target per company and writes each email.
 
 ### Outreach approach + email angle
-- Cold email to a **named person**, never a general inbox. Subject references their real recent content. **No pricing first touch.** One specific offer. Offer a **custom 20–30 sec sample** reading copy from one of *their* videos.
+- Cold email to a **named person**, never a general inbox. Subject references their real recent content. **No pricing first touch.** One specific offer.
 - **Sell the voice, not "a consistent voice."** The core paragraph, in Spencer's words: *a warm, deep baritone — familiar enough to feel like someone the viewer already knows, polished enough to carry a premium brand; the register that gets people to lean in rather than tune out an announcer.*
 - Formal opener for women / older men, casual for younger men. Otherwise the `outreach-email` skill rules.
+
+### The custom sample — this is the hook, not an afterthought (Spencer, 2026-08-30)
+A ~20–30 sec recording of Spencer reading copy lifted from **one of that company's own videos**, matched to its tone and pace. It's the "I already sound like your brand" proof — the thing that makes cold VO outreach convert. A generic reel clip is not this.
+- **One sample per company**, not per person — all contacts at a company get the same one.
+- **Which video:** the most recent flagship — product-launch film (Funnel A), popular explainer/tutorial (B), brand campaign film (C/D). Bingo can identify the specific video per company (light research — confirm token cost first).
+- **Delivery:** unlisted YouTube or Drive link, same as the reel. Audio-only reading their copy is fine and fast; video-over-their-footage is stronger but more work.
+- **Sequencing (given cold hit-rate + his time):**
+  - **Top ~8 companies (2–3 per funnel, best retainer fit):** record the custom sample *up front*. Email 1 leads with it — "I put my voice on [specific video] — here's how it sits: [link]."
+  - **The rest:** email 1 = reel + "happy to do a custom read of [name their specific video] — say the word." Record theirs only when they reply.
 
 ---
 
