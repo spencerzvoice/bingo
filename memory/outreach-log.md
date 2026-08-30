@@ -4,9 +4,9 @@ One entry per email. Update "Result" when a reply lands.
 
 ## 2026-08-30 — Webflow (Marc Andrews) — cold
 - Contact: Marc Andrews, Brand video lead / "Director of Brand Video", marc.andrews@webflow.com
-- Hook / angle: went through Webflow's video catalog, impressed by style/edgy modern vibe; VO inconsistent video-to-video (some in-house, some polished) → offer a consistent voice
+- Hook / angle: went through Webflow's catalog, impressed by style + range (sleek/current vs. technical clarity) → strong fit for both
 - Ask: be the regular/go-to voice for their videos
-- Reel linked: custom sample [LINK] (Spencer to record/fill) + spencerzvoice.com
+- Reel linked: TWO custom samples of their own videos — (1) Webflow MCP 2.0 product video, voiced to their music; (2) "Migrate Your CMS with Webflow MCP" tutorial. Spencer uploading to Drive. + spencerzvoice.com. Credits highlighted: AWS rollouts, Artlist, Venmo, Dell (FIFA dropped — tech audience)
 - New email or thread reply: new email
 - Status: draft in Bingo — Spencer to review + send
 - Follow up on: 7–10 days after send if no reply
