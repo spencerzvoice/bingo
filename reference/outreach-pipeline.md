@@ -51,7 +51,7 @@ _Auto-logged (see the memory protocol in CLAUDE.md). Keep status lines current; 
 ### Ryan Cotrupi (Framer) — new LinkedIn connection (Funnel A)
 - Title: "Editor | Photographer | Digital Creator | Digital Marketer at Framer" — grab-bag; role unclear (could be the person who makes their video, a junior generalist, or a route to the brand lead).
 - **2026-08-30: accepted Spencer's connection request.** Plan: short warm no-ask note to learn his role (draft given) → if video-side, move to the "your videos have never had a voice" angle; if not, keep warm + ask who runs brand video. Keep it in the LinkedIn thread.
-- Framer = design-led (Funnel A) — their videos are music/motion, no VO → the "never had a voice" pitch applies.
+- Framer's videos **DO have VO** (Spencer confirmed) — so the pitch is re-voicing one of their narrated videos, NOT the "never had a voice" angle.
 
 ### Janae David (Team One, Producer) — warm LinkedIn lead
 - **Status:** replied on LinkedIn **Aug 28** — apologised for the delay, thanked Spencer for following up, **asked for his reel**. **Aug 29: Spencer sent his commercial reel link + a short warm reply on LinkedIn** ("thanks for getting back to me, no worries on the delay… here's the link"). Reel = Drive file `1c7_eCvNwox47JShpSUZjrGTjIggKSE1j` (his **commercial cut**, confirmed; Spencer renamed the file himself; "anyone with link" — verified viewable). Best forward motion of the whole Team One push (other 4 Team One contacts silent since Aug 24).

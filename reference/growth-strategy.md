@@ -96,9 +96,9 @@ Web search is a dead end for mid-level named producers (SEO + job posts). **The 
 **Bingo can't reliably source the exact video via web search** — it returns third-party tutorials and reviews, not official films. Spencer picks the source video off the company's own YouTube channel (30 sec of scrolling). Bingo writes the email against it.
 
 **Funnel A — design-led (Figma, Notion, Linear, Vercel, Framer, Webflow, Miro):**
-Their launch/brand films are **music + motion + on-screen text — NO voiceover** (confirmed on Figma's Config 2025 recap). So:
-- Sample = Spencer voicing their **written launch copy** (the video's on-screen text, or their launch blog post) as a spec read — "here's how your film would sound with a voice on it."
-- **This is also the pitch angle** (Spencer likes this): *"Your launch films have never had a voice — here's what one would add."* For a company that's only done silent motion films, that's a real hook, not a me-too.
+⚠️ **DO NOT assume these are VO-less.** Verified so far: Figma's "All the launches at Config 2025" recap = no VO (music/motion). **Framer's videos DO have VO** (Spencer, 2026-08-30). Everything else = unchecked. Spencer verifies each company's actual videos before the pitch angle is chosen.
+- **Where a company genuinely doesn't narrate:** the pitch is *"Your films have never had a voice — here's what one would add,"* and the sample is Spencer voicing their written launch copy as a spec read.
+- **Where they do narrate:** treat it like Funnels B/C/D — re-voice one of their actual narrated videos.
 
 **Funnels B / C / D — video-team SaaS + e-learning + L&D (HubSpot, Atlassian, Asana, Canva feature videos, Coursera, Udemy, Pluralsight, Articulate, Docebo, 360Learning, Go1):**
 These **do narrate** their explainers, tutorials, and product tours. Sample = re-voice one of those.
