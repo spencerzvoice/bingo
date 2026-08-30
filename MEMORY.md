@@ -78,7 +78,7 @@ Spencer wants pricing advice weighted toward **booking jobs**, not maximising pe
 4. **Plan:** complete the Sept 19 workshop → resubmit to Allie. This is the concrete route to representation. Track it.
 
 ### Lane 1 / Funnel A — LIVE as of 2026-08-30
-First 3 cold emails (Webflow/Marc Andrews, Notion/Cory Zapatka, Figma/Sydney Halle) **scheduled by Spencer to land 2026-08-31 ~08:00 recipient-local**, each with 2 real re-voiced samples of the company's own videos. Follow-up ~2026-09-10. Framer/Miro/Linear emails next. Full state + contact table + per-company angles + the "no-posturing" email voice rule: [[growth-strategy]] and `memory/outreach-log.md`.
+First 3 cold emails (Webflow/Marc Andrews, Notion/Cory Zapatka, Figma/Sydney Halle) **scheduled by Spencer to land 2026-08-31 ~08:00 recipient-local**, each with 2 real re-voiced samples of the company's own videos. Follow-up ~2026-09-10. Framer/Miro/Linear emails next (Miro = Samuel Rollier samuel@miro.com + Antoine Levi antoine@miro.com). Full state + contact table + per-company angles + the "no-posturing" email voice rule: [[growth-strategy]] and `memory/outreach-log.md`.
 
 ### Outreach pipeline
 Google Sheet **"VO Outreach Pipeline Tracker"** (root of My Drive, spreadsheetId `1SBauz4dCodqnfSVD5yqKETjU-25TY5HEZ7KRGggbgT0`). Spencer edits it live; a daily cloud routine syncs it from Gmail and emails him a digest — see [[vo-pipeline-routine]] and full detail in [[outreach-pipeline]].
