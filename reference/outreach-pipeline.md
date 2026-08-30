@@ -59,6 +59,7 @@ _Auto-logged (see the memory protocol in CLAUDE.md). Keep status lines current; 
 - **THE PITCH: "be the consistent voice for Framer Update."** They rotate voices inconsistently — a 1.1M-view series benefits from one recognizable voice. Retainer-shaped. Say it plainly to Justin + lead with the peer (fellow-VO) framing.
 - **Custom sample = re-voice the July 22 "Framer Agents: Design with AI, Keep Control" spot** (30 sec, VO-driven, flagship). Exact match for the work.
 - 2nd degree, 1 mutual, viewed Spencer's profile. Ryan Cotrupi = internal ally, kept warm.
+- **2026-08-30: connection-request note + first message drafted** (peer/fellow-VO hook, "consistent voice for Framer Update" planted softly, ends on a real question). Going out. Awaiting Justin or Ryan to move.
 
 ### Ryan Cotrupi (Framer) — new LinkedIn connection (Funnel A)
 - Title: "Editor | Photographer | Digital Creator | Digital Marketer at Framer" — grab-bag; role unclear (could be the person who makes their video, a junior generalist, or a route to the brand lead).
