@@ -74,7 +74,7 @@ The current pipeline (Cheil, Team One, Untold, Octagon, Anomaly) is **ad agencie
 
 | Company | Contact | Verified role | Email | Priority |
 |---|---|---|---|---|
-| **Framer** (uses real VO, inconsistent) | **Andy Orsow** | Video Marketer — product/hype videos, built the Academy virtual studio, ex-InVision product video | andy@framer.com ✅ | **primary** (likely owns the "Framer Update" spots) |
+| **Framer** | **Andy Orsow** | Video Marketer — product/hype videos, built the Academy virtual studio, ex-InVision product video | andy@framer.com ✅ | primary. **BUT (Spencer, 2026-08-30): Framer's content is mostly long-form employee-narrated roll-out walkthroughs; the "Framer Agents" :30 VO spot looks like a one-off.** The "consistent voice for Framer Update" angle is WEAK — needs a different angle before pitching. |
 | Framer | Justin Jones | "Education at Framer" — Academy host (on camera) + video; **VO himself** | justin@framer.com ⚠️ | LinkedIn peer angle (in motion) |
 | Framer | Ryan Cotrupi | Digital Marketing — more junior | ryan.cotrupi@framer.com ✅ | internal ally, warm |
 | **Notion** (VO use unverified) | **Cory Zapatka** | Video Lead — Emmy-winning, ex-Vox (launched Verge Science), oversees ALL Notion video | coryz@makenotion.com ✅ | **primary** |
@@ -91,7 +91,7 @@ The current pipeline (Cheil, Team One, Untold, Octagon, Anomaly) is **ad agencie
 | Linear | Ari Mojdeh | Filmmaker, Brand & Product Storytelling — hands-on, ex-agency EP/Director (Serious People) | ari@linear.app ✅ | strong — the hands-on filmmaker |
 | **Figma** (VO use unverified) | **Sydney Halle** | Brand Studio Producer — ex-Instrument EP, core Brand Studio, Config work | shalle@figma.com ✅ | **primary** |
 | Figma | Madison Fenton | Brand Producer | mfenton@figma.com ⚠️verify | secondary |
-| **Miro** (VERIFIED: AI voice + AI avatar on product/tutorial videos) | Samuel Rollier | Sr. Brand Producer & Video Director — **BUT does AI-powered cinematic direction himself** (prompt engineering, AI visual gen) | samuel@miro.com ✅ | ⚠️ **the anti-AI-voice pitch is RISKY with him** — he may champion AI video. Reframe, or find the customer-education content owner. Miro has a "Brand Production" team (other names on The Org). |
+| **Miro** | Samuel Rollier | Sr. Brand Producer & Video Director — **does AI-powered cinematic direction himself** | samuel@miro.com ✅ | **VERIFIED (Spencer): used a human VO ~10 months ago on a product video, then switched to AI voice + AI avatar.** Angle = "you know the difference — here's why going back is worth it." Still ⚠️ Samuel may have driven the AI switch — reframe or find the content owner. |
 
 **Emails to re-verify before send (Apollo "User Managed"):** Andrew Landini, Madison Fenton, Justin Jones.
 **AI-voice-company framing (Miro etc.):** never call their videos "cringe" — frame as an upgrade with an easy proof (re-voice one, side-by-side), tied to their human/creative brand. And check who *actually* made that call before pitching them.
