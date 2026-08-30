@@ -24,9 +24,9 @@ One entry per email. Update "Result" when a reply lands.
 
 ## 2026-08-30 — Figma (Sydney Halle) — cold
 - Contact: Sydney Halle, Brand Producer (ex-Instrument), shalle@figma.com
-- Hook / angle: went through Figma's video content, style stood out (modern, distinct, craft); VO uneven across tutorials + brand/in-product videos have none → one consistent experienced voice
+- Hook / angle: plain fan note — liked Figma's video style/modern vibe/design; some tutorials have VO, brand + product videos don't → offer a consistent voice
 - Ask: be the consistent voice for their videos
-- Reel linked: custom sample [LINK] (Spencer to record/fill) + spencerzvoice.com
+- Reel linked: custom sample(s) [LINK] (Spencer to cut/fill) + spencerzvoice.com. Credits: AWS rollouts, Artlist, Venmo, Dell (no FIFA — design/brand audience)
 - New email or thread reply: new email
 - Status: draft in Bingo — Spencer to review + send
 - Follow up on: 7–10 days after send if no reply
