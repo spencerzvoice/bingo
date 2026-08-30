@@ -14,9 +14,9 @@ One entry per email. Update "Result" when a reply lands.
 
 ## 2026-08-30 — Notion (Cory Zapatka) — cold
 - Contact: Cory Zapatka, Video Lead (Emmy winner, ex-Vox/Verge Science), coryz@makenotion.com
-- Hook / angle: went through Notion's video work, taken by the spots (Think Together, "AI Can't Replace Teamwork") — clear human feel, beautifully made. They already buy pro VO → roster add
+- Hook / angle: editorial/story quality of Notion's videos (Cory's Verge lineage — don't name it). NB: do NOT reference "Think Together" — produced by Ways and Means (LA prod co), leaning on it reads out of touch. They already buy pro VO → roster add
 - Ask: be one of the outside voices Notion uses
-- Reel linked: custom sample [LINK] (Spencer to record/fill) + spencerzvoice.com
+- Reel linked: TWO samples — (1) re-voice of "AI Can't Replace Teamwork" spot; (2) a Notion product-update video that had NO narration — Spencer wrote the script + voiced it. + spencerzvoice.com. Credits: FIFA/Noah Media doc series (KEPT — relevant to Cory's documentary background), Venmo, AWS, Dell
 - New email or thread reply: new email
 - Status: draft in Bingo — Spencer to review + send
 - Follow up on: 7–10 days after send if no reply

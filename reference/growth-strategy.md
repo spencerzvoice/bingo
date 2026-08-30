@@ -92,7 +92,7 @@ Roles below re-checked via web search 2026-08-30. Source: `C:\Users\spenc\Deskto
 The top 3 are the "already buys VO, just inconsistent or unaware" set — the fastest conversions.
 
 1. **Webflow — Marc Andrews.** Near-daily video output, narration is inconsistent in-house. Clearest structural need. Lead the funnel here. **Spencer has already re-voiced 2 of their videos (MCP 2.0 product piece to their music + "Migrate Your CMS" tutorial) — both go in the email as samples.** Email drafted 2026-08-30, credits leaned to AWS/Artlist (not FIFA — tech audience).
-2. **Notion — Cory Zapatka.** Already buys pro VO for ad-type spots. Easiest yes; just needs to know Spencer exists.
+2. **Notion — Cory Zapatka.** Already buys pro VO for ad-type spots. Easiest yes. **Note:** "Think Together" spot = made by Ways and Means (LA prod co) — don't reference it. Spencer sending 2 samples: re-voice of "AI Can't Replace Teamwork" + a no-VO product-update video he scripted & voiced. Email drafted 2026-08-30, FIFA credit kept (Cory's documentary background).
 3. **Figma — Sydney Halle.** Proven VO spend on some tutorials but talent is uneven/inexperienced and inconsistent; showcase content has none. Demonstrated willingness to pay + a clear quality gap + strong aesthetic fit.
 4. **Framer — Andy Orsow.** Confirmed pro VO on paid-ad + product videos. "Consistent voice across your video types" now stands up.
 5. **Miro — Samuel Rollier.** Mostly AI, but still hires real VO for product-tier pieces ("Product Acceleration"). Pitch that tier only.
