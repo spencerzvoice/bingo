@@ -101,16 +101,16 @@ A ~20–30 sec recording of Spencer reading copy lifted from **one of that compa
   - **The rest:** email 1 = reel + "happy to do a custom read of [name their specific video] — say the word." Record theirs only when they reply.
 
 **Sample-match per company (identified 2026-08-30 — record ~20–30 sec matching each's tone/pace/music energy):**
-| Company | Video to match | Notes |
+| Company | Video to match — link | Notes |
 |---|---|---|
-| Figma | **"Figma Make" or "Figma Sites" launch film** (Config 2025), or "All the launches at Config 2025" (YouTube `NHodnYFUT_I`) | Polished motion + VO — his lane |
-| Notion | **Notion 3.0 launch film** (Make with Notion 2025) or the **Notion Mail** launch video | Warm, human, understated — ideal fit |
-| Canva | **"Canva Create 2025: Visual Suite 2.0"** (YouTube `1GNYx2P1OB8`), or a Canva AI feature video | Higher energy |
-| HubSpot | **"HubSpot Breeze: AI Tools — Copilot, Agents and Intelligence"** (YouTube `nVmYD6QxT1I`, May 2025) | Product-explainer style (Funnel B) |
-| Atlassian | A **Rovo product video** / Team '25 keynote sizzle ("human-AI collaboration") | Atlassian "Content Studio" = narrative-led branded content |
-| Asana | **"AI Teammates" launch video** (Sept 2025) or the AI Teammates product overview on asana.com | Calm, confident brand tone |
-| Pluralsight | Their **"Pluralsight for Business" platform overview** or a tech-skills-gap brand film (check their YouTube for the latest) | No standout flagship surfaced |
-| Articulate | An **Articulate 360 / Rise 360 product video** | ⚠️ Articulate added AI TTS voiceover to their product in 2025 — pitch **brand/marketing** video, not course narration; they're bullish on synthetic voice for course-building |
+| Figma | "All the launches at Config 2025": youtube.com/watch?v=NHodnYFUT_I · Config 2025 keynote: watch?v=5q8YAUTYAyk · individual Figma Make/Sites/Draw films on youtube.com/@Figma | Polished motion + VO — his lane |
+| Notion | Make with Notion 2025 keynote (Ivan Zhao): youtube.com/watch?v=KZ3hAy_XZwI · Notion 3.0 / Notion Mail standalone films on youtube.com/@Notion | Warm, human, understated — ideal fit |
+| Canva | "Canva Create 2025: Visual Suite 2.0": youtube.com/watch?v=1GNYx2P1OB8 · Uncharted keynote: watch?v=LupwvXsOQqs | Higher energy |
+| HubSpot | "HubSpot Breeze: AI Tools — Copilot, Agents and Intelligence": youtube.com/watch?v=nVmYD6QxT1I · Official Breeze AI Tutorial: watch?v=OHJQe8kI5h4 | Product-explainer style (Funnel B) |
+| Atlassian | "Rovo: AI-native teamwork…": youtube.com/watch?v=5L6gnz12on4 · "Meet Rovo, your AI-powered teammate": watch?v=PKw0uhPKTds | "Content Studio" = narrative-led branded content |
+| Asana | "Introducing Asana AI Teammates": youtube.com/watch?v=BARSjoW4ino · Summit talk: watch?v=XzLhFtL06OI · asana.com/demo/ai-teammates | Calm, confident brand tone |
+| Pluralsight | No standout flagship — pick the latest brand/product-overview piece from youtube.com/c/pluralsight/videos | — |
+| Articulate | "Transform Training with Articulate 360": youtube.com/watch?v=hWNDsX4vVbY (Aug 2025) | ⚠️ Articulate added AI TTS voiceover to their product in 2025 — pitch **brand/marketing** video, not course narration |
 
 **Pulling the copy:** watch the video, note the 20–30 sec stretch that best shows range (usually the open or a key feature beat), record matching their pace and the energy of the music bed.
 
