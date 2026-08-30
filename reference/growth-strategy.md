@@ -68,7 +68,26 @@ The current pipeline (Cheil, Team One, Untold, Octagon, Anomaly) is **ad agencie
 
 ---
 
-### Named contacts so far (from web search — thin; the funnel search above is the real source)
+### Funnel A — Apollo export received 2026-08-30 (`C:\Users\spenc\Desktop\Client Outreach\Contact CSV\funnel a-apollo-contacts-export.csv`, 17 contacts)
+
+**Primary target per company (owns video):**
+| Company | Contact | Title | Email | VO check |
+|---|---|---|---|---|
+| Notion | Cory Zapatka | Video Lead | coryz@makenotion.com ✅ | unverified — Spencer to check |
+| Vercel | Andrew Landini | Head of Video | andrew.landini@vercel.com ⚠️verify | unverified |
+| Miro | Samuel Rollier | Sr. Brand Producer & Video Director | samuel@miro.com ✅ | **VERIFIED: product/tutorial videos use AI voice + AI avatar.** Angle = human upgrade; email drafted. Check if tutorials-only + if a separate "customer education" owner exists. |
+| Webflow | Alexander Diner | Head of Brand Studio | alexander.diner@webflow.com ✅ | unverified; already viewed Spencer's profile |
+| Linear | Ari Mojdeh | Filmmaker, Brand & Product Storytelling | ari@linear.app ✅ | unverified |
+| Framer | Justin Jones (LinkedIn peer angle) + Andy Orsow (andy@framer.com ✅) | Video Marketeer / Video Marketer | — | VERIFIED: uses real VO, inconsistently |
+| Figma | Sydney Halle | Producer, Brand Studio | shalle@figma.com ✅ | unverified; Madison Fenton (mfenton@figma.com ⚠️verify) = backup |
+
+**Secondary:** Notion — Alex Tamura (Creative Ops & Production, Video; would *book* the VO), Billy Disney (Video Producer, Customer Education). Webflow — Nick Blackmon (Manager, Brand Studio).
+**Skip (not video):** Julian Lehr (Linear growth/brand), Daniel Linthwaite + Marijana Pavlinić (Vercel designers), Marc Andrews (Webflow, vague).
+**Emails to re-verify before send (Apollo "User Managed"):** Andrew Landini, Madison Fenton, Justin Jones, Marijana Pavlinić.
+
+**Framing note for AI-voice companies (Miro, and any others):** don't call their videos "cringe" to their face — frame as an upgrade with an easy proof (re-voice one, side-by-side). Tie the pitch to their human/creative brand identity.
+
+### Named contacts (older — from web search)
 
 **Batch 1 — emails Hunter-verified by Spencer 2026-08-30, drafts written, NOT yet sent (Spencer re-targeting first):**
 | Company | Name | Role | Email | Verdict |
