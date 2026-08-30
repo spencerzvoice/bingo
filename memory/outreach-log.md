@@ -26,7 +26,7 @@ One entry per email. Update "Result" when a reply lands.
 - Contact: Sydney Halle, Brand Producer (ex-Instrument), shalle@figma.com
 - Hook / angle: plain fan note — liked Figma's video style/modern vibe/design; some tutorials have VO, brand + product videos don't → offer a consistent voice
 - Ask: be the consistent voice for their videos
-- Reel linked: custom sample(s) [LINK] (Spencer to cut/fill) + spencerzvoice.com. Credits: AWS rollouts, Artlist, Venmo, Dell (no FIFA — design/brand audience)
+- Reel linked: TWO samples of their own videos — (1) re-voice of "Figma Motion basics: Path trim" tutorial (orig. likely an employee read); (2) "Introducing Figma Make" no-VO spot — Spencer wrote script + voiced. + spencerzvoice.com. Credits: AWS rollouts, Artlist, Venmo, Dell (no FIFA — design/brand audience)
 - New email or thread reply: new email
 - Status: draft in Bingo — Spencer to review + send
 - Follow up on: 7–10 days after send if no reply
