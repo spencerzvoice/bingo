@@ -55,9 +55,10 @@ _Auto-logged (see the memory protocol in CLAUDE.md). Keep status lines current; 
 ### Justin Jones — "Education at Framer" / Video Marketeer (Amsterdam, remote)
 **Verified from screenshots 2026-08-30:** he is the **on-camera host of Framer's Academy** — talking-head + screen-share tutorials, published ~weekly, his face/voice/format. Per his LinkedIn (his words): also does feature-launch videos. One-man band: on camera, editing, motion, scriptwriting. **Also a voice actor** (headline).
 - **Academy tutorials = no VO opportunity** — it's his show.
-- **Potential opening = feature-launch videos, IF they're narrated-over-footage** (not talking-head / not pure motion). **UNVERIFIED — Spencer must watch a couple of Framer's "Introducing [feature]" videos before pitching.** That check decides whether Framer is a real target or weak.
-- **If narrated:** angles are (1) overflow / second voice when volume spikes or he's on camera; (2) "you carry all of this — hand off the VO"; (3) peer-first, build the relationship, no rush.
-- 2nd degree, 1 mutual, viewed Spencer's profile. Connect as a peer (shared VO). Ryan Cotrupi = internal ally, kept warm.
+- **VERIFIED (Spencer, 2026-08-30): Framer is a real target.** They publish multiple "Framer Update:" videos/month — some with VO, some without; some use real VO artists, some use internal tech people. Latest: **"Framer Agents: Design with AI, Keep Control"** — July 22, 30-sec spot, **1.1M views, uses a VO artist.** Signal: they may be investing more in these.
+- **THE PITCH: "be the consistent voice for Framer Update."** They rotate voices inconsistently — a 1.1M-view series benefits from one recognizable voice. Retainer-shaped. Say it plainly to Justin + lead with the peer (fellow-VO) framing.
+- **Custom sample = re-voice the July 22 "Framer Agents: Design with AI, Keep Control" spot** (30 sec, VO-driven, flagship). Exact match for the work.
+- 2nd degree, 1 mutual, viewed Spencer's profile. Ryan Cotrupi = internal ally, kept warm.
 
 ### Ryan Cotrupi (Framer) — new LinkedIn connection (Funnel A)
 - Title: "Editor | Photographer | Digital Creator | Digital Marketer at Framer" — grab-bag; role unclear (could be the person who makes their video, a junior generalist, or a route to the brand lead).
