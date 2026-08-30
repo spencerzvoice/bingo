@@ -100,6 +100,20 @@ A ~20–30 sec recording of Spencer reading copy lifted from **one of that compa
   - **Top ~8 companies (2–3 per funnel, best retainer fit):** record the custom sample *up front*. Email 1 leads with it — "I put my voice on [specific video] — here's how it sits: [link]."
   - **The rest:** email 1 = reel + "happy to do a custom read of [name their specific video] — say the word." Record theirs only when they reply.
 
+**Sample-match per company (identified 2026-08-30 — record ~20–30 sec matching each's tone/pace/music energy):**
+| Company | Video to match | Notes |
+|---|---|---|
+| Figma | **"Figma Make" or "Figma Sites" launch film** (Config 2025), or "All the launches at Config 2025" (YouTube `NHodnYFUT_I`) | Polished motion + VO — his lane |
+| Notion | **Notion 3.0 launch film** (Make with Notion 2025) or the **Notion Mail** launch video | Warm, human, understated — ideal fit |
+| Canva | **"Canva Create 2025: Visual Suite 2.0"** (YouTube `1GNYx2P1OB8`), or a Canva AI feature video | Higher energy |
+| HubSpot | **"HubSpot Breeze: AI Tools — Copilot, Agents and Intelligence"** (YouTube `nVmYD6QxT1I`, May 2025) | Product-explainer style (Funnel B) |
+| Atlassian | A **Rovo product video** / Team '25 keynote sizzle ("human-AI collaboration") | Atlassian "Content Studio" = narrative-led branded content |
+| Asana | **"AI Teammates" launch video** (Sept 2025) or the AI Teammates product overview on asana.com | Calm, confident brand tone |
+| Pluralsight | Their **"Pluralsight for Business" platform overview** or a tech-skills-gap brand film (check their YouTube for the latest) | No standout flagship surfaced |
+| Articulate | An **Articulate 360 / Rise 360 product video** | ⚠️ Articulate added AI TTS voiceover to their product in 2025 — pitch **brand/marketing** video, not course narration; they're bullish on synthetic voice for course-building |
+
+**Pulling the copy:** watch the video, note the 20–30 sec stretch that best shows range (usually the open or a key feature beat), record matching their pace and the energy of the music bed.
+
 ---
 
 ## Lane 2 — Agent representation
