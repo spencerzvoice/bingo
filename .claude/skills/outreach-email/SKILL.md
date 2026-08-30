@@ -57,16 +57,24 @@ use the `vo-pricing` skill.
 
 ## Step 4 — Draft (Spencer's rules, verbatim)
 
-**Whose voice this is (Spencer, 2026-08-30):** a 36-year-old artist building his VO
-business — produces great work, wants to get better, *not corporate*. He does not
-know or care about the prospect's internal production ops, so never write as if he
-does ("you're publishing at a pace most in-house teams…", "does quiet work for the
-brand" — both got killed). The real opener is a genuine fan note: *"I went through
-your video catalog and was really impressed — the style, the edgy modern vibe, the
-design of it all — and I wanted to reach out."* Specific, warm, peer-to-peer.
-Observations must be things any viewer could notice ("some VO sounds in-house, some
-more polished"), not insider analysis. Sell what's true — he can do the work — without
-posturing as something he isn't. Plain words, contractions, short paragraphs.
+**Whose voice this is (Spencer, 2026-08-30 — he flagged this TWICE, do not drift):**
+a 36-year-old artist building his VO business — produces great work, wants to get
+better, *not corporate*. 
+
+THE RULE: **write only what any ordinary viewer could genuinely notice. No insider
+analysis, no industry-authority framing, no posturing.** Killed phrases, learn the
+pattern: "you're publishing at a pace most in-house teams…", "does quiet work for
+the brand", "a real editorial quality — written and paced by someone who cares about
+story", "rare in this space", "lives or dies on how clear the narration is". All of
+these = pretending to survey/diagnose their operation. He doesn't do that.
+
+The opener is a plain fan note, his own words: *"I went through your video catalog
+recently and really liked it — the style, the current/edgy vibe, the design — and I
+wanted to reach out."* That's the whole move. Then who he is, the samples, the
+credits, the close. Allowed observations are concrete and surface-level ("some of
+the VO sounds in-house, some more polished", "a lot of the product videos have no
+voice at all"). Sell what's true — he can do the work — without dressing him up as
+something he isn't. Plain words, contractions, short paragraphs.
 
 - **Opener by recipient:** women and older men get a formal opener —
   "Hello [Name], I hope this message finds you well." Younger men get casual —
