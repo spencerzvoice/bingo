@@ -16,6 +16,7 @@
 ## Token discipline (Spencer, 2026-08-30)
 - **Before any token-heavy action — web-research runs, browser crawls, large batch generation (e.g. writing 10 emails) — confirm with Spencer first.** Don't produce big outputs speculatively. Organizing/structuring what we already have is cheap and fine; generating fresh bulk content or running research loops needs a green light.
 - Web search is a poor tool for finding mid-level named contacts (video producers etc.) — it returns SEO and job posts. Don't grind it. Point Spencer at Apollo/Hunter/LinkedIn People-tab and take the exported list from him.
+- **Lane 1 division of labour (learned the hard way 2026-08-30):** Spencer does the contact sourcing (Apollo/LinkedIn) and the creative (writes his own sample copy, picks the source video). Bingo does the funnel/targeting structure and **writes the outreach emails** once names + copy are provided. Do NOT produce speculative creative drafts (sample scripts etc.) — he writes those himself. Don't claim to have "watched" or verified something Bingo can only partially access.
 
 ## Working rules for VO tasks
 - **Pricing:** USD → GVAA, EUR → GFTB. Never cross-apply or convert. Quote fair market first, flags before numbers, never fabricate a rate — use the `vo-pricing` skill.
