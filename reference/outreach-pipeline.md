@@ -48,6 +48,11 @@ _Auto-logged (see the memory protocol in CLAUDE.md). Keep status lines current; 
 - **Pricing plan:** one-off fair rate **~$350/video**; recurring retainer **$300/month** for 1 guaranteed video (24h turnaround, 12-mo rate lock); **~$275** per additional video same month. **Floor $250** — no mate's rates; VC-backed company, his credits justify it. Quote per-video first, then offer the retainer. No pricing in the first send. Confirm paid-media spend + usage term when pricing comes up (real ad spend → attach 12-mo digital usage, rate rises).
 - Note for next send: all files on Drive, not mixed Drive links + 21MB attachments (near Gmail's limit).
 
+### Ryan Cotrupi (Framer) — new LinkedIn connection (Funnel A)
+- Title: "Editor | Photographer | Digital Creator | Digital Marketer at Framer" — grab-bag; role unclear (could be the person who makes their video, a junior generalist, or a route to the brand lead).
+- **2026-08-30: accepted Spencer's connection request.** Plan: short warm no-ask note to learn his role (draft given) → if video-side, move to the "your videos have never had a voice" angle; if not, keep warm + ask who runs brand video. Keep it in the LinkedIn thread.
+- Framer = design-led (Funnel A) — their videos are music/motion, no VO → the "never had a voice" pitch applies.
+
 ### Janae David (Team One, Producer) — warm LinkedIn lead
 - **Status:** replied on LinkedIn **Aug 28** — apologised for the delay, thanked Spencer for following up, **asked for his reel**. **Aug 29: Spencer sent his commercial reel link + a short warm reply on LinkedIn** ("thanks for getting back to me, no worries on the delay… here's the link"). Reel = Drive file `1c7_eCvNwox47JShpSUZjrGTjIggKSE1j` (his **commercial cut**, confirmed; Spencer renamed the file himself; "anyone with link" — verified viewable). Best forward motion of the whole Team One push (other 4 Team One contacts silent since Aug 24).
 - **Channel:** LinkedIn DM only — her email `janae.david@teamone-usa.com` **bounces**. Get a working address via Hunter.io before real project comms.
