@@ -24,6 +24,25 @@ What Spencer changed from Bingo's drafts, i.e. his real voice (feed the `outreac
 - Follow up on: ~2026-09-10 if no reply (10 days) — new angle/proof, not "just bumping"
 - Result:
 
+## 2026-08-31 — Noah Media (Dan Shaw + Neil Housley) — warm reconnect [DRAFTED]
+- Contacts: Dan Shaw (dan.shaw@noahmediagroup.com), Neil Housley (neil.housley@noahmediagroup.com) — both producers on the FIFA WC 2026 Preview Series, last contact 06/10/2026. Spencer thinks they were contract and have moved on from Noah Media.
+- Angle: warm "what are you working on these days / anything on the horizon" — reconnect wherever they've landed. No full-name intro (worked together). "wherever you've landed since" = acknowledge a possible move without asserting it. Rates line deliberately left OUT (relationship reopener, not a quote).
+- Send: separately; each as a REPLY in the June thread.
+- Status: drafted in Bingo — Spencer to send.
+
+## 2026-08-31 — Octagon (Sean LaGamma) — 2nd follow-up [DRAFTED, hook ready]
+- Contact: Sean LaGamma, EP, sean.lagamma@octagon.com. Initial ~Jul 29, 1st follow-up Aug 24, no reply.
+- Hook (✅ verified, Hartford Business Journal + octagon.com): Octagon runs on-the-ground marketing for 8 FIFA 2026 sponsors across all 16 host cities, $1B+, lead agency for the Trophy Tour. Spencer = narrator on Noah Media's official FIFA WC 2026 preview series. Real, timely tie.
+- This is the FINAL touch — email says "I'll leave it here after this." If no reply → October revisit.
+- Send: ~Sept 2–3, reply in existing thread. No production needed.
+
+## 2026-08-31 — Team One tracker actions (Spencer's calls)
+- **Maya Roberts** — SCRAPPED (bounced, bad email). Status→"Dropped" in tracker (row 8). Off the follow-up list.
+- **Tami Hachiya** — SCRAPPED (bounced). Status→"Dropped" (row 11). Off the list.
+- **Erick Sosa** — NO 3rd chase. 2 LinkedIn touches (Aug 6 + Aug 24) unanswered; junior + Medium. Connection stays; passive-warm; October revisit or a real trigger. Tracker Next Action set to "Hold - not due" (row 9).
+- **Janae David** — reel SENT via LinkedIn ~Aug 31. Status→"Reel Sent (LinkedIn) - Awaiting Response" (row 13). Email still bounced — LinkedIn is the channel.
+- **Untold (Tanya Ferguson) + Team One (Sascha Peuckert)** — 2nd follow-up planned ~Sept 8–10, each needs a fresh custom sample. Decision pending: worth the production vs. Funnel B priority.
+
 ## 2026-08-31 — Coast2Coast (Portia Scott) — re-approach
 - Contact: Portia Scott, casting/talent, Coast2Coast Talent, portia4coast@gmail.com. Prior contact via Bodalgo (not logged in Gmail — was via the platform).
 - Hook / angle: saw her Bodalgo post for an Afro Latino animation role (NOT Spencer's fit — used only as the reason he reconnected). Asking about open work / roster.
