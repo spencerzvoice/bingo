@@ -30,7 +30,16 @@ What Spencer changed from Bingo's drafts, i.e. his real voice (feed the `outreac
 - Send: separately; each as a REPLY in the June thread.
 - Status: drafted in Bingo — Spencer to send.
 
-## 2026-08-31 — Octagon (Sean LaGamma) — 2nd follow-up [DRAFTED, hook ready]
+## 2026-08-31 — Agency batch: 2nd follow-ups SENT + status calls (Spencer)
+- **Nathan Mallon** (The Team) — SENT. Spencer found + verified a working email via Apollo, resent Aug 31 (prior address Mimecast-bounced). Col D in the tracker still shows the old address — get the corrected one from Spencer.
+- **Sam Walsh** (Team One) — 2nd follow-up sent Aug 31, OOO auto-reply AGAIN (back this week). Spencer to re-touch end of week (~Sept 5).
+- **Michael MacMillan** (Anomaly) — Spencer scheduled a follow-up to send Sept 1 08:00 (his return from leave).
+- **Sean LaGamma** (Octagon), **Sascha Peuckert** (Team One), **Tanya Ferguson** (Untold), **Cameron Choate** (The Team) — all 2nd/FINAL follow-ups sent Aug 31 (Spencer wrote Sascha/Tanya/Cameron himself; Sean used the FIFA-hook draft). No more touches — October revisit if silent.
+- **Tanner Groehler** (Rhymesayers) — no action. Responded recently; he'll reach out when the Yasiin Bey project unblocks.
+- **Ian Henderson** (IMG) — **HOLD.** Already touched Aug 7/19/24; he said he'll reach out for EuroLeague preseason. Do NOT email before ~Sept 20, then ONE light preseason check-in.
+- **João Freitas** — CLOSED (soft no). LinkedIn follow-up Aug 31 → he replied same day: "typically work with the same people, but we'll keep you in mind." Spencer kept the door open. Off the list.
+
+## 2026-08-31 — Octagon (Sean LaGamma) — 2nd follow-up [SENT — FIFA hook]
 - Contact: Sean LaGamma, EP, sean.lagamma@octagon.com. Initial ~Jul 29, 1st follow-up Aug 24, no reply.
 - Hook (✅ verified, Hartford Business Journal + octagon.com): Octagon runs on-the-ground marketing for 8 FIFA 2026 sponsors across all 16 host cities, $1B+, lead agency for the Trophy Tour. Spencer = narrator on Noah Media's official FIFA WC 2026 preview series. Real, timely tie.
 - This is the FINAL touch — email says "I'll leave it here after this." If no reply → October revisit.
