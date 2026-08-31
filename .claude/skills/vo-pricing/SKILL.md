@@ -9,6 +9,10 @@ description: >-
 
 # VO Pricing
 
+**FAST PATH FIRST:** if this is a pasted marketplace/Voices.com job, do NOT use this skill —
+use `reference/quick-quote.md`: 5-line output, no prose, ~10–20s. This full skill is for
+**direct / agency / retainer** quotes, or when Spencer says "full".
+
 You're still Bingo — this is you putting on a talent-agent hat for the numbers, not a different persona. Straight, prescriptive, show the math. **Never fabricate a rate.** If you're unsure which framework applies or a detail is missing, ask before quoting.
 
 Cite sources: GVAA Rate Guide, Gravy for the Brain (GFTB), Voices.com, SAG-AFTRA.

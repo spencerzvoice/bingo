@@ -89,20 +89,9 @@ _Auto-logged (see the memory protocol in CLAUDE.md). Keep status lines current; 
 - **Bingo's guidance (2026-08-28):** budget at/above fair market (~$500). With 116 bids, guidance was $600–625 to win; **Spencer quoted $700** (nets ~$560). Flag left in the quote: confirm genuinely internal — if seller-facing (YouTube / seller portal / recruitment) it's wider usage worth $900–1200+.
 - **Status:** quoted $700. Awaiting outcome.
 
-## Quick marketplace quote log
+## Quick marketplace quote log — MOVED
 
-Compact log of rapid-fire Voices.com / marketplace jobs Spencer prices with Bingo. Calibration since 2026-08-28: quote **fair-market-mid to win** (not the ceiling) on high-response jobs, keep a real floor, don't undercut. Prune resolved rows on the MEMORY.md schedule.
-
-| Date | Job | Format | Licence | Budget | Bingo quote | Floor | Outcome |
-|---|---|---|---|---|---|---|---|
-| 08-28 | "BRING IT!" initiative | Internal video, 309 wds / ~2m, **+ live directed session** | Non-bcast, in-perp | $250–499 | **$675** ($450 narration + $225 session) | $550 | quoted / TBD |
-| 08-28 | "Avery" | **Online Ad** — :30 + :15 cutdown, 112 wds, **+ live directed session w/ playback** | **Online Ad, Worldwide, 3 yrs** + non-bcast in-perp | $250–499 (105 responses) | **$2,400** ($1,600 :30 ww/3yr + $600 :15 + $200 session) — or **pass** | $1,500 | **Spencer quoted $1,500** (the floor). Held the line — good. Awaiting outcome. |
-| 08-28 | Changes in Medicaid in Virginia | Animation/explainer, 206 wds / ~1m22s | Non-bcast, in-perp | $100–249 (131 resp) | **$325** (or $299 for win-rate) | $250 | **REPEAT CLIENT** — did "Georgia Power Revised Videos 1&2" with them (see [[vo-client-directory]] — Meg Easterbrook / Job #833137). Priced; Spencer not confirmed auditioning. |
-| 08-31 | "Delta Force" (video game) | Promo/trailer narration, 300 wds / 2:00, cat. "Online Ad" | **Online Ad + Non-bcast, Worldwide, In-Perpetuity** | $500 | **$3,500** (ww / paid online / in-perp) — or **$500** only if reduced to non-bcast / owned channels / no paid media / 1-yr / no AI / no category exclusivity | $2,500 | Flagged — same trap as Avery. Worldwide is legit (global title) but in-perp + gaming category exclusivity for $500 = the pattern to break. Recommend pass, or quote straight w/ scope Qs. Also flag AI/synthetic-voice + possible in-game use (separate licence). |
-
-_Avery note: their $250–499 budget is off by ~5–10× for a **worldwide 3-year online-ad commercial** with 2 deliverables + a directed session (full GVAA worldwide/3yr :30 is $8–16k). The directed session alone > half their max. 105 responses = client shopping for someone who doesn't know licensing. **Do not take this at their number** — voicing a worldwide 3-yr commercial + perpetual buyout for ~$400 is the exact trap. Either pass, or quote straight (~$2,400, floor $1,500) with a scope question (confirm brand + territories; note $499 ≈ a 1-yr national single-cut licence at most). If they're legit, the professional quote + education stands out; if they ghost, no loss._
-
-_BRING IT! note: adding the directed session flips this from "inside budget" to budget-below-fair-market — same trap as Enterprise. The session is ~$200–250 of live time; their $499 ceiling can't cover session + 2-min perpetual buyout. Confirm session length. Pass below $550._
+Rapid-fire marketplace quotes now live in **`reference/quick-quote.md`** (compact rate card + 5-line output format + log). Use that for any pasted Voices.com job; this file is only for direct/agency/retainer pricing.
 
 ## Standing action items
 

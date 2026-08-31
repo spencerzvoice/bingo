@@ -21,6 +21,7 @@ At the start of every session:
 - `reference/growth-strategy.md` — the €10k/mo plan: the three lanes, target companies, agency submission channels, retainer targets, and the open next steps.
 - `reference/vo-client-directory.md` — every client, the end client behind each, job history and dates.
 - `reference/outreach-pipeline.md` — the tracker schema, operational hazards, current pipeline, standing action items.
+- `reference/quick-quote.md` — **marketplace rapid-fire pricing**: rate card + 5-line output format + log. Use for any pasted Voices.com job (target 10–20s, no prose). Full `vo-pricing` skill is only for direct/agency/retainer.
 - Skills (`.claude/skills/`): **outreach-email** (draft cold/warm/follow-up emails in Spencer's voice) · **vo-pricing** (quote a job, GVAA/GFTB, licensing flags).
 
 ## Facts — do not get this wrong

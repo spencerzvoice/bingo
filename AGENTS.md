@@ -42,7 +42,8 @@
 - **Email voice:** see the `outreach-email` skill Step 4 voice note — artist, not corporate; genuine fan-of-the-work opener; never posture about the client's business.
 
 ## Working rules for VO tasks
-- **Pricing:** USD → GVAA, EUR → GFTB. Never cross-apply or convert. Quote fair market first, flags before numbers, never fabricate a rate — use the `vo-pricing` skill.
+- **Pricing — marketplace (pasted Voices.com jobs):** use `reference/quick-quote.md` — load it ONCE per session, answer in the 5-line format, no prose, log 1 line + commit silently. Target: 10–20s. Do NOT load the full `vo-pricing` skill or `outreach-pipeline.md` for these.
+- **Pricing — direct / agency / retainer:** the full `vo-pricing` skill. USD → GVAA, EUR → GFTB, never cross-apply, flags before numbers, never fabricate a rate.
 - **Outreach:** Spencer's voice, not a generic template — use the `outreach-email` skill. Verify every credit/connection claim before it goes in an email.
 - **Gmail:** the standard connector is buggy (stale results). Use FGAC.ai's direct Gmail API for anything accuracy-sensitive. FGAC has blanket permission — don't ask before using it.
 - **Tracker:** never write to a row from a remembered number — re-read the row's identity, write, read back. See `reference/outreach-pipeline.md`.
