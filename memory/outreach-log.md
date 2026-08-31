@@ -37,6 +37,7 @@ What Spencer changed from Bingo's drafts, i.e. his real voice (feed the `outreac
 - **Sean LaGamma** (Octagon), **Sascha Peuckert** (Team One), **Tanya Ferguson** (Untold), **Cameron Choate** (The Team) — all 2nd/FINAL follow-ups sent Aug 31 (Spencer wrote Sascha/Tanya/Cameron himself; Sean used the FIFA-hook draft). No more touches — October revisit if silent.
 - **Tanner Groehler** (Rhymesayers) — no action. Responded recently; he'll reach out when the Yasiin Bey project unblocks.
 - **Ian Henderson** (IMG) — **HOLD.** Already touched Aug 7/19/24; he said he'll reach out for EuroLeague preseason. Do NOT email before ~Sept 20, then ONE light preseason check-in.
+- **Janae David** (Team One) — reel reviewed, positive. LinkedIn Aug 31: "it's great, I'll definitely keep you in mind." Spencer asked what she's working on + gave spencer@spencerzvoice.com (her Team One address bounces). No current need; warm. Tracker → "Responded (LinkedIn) - Positive, No Current Need", monitor.
 - **João Freitas** — CLOSED (soft no). LinkedIn follow-up Aug 31 → he replied same day: "typically work with the same people, but we'll keep you in mind." Spencer kept the door open. Off the list.
 
 ## 2026-08-31 — Octagon (Sean LaGamma) — 2nd follow-up [SENT — FIFA hook]
