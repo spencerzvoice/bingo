@@ -22,6 +22,36 @@ One entry per email. Update "Result" when a reply lands.
 - Follow up on: ~2026-09-10 if no reply (10 days) — new angle/proof, not "just bumping"
 - Result:
 
+## 2026-08-31 — Framer (Andy Orsow) — cold
+- Contact: Andy Orsow, "Video Marketer @ Framer", andy@framer.com
+- Hook / angle: liked Framer's videos (style/vibe/design); VO inconsistent across the Framer Update series → offer a consistent voice. Casual opener.
+- Ask: be the regular voice for their videos
+- Reel linked: TWO samples of their own videos — (1) re-voice of "Framer Agents: Design with AI, Keep Control" spot; (2) "Framer Update: Interactive Shaders" piece. + spencerzvoice.com. Credits: AWS rollouts, Artlist, Venmo, Dell (no FIFA — tech audience)
+- New email or thread reply: new email
+- Status: draft in Bingo — Spencer recording samples, sending later 2026-08-31
+- Follow up on: ~2026-09-11 if no reply
+- Result:
+
+## 2026-08-31 — Linear (Ari Mojdeh) — cold
+- Contact: Ari Mojdeh (she), "Creative & Filmmaking @ Linear", ari@linear.app. (Julian Lehr = fallback, ~2 weeks later.)
+- Hook / angle: liked Linear's sleek/premium videos; most have no VO, the few that do sound in-house → low-pressure "try a voice on a product update". Seed-plant. Formal opener.
+- Ask: try a voice on one of their product updates
+- Reel linked: TWO samples — (1) re-voice of "Automate Triage" product update; (2) a 17-sec coding-environment update that had no VO — Spencer wrote script + voiced. + spencerzvoice.com. Credits: AWS rollouts, Artlist, Venmo, Dell (no FIFA)
+- New email or thread reply: new email
+- Status: draft in Bingo — Spencer recording samples, sending later 2026-08-31
+- Follow up on: ~2026-09-11 if no reply
+- Result:
+
+## 2026-08-31 — Miro (Samuel Rollier) — cold
+- Contact: Samuel Rollier, Sr. Brand Producer, samuel@miro.com. (Antoine Levi antoine@miro.com = retainer play, later.)
+- Hook / angle: NEVER mention AI. Compliment the studio-produced pieces (Samuel's domain — he directs real talent). Position as the real-voice option "for the pieces where you want a real voice." The re-voiced sample IS the argument. If AI comes up in reply: "nothing against the AI stuff — just think some pieces land better with a person," no more.
+- Ask: be the go-to for pieces that use a real voice
+- Reel linked: ONE sample — re-voice of "Miro for Product Acceleration" (currently a weak AI voice). + spencerzvoice.com. Credits: AWS rollouts, Artlist, Venmo, Dell
+- New email or thread reply: new email
+- Status: draft in Bingo — Spencer recording sample, sending later 2026-08-31
+- Follow up on: ~2026-09-11 if no reply
+- Result:
+
 ## 2026-08-30 — Figma (Sydney Halle) — cold
 - Contact: Sydney Halle, Brand Producer (ex-Instrument), shalle@figma.com
 - Hook / angle: plain fan note — liked Figma's video style/modern vibe/design; some tutorials have VO, brand + product videos don't → offer a consistent voice
