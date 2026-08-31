@@ -76,6 +76,15 @@ the VO sounds in-house, some more polished", "a lot of the product videos have n
 voice at all"). Sell what's true — he can do the work — without dressing him up as
 something he isn't. Plain words, contractions, short paragraphs.
 
+**From Spencer's own edits to the first sent batch (2026-08-31) — match this:**
+- Name where he watched: "…going through your videos on LinkedIn and YouTube and really enjoyed them."
+- Let genuine enthusiasm show: "really enjoyed them", "attractive to my eye", "(that I truly liked)", "I even like [specific other video]". Warmer than a neutral draft.
+- "Hey [First]" is fine even for senior people — don't over-formalise.
+- Use specifics and timeframes: "back in July", "went out a week ago", exact product names ("AWS Sagemaker", "Artlist.io").
+- Showing he did his homework beats caution — if a spot was made with an outside studio, name it as shared credit ("the spot you all made with [studio]"), don't tiptoe.
+- Be honest about where he's not established yet ("wanting to expand more into animation", not "I do character voices").
+- Credit line ends "…among others."
+
 - **Opener by recipient:** women and older men get a formal opener —
   "Hello [Name], I hope this message finds you well." Younger men get casual —
   "Hey [Name], hope you're doing well."

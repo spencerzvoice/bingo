@@ -89,6 +89,8 @@ Roles below re-checked via web search 2026-08-30. Source: `C:\Users\spenc\Deskto
 
 ### Funnel A — outreach priority order (set 2026-08-30 after VO scrub)
 
+**STATUS: all 6 sent 2026-08-31** (Webflow, Notion, Figma, Framer, Linear, Miro) — 2 real re-voiced samples each (Miro 1). Tracker rows 89–94. Follow-up window ~Sept 10–11, new-hook only. Vercel NOT sent (see below). Full sent copy + Spencer's voice edits: `memory/outreach-log.md`.
+
 The top 3 are the "already buys VO, just inconsistent or unaware" set — the fastest conversions.
 
 1. **Webflow — Marc Andrews.** Near-daily video output, narration is inconsistent in-house. Clearest structural need. Lead the funnel here. **Spencer has already re-voiced 2 of their videos (MCP 2.0 product piece to their music + "Migrate Your CMS" tutorial) — both go in the email as samples.** Email drafted 2026-08-30, credits leaned to AWS/Artlist (not FIFA — tech audience).
@@ -97,7 +99,7 @@ The top 3 are the "already buys VO, just inconsistent or unaware" set — the fa
 4. **Framer — Andy Orsow.** Confirmed pro VO on paid-ad + product videos. Email drafted 2026-08-31, 2 samples ("Framer Agents" spot + "Framer Update: Interactive Shaders"). Credits AWS/Artlist.
 5. **Miro — Samuel Rollier.** Mostly AI. **Angle: never mention AI** — compliment the studio-produced work, position as the real-voice option "for the pieces where you want a real voice." Re-voiced "Product Acceleration" sample carries the argument. Email drafted 2026-08-31 (1 sample). Antoine Levi = retainer play, later.
 6. **Linear — Ari Mojdeh** (she). Deliberately minimal; the few VO'd vids sound in-house. Seed-plant. Email drafted 2026-08-31, 2 samples ("Automate Triage" + a no-VO coding-env update Spencer scripted). Julian Lehr = fallback ~2wks later.
-7. **Vercel — Andrew Landini.** No VO practice at all. "First voice" / accessibility angle, no budget line. Deprioritized — revisit later or if a warm signal appears.
+7. **Vercel — Andrew Landini.** No VO practice at all — LinkedIn videos are silent graphics, YouTube is founder talks/webinars. No budget line to say yes with. **DECISION 2026-08-31: not sending.** The "first voice" pitch is too weak without a hook. Revisit only on a warm signal (profile view, a posted video role, a reply from elsewhere at Vercel). Contact + verified email (andrew.landini@vercel.com ✅) are on file for when that happens.
 
 ### What Bingo CANNOT gather itself — Spencer's to provide
 
