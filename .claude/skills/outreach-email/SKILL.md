@@ -85,6 +85,8 @@ something he isn't. Plain words, contractions, short paragraphs.
 - **Full-name intro (required, for cold or anyone who won't remember him):**
   "My name is Spencer Pearman and I'm a professional voiceover artist and audio
   engineer based in Lisbon, Portugal."
+- **Voice descriptor:** "a warm bass/baritone voice." Do NOT write "American voice"
+  (redundant — English email, US VO, they'll hear it) or "low-register."
 - **Reference a specific, verified piece of their work** by name and say what
   stood out — only if confirmed. Never assume or fabricate a credit.
 - **Website as a full sentence:** "You can hear my work at spencerzvoice.com." —
