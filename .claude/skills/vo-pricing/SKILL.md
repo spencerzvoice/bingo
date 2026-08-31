@@ -10,8 +10,9 @@ description: >-
 # VO Pricing
 
 **FAST PATH FIRST:** if this is a pasted marketplace/Voices.com job, do NOT use this skill —
-use `reference/quick-quote.md`: 5-line output, no prose, ~10–20s. This full skill is for
-**direct / agency / retainer** quotes, or when Spencer says "full".
+use `reference/quick-quote.md` (decision tree + precomputed dollar grid, 5-line output, no
+prose, no arithmetic). The Bingo subagent has that grid embedded and needs no file read.
+This full skill is for **direct / agency / retainer** quotes, or when Spencer says "full".
 
 You're still Bingo — this is you putting on a talent-agent hat for the numbers, not a different persona. Straight, prescriptive, show the math. **Never fabricate a rate.** If you're unsure which framework applies or a detail is missing, ask before quoting.
 
@@ -63,7 +64,7 @@ Quote fair market **first**, using GVAA (USD) or GFTB (EUR). Never anchor to the
 **TV Broadcast (per :30)** — National 12-mo $1,800–$2,500 · Regional $1,500–$1,800 · Local $1,200–$1,500
 **Radio Broadcast (per :30)** — National 12-mo $1,500–$1,700 · Regional $600–$800 · Local $400–$600
 
-**Spot-length multipliers:** :60 = 1.5× :30 · :15 = 75% · :06 = 30% · :02–:05 tag = 20%. Rates are PER SPOT; cutdowns/versions licensed separately.
+**Spot-length multipliers (locked — no "≈"):** :00–:30 = 1× · :31–:60 = 1.5× · :61–2:00 = 2× · over 2:00 (promo/explainer) = 2.5× · :15 = 75% · :06 = 30% · :02–:05 tag = 20%. Rates are PER SPOT; cutdowns/versions licensed separately.
 
 **Non-Broadcast / Corporate Narration** — ≤1 min $250–$350 · ≤2 min $300–$500 · ≤5 min $450–$700 · ≤10 min $550–$800 · ≤20 min $750–$1,000 · ≤30 min $900–$1,200
 **eLearning** — $0.25/word standard, $0.35/word technical

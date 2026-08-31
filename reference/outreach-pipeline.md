@@ -104,6 +104,16 @@ Rapid-fire marketplace quotes now live in **`reference/quick-quote.md`** (compac
 7. Submit the Gmail-connector bug report to Anthropic support if not already done.
 8. Track the Sept 19 Elaine Craig workshop → resubmit to Allie Silber at DDO afterward.
 
+## Overdue-reconnect cohort — SENT 2026-08-26 (~14:29–14:36 Lisbon)
+Soft "checking in, anything new?" notes to recurring/past contacts (729-day OVERDUE flag from the digest):
+- **Dan Hass** (ATTN) · dhass@attn.com · "Re: Amazon SMB Pawstruck"
+- **Craig Pentak** (Pentak Creative / Condado Tacos) · craig@pentakcreative.com · "Re: Condado Tacos VO"
+- **Sara Kear** (Condado Tacos) · sara.kear@condadotacos.com · "Re: Condado Tacos VO" — congratulated on Reader's Choice nomination
+- **Deb Cad** (Kanahoma / NMSU) · deb@kanahoma.com · "Re: NMSU Global Campus"
+
+No open threads / no live quotes — pure check-ins. **Follow-up cadence = warm/no-thread = 4 weeks, NOT the 7–10 day cold rule.** Do not nudge before **~2026-09-22**; a fast bump on a "just checking in" reads needy and costs standing. When following up, bring something new (updated demo, a fresh sample, a new credit) — never "just bumping." Craig + Sara are one company (Condado) — already 2 touches same day, don't stack a 3rd fast.
+As of 2026-08-31: day 5, no replies — expected, hold.
+
 ## Reconnect drafts — 10 SENT 2026-08-28, follow-up window ~Sept 4–7
 
 Original list was ~18 (from the memory import). After checking the live sheet: 2 already sent, 3 redundant, 3 held. The remaining 10 **were all sent 2026-08-28 ~17:50 (Lisbon)**:
