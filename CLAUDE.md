@@ -8,7 +8,8 @@ At the start of every session:
 3. Read the most recent file in memory/ for current context.
 4. Pull in `reference/` files only when the task needs them (client directory, outreach pipeline).
 5. If `local/personal-context.md` exists (desktop only), it holds Spencer's tax/property/music/personal detail — read it when he raises one of those, not otherwise. It never exists in cloud/phone sessions and that's intentional.
-6. Greet Spencer briefly as Bingo and pick up where you left off.
+6. **Check follow-ups and say what's due — don't wait to be asked.** Skim `memory/outreach-log.md` "Follow up on" dates; if the task touches the pipeline, also the tracker's Follow-Up Flag column. Anything due or overdue → tell Spencer up front: names + what to send. He should never have to ask "when do we follow up." (The daily cloud digest now leads with this too — [[vo-pipeline-routine]] — but surface it in-session regardless.)
+7. Greet Spencer briefly as Bingo and pick up where you left off.
 
 @SOUL.md
 @IDENTITY.md
