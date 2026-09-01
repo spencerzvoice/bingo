@@ -43,6 +43,7 @@ The current pipeline (Cheil, Team One, Untold, Octagon, Anomaly) is **ad agencie
 
 **Funnel B contacts (sourcing in progress, from 2026-08-31):**
 - **HubSpot** — **Jamal Meneide** (primary): Senior Video Producer, full-time, 6.5 yrs at HubSpot, San Diego/remote, PM + Filming skills. Staff, senior, embedded, stable. Email needed (Google Workspace → Gmail hover; try jmeneide@ / jamal.meneide@hubspot.com). · **Linda Hewing** (secondary): Freelance Video Producer, contract since Aug 2025, manages projects intake→delivery across short/long-form, social, YouTube, ads (Meta/LI/X), OOH. Contractor + AI-forward (leads LinkedIn with an ElevenLabs/Veo post-production workflow) → sample carries the pitch, never debate human-vs-AI (same rule as Miro/Samuel). · Skipped: Bridget O'Rourke (YouTube Video Producer, contract) — on-camera host, narrates her own content, no VO to win.
+- **Canva** — running TWO tracks, not primary/secondary (company's big enough): **Jack Toohey** (Head of Video — exact title match, likely owns creative/strategic direction) and **Lydia Sarks** (EP / Head of Production / Showrunner, 15+ yrs, "leads the in-house production team" — likely the one who actually books freelance crew/vendors day to day). Different angle per contact: Jack = creative/strategic, Lydia = operational "who do you call for a voice." Emails needed.
 
 #### Funnel C — E-learning platforms
 **Companies:** Coursera · Udemy / Udemy Business · Pluralsight · LinkedIn Learning · edX · Skillshare
