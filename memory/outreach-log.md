@@ -44,7 +44,7 @@ What Spencer changed from Bingo's drafts, i.e. his real voice (feed the `outreac
 - Contact: Sean LaGamma, EP, sean.lagamma@octagon.com. Initial ~Jul 29, 1st follow-up Aug 24, no reply.
 - Hook (✅ verified, Hartford Business Journal + octagon.com): Octagon runs on-the-ground marketing for 8 FIFA 2026 sponsors across all 16 host cities, $1B+, lead agency for the Trophy Tour. Spencer = narrator on Noah Media's official FIFA WC 2026 preview series. Real, timely tie.
 - This is the FINAL touch — email says "I'll leave it here after this." If no reply → October revisit.
-- Send: ~Sept 2–3, reply in existing thread. No production needed.
+- **✅ verified via Gmail: actually SENT 2026-08-31 17:05 Lisbon** (ahead of the ~Sept 2–3 plan noted below — that plan is superseded). Reply in existing thread "Re: American VO - FIFA, AWS, Venmo Credits." No production needed. Awaiting reply.
 
 ## 2026-08-31 — Team One tracker actions (Spencer's calls)
 - **Maya Roberts** — SCRAPPED (bounced, bad email). Status→"Dropped" in tracker (row 8). Off the follow-up list.

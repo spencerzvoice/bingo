@@ -95,14 +95,16 @@ Rapid-fire marketplace quotes now live in **`reference/quick-quote.md`** (compac
 
 ## Standing action items
 
-1. **Fix + resend bounced emails:** Maya Roberts, Tami Hachiya, Janae David (Team One — pattern `firstname.lastname@teamone-usa.com` but these bounced; verify via Hunter.io), Nathan Mallon (The Team — Mimecast `550 5.4.1` rejection), Anna Jacobsen (Tellary — try `poullet@tellary.com` or `tellyourstory@tellary.com`).
+1. **Fix + resend bounced emails:** Maya Roberts (dropped), Tami Hachiya (dropped), Janae David (Team One — LinkedIn is the working channel, email bounces), **Nathan Mallon (The Team) — 2026-08-31 resend went to the WRONG address `mallon@247laundryservice.com` (Laundry Service's domain, not his) and never reached him; still needs a verified correct address + fresh resend**, Anna Jacobsen (Tellary — try `poullet@tellary.com` or `tellyourstory@tellary.com`).
 2. **Send the 10 genuinely-unsent reconnect drafts** (cross-checked list below — was ~18, trimmed after checking the live tracker).
 3. **Re-add Robert Salas** (GMR Marketing, Senior Producer) — row vanished before his ready draft was sent.
-4. **Lori Lins auditions:** Plaud + AT&T Quantum Fiber (were due Aug 28) — check status.
-5. Follow up when Sam Walsh (back Aug 25) and Michael MacMillan (back Sept 1) return from OOO.
+4. ~~Lori Lins auditions: Plaud + AT&T Quantum Fiber~~ — ✅ verified via Gmail 2026-09-01: both submitted on time (Quantum Fiber Aug 26, Plaud Aug 28, MP3s attached). Closed, awaiting outcome.
+5. Sam Walsh (Team One) back from OOO **today (Sept 1)**, Michael MacMillan (Anomaly) follow-up sent today 8am as scheduled (auto-OOO ack only so far, no real reply).
 6. Investigate why the routine deletes rows.
 7. Submit the Gmail-connector bug report to Anthropic support if not already done.
 8. Track the Sept 19 Elaine Craig workshop → resubmit to Allie Silber at DDO afterward.
+
+**⚠️ Reliability note (2026-09-01):** Bingo gave Spencer a stale/incomplete follow-up list from memory files alone — missed ~14 live "due today" contacts (Cheil USA, Untold, Laundry Service, Anomaly, etc.) that exist only in the tracker sheet/daily digest, and wrongly flagged 2 items as open that were actually already handled. **The daily "VO Pipeline Digest" email (subject `VO Pipeline Digest - <date>`) in the business Gmail is the reliable due-list source — check it via FGAC Gmail (`gmail_read` on the digest thread) before answering "what's due," don't rely on outreach-log.md/this file alone for full pipeline coverage.**
 
 ## Overdue-reconnect cohort — SENT 2026-08-26 (~14:29–14:36 Lisbon)
 Soft "checking in, anything new?" notes to recurring/past contacts (729-day OVERDUE flag from the digest):
