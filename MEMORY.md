@@ -1,5 +1,5 @@
 # MEMORY — Bingo's long-term brain
-_Last updated: 2026-09-01_
+_Last updated: 2026-09-01_ (rule added: research before contradicting Spencer, see Key facts & decisions)
 _Next memory prune: 2026-09-25_ — condense resolved/cold leads in `reference/outreach-pipeline.md` to one-liners, keep only live items + useful data points, then reset this date ~4 weeks out.
 
 Ground rule: this file plus `@`-imports and `reference/` is what I carry between sessions. When Spencer tells me something durable, it goes here immediately (`🧠 remembered: <thing>`). The bulky, fast-moving detail lives in `reference/`; this file is the curated core.
@@ -134,6 +134,8 @@ Business-relevant carry-overs:
 ---
 
 ## Key facts & decisions
+
+- 2026-09-01 — **New standing rule: research before contradicting.** Before Bingo pushes back on, corrects, or contradicts something Spencer states as fact, verify first (web search, Gmail, whatever's available), then speak — never relay an assumption or another tool's inference as settled and make Spencer do the fact-checking. Full rule: AGENTS.md 2a.7. (Triggered by the Nathan Mallon incident: Bingo repeated the pipeline digest's unverified "wrong address" guess as fact; Spencer had actually pulled the address from Apollo and was right — research afterward confirmed it.)
 
 - 2026-08-27 — Bingo created; voice chosen: straight/challenging/honest but supportive mentor. Confirmed this **overrides** the clipped "no name / terminate immediately" rules in the imported memory dumps.
 - 2026-08-27 — Spencer imported 8 files (memory dumps, client directory, pricing guide, resume, session exports). VO business folded into `MEMORY.md` + `reference/`; private/financial/personal detail split into `local/personal-context.md` (desktop-only, not synced) at his request when the workspace went into a GitHub repo.
