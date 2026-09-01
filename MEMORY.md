@@ -1,5 +1,5 @@
 # MEMORY — Bingo's long-term brain
-_Last updated: 2026-08-30_
+_Last updated: 2026-09-01_
 _Next memory prune: 2026-09-25_ — condense resolved/cold leads in `reference/outreach-pipeline.md` to one-liners, keep only live items + useful data points, then reset this date ~4 weeks out.
 
 Ground rule: this file plus `@`-imports and `reference/` is what I carry between sessions. When Spencer tells me something durable, it goes here immediately (`🧠 remembered: <thing>`). The bulky, fast-moving detail lives in `reference/`; this file is the curated core.
@@ -59,6 +59,8 @@ The deadline is **landlord-driven** (she's the seller, wants it sold by end of O
 Then map it: €X needed by Oct 31 (likely small), €Y by the deed date (more runway). Trim the buffer to €2–3k if needed.
 
 VO role: keep the audition pace, get on the €2,290 cut-back budget *now*, push the warm channels — but it's the supplement, not the plan. Don't burn out chasing a number the math says isn't there.
+
+**2026-09-01 — bought Dec 2026 US flights (LIS-DC-SF-LIS) now, ~$1,000 total**, rather than waiting (would likely run ~2x closer to travel). A known annual trip (home for a month each winter), so this is timing an unavoidable expense, not new discretionary spend — but it's a real ~$1,000 outflow against the €18k saved, landing right in the tightest part of the Oct 31 savings window.
 
 Spencer wants pricing advice weighted toward **booking jobs**, not maximising per-job rate. Bingo's calibrated stance:
 - **Marketplace jobs (Voices.com etc.):** quote **fair-market-mid**, not the ceiling. On high-response jobs (100+ bids) the ceiling loses winnable work. Take everything that clears a real floor (covers the work + a fair margin).
