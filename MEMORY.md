@@ -83,7 +83,7 @@ First 3 cold emails (Webflow/Marc Andrews, Notion/Cory Zapatka, Figma/Sydney Hal
 ### Outreach pipeline
 Google Sheet **"VO Outreach Pipeline Tracker"** (root of My Drive, spreadsheetId `1SBauz4dCodqnfSVD5yqKETjU-25TY5HEZ7KRGggbgT0`). Spencer edits it live; a daily cloud routine syncs it from Gmail and emails him a digest — see [[vo-pipeline-routine]] and full detail in [[outreach-pipeline]].
 
-Active agency targets: **Cheil USA, Team One, Untold Studios, Octagon, Anomaly, The Team, Laundry Service, Ogilvy, GMR Marketing, IMG.** Big recurring relationships: **Noah Media Group** (FIFA series), **Lori Lins Ltd** (36+ threads, audition agency), **"Voices Talent"/Anthony** (98 threads), **Shadow Lion, Xpedition Media, Diamond View, Kansas University** (live paid project), **Zulubot Bravo Inc** (new paid Voices.com client).
+Active agency targets: **Cheil USA, Team One, Untold Studios, Octagon, Anomaly, The Team, Laundry Service, Ogilvy, GMR Marketing, IMG.** Big recurring relationships: **Noah Media Group** (FIFA series), **Lori Lins Ltd** (36+ threads, audition agency), **"Voices Talent"/Anthony** (98 threads), **Shadow Lion, Xpedition Media, Diamond View, Kansas University** (live paid project). *(Voices.com/marketplace jobs — incl. Zulubot Bravo Inc — are NOT tracked here or in the outreach tracker; delivered ones live in [[vo-client-directory]] + the invoice log. See `reference/outreach-pipeline.md` rule 6.)*
 
 Standing to-dos (structural — details in reference):
 - Fix + resend 4 bounced emails: Maya Roberts, Tami Hachiya, Janae David (Team One), Nathan Mallon (The Team). Anna Jacobsen (Tellary) — try poullet@tellary.com.
@@ -148,4 +148,3 @@ Business-relevant carry-overs:
 - €6,000/month — what's the breakdown: how many jobs at what rate?
 - Which of the ~18 unsent reconnect drafts does he want to prioritise, and is he sending them himself or does he want me drafting fresh?
 - Does he want the tracker routine's cloud memory reconciled with this workspace?
-- Status of the Zulubot Bravo Inc row (kept as real paid work despite the Voices.com-exclusion rule)?

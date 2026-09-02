@@ -21,6 +21,15 @@ sends himself (hard rule).
   next booking; treat it as the priority.
 - **follow-up** — a nudge on a cold or warm email that got no reply.
 
+## Step 0 — Never guess a fact about Spencer
+
+Accent, location, studio gear, availability, credits, rates — if it's not in the
+files, it's a `[bracket]` in the draft, not a plausible fill-in. His voice is
+**native American English, neutral** and a **warm bass/baritone** (identity block
+in Step 4). Do NOT infer "British" or any other accent from the market, the
+currency, or anything else. Guessing his accent nearly ended the engagement
+(2026-09-02). See AGENTS.md RULE 0.
+
 ## Step 1 — Pull what's already known
 
 Before asking Spencer anything, read:
@@ -134,6 +143,16 @@ something he isn't. Plain words, contractions, short paragraphs.
 
 ## Step 6 — Hand it over
 
+0. **Verification footer (RULE 0 — required).** Before the draft, list every factual
+   claim in it and where each came from:
+   ```
+   — Verified: <fact — source file/page> · …
+   — Bracketed (you fill): <item> · …
+   — Unknown: <item> · …
+   ```
+   Write "none" for an empty section. Any claim about the client's work, a credit,
+   or a connection that isn't from a primary source I opened this session → bracket
+   it or cut it, never assert it.
 1. Subject-line options (2–3). Specific, a reason to open — never "Voiceover
    artist available."
 2. The draft, ready to paste / the compose link.

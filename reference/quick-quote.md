@@ -8,8 +8,9 @@ Spencer says "full". Target: one response, no tool calls, no hedge round.
 
 ## STEP 1 — decision tree (most jobs stop here)
 
-1. **Budget under $1,000 AND (worldwide OR in-perpetuity OR broadcast)** → **PASS.**
+1. **Budget under $1,000 AND (worldwide/national scope OR in-perpetuity *broadcast* OR broadcast with no client named)** → **PASS.**
    Say so in one line. Only price it if Spencer says "quote straight" — then use the grid, no discount.
+   *Not this branch:* **local** radio/TV + in-perpetuity *non-broadcast* is legit low-budget work (GVAA low-risk exception) — price it in Step 2, don't auto-pass.
 2. **Budget at or above fair-market mid** (grid below) → **max out the budget.** Quote the ceiling. Show the grid number so he sees the headroom. Done.
 3. **Everything else** → grid lookup, Step 2.
 
@@ -67,17 +68,35 @@ If the job lists two grants (e.g. "Online Ad WW 13wk" **and** "Non-Broadcast In-
 
 ---
 
-## Output format — DEFAULT for any pasted marketplace job (5 lines, no prose)
+## Output format — DEFAULT for any pasted marketplace job
 
-```
-<job> — $<budget>, <words>w / <length>, <category>, <territory> + <term>
-⚑ <flag> · <flag> · <flag>          (omit line if genuinely none)
-Fair: ~$<X>   (<grid cell> + <add-on> if stacked)
-At $<budget>: <what fits at that number, OR "nothing — <gap>">
-→ <PASS  |  quote $<X> (floor $<Y>)>
-```
+Plain text, not a code block. Bold section labels, blank line between each block,
+flags as a bullet list. Keep every block to 1–2 lines. Structure:
 
-Floor = one term-band down, or the low end of the underlying GVAA range (~15–20% under the cell). Only add the paste-ready Voices.com message if Spencer says "message" / "write-up" / "paste". Then log (below) and commit silently.
+> **\<Job\>** — $\<budget\> · \<words\>w / \<length\> · \<category\> · \<territory\> · \<term\>
+>
+> **Flags**
+> - \<flag\>
+> - \<flag\>
+>
+> (if genuinely none: **Flags:** none)
+>
+> **Fair market:** ~$\<X\>. \<one line: grid cell + add-on if stacked\>. \<client's own published anchor, if any\>
+>
+> **At their $\<budget\>:** \<what that actually buys — or "nothing. \<the gap\>"\>
+>
+> **Verdict:** \<PASS  |  Counter at $\<X\>  |  Quote $\<X\>\>. Floor $\<Y\>. \<one line why\>
+
+Floor = one term-band down, or the low end of the underlying GVAA range (~15–20%
+under the cell). Add the paste-ready Voices.com message only if Spencer says
+"message" / "write-up" / "paste". Log (below) only if he's pursuing it — he'll say
+when he isn't.
+
+**RULE 0 (fast version):** the grid cells are 🟡 GVAA-derived — say so if pushed.
+Anything the job post didn't state (client name, real brand, US-vs-worldwide intent)
+is a `[bracket]` or a flag, never asserted as fact. A paste-ready message gets the
+full verification footer (`— Verified / — Bracketed / — Unknown`); the 5-line quote
+itself doesn't need the footer, but every line in it must still be sourced or bracketed.
 
 ## Flag checklist (⚑ line — only the ones that apply)
 

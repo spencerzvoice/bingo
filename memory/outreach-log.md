@@ -31,7 +31,7 @@ What Spencer changed from Bingo's drafts, i.e. his real voice (feed the `outreac
 - Status: drafted in Bingo — Spencer to send.
 
 ## 2026-08-31 — Agency batch: 2nd follow-ups SENT + status calls (Spencer)
-- **Nathan Mallon** (The Team) — SENT Aug 31 to **mallon@247laundryservice.com** (Spencer found via Apollo). Tracker col D updated Sept 2. CAVEAT: that's a Laundry Service domain (not teamwass.com) and doesn't match Laundry Service's first.last@ pattern — tentative until a reply/bounce. If it holds, Nathan has moved from The Team → Laundry Service.
+- **Nathan Mallon** — email corrected to **mallon@247laundryservice.com** (Spencer found + verified via Apollo — this is confirmed, do not re-question it). Prior address bounced Aug 24. Fresh pitch sent Aug 31. Tracker col D + notes updated Sept 2; routine told to stop flagging it.
 - **Sam Walsh** (Team One) — 2nd follow-up sent Aug 31, OOO auto-reply AGAIN (back this week). Spencer to re-touch end of week (~Sept 5).
 - **Michael MacMillan** (Anomaly) — Spencer scheduled a follow-up to send Sept 1 08:00 (his return from leave).
 - **Sean LaGamma** (Octagon), **Sascha Peuckert** (Team One), **Tanya Ferguson** (Untold), **Cameron Choate** (The Team) — all 2nd/FINAL follow-ups sent Aug 31 (Spencer wrote Sascha/Tanya/Cameron himself; Sean used the FIFA-hook draft). No more touches — October revisit if silent.

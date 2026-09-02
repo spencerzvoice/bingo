@@ -5,5 +5,20 @@
       "Bash(git pull:*)",
       "Bash(git fetch:*)"
     ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "shell": "bash",
+            "command": "grep -qi 'bingo' && printf '%s' '{\"hookSpecificOutput\":{\"hookEventName\":\"PostToolUse\",\"additionalContext\":\"RULE 0 - never guess. Every fact about Spencer / a client / a rate / a credit / a date in what you just wrote must be sourced (name the file or page) or written as a [bracket] - never a plausible fill-in. If this is a deliverable (email, quote, application, bio, research answer), end it with the verification footer: Verified <fact - source> / Bracketed (you fill) <item> / Unknown <item>.\"}}' || true",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
   }
 }
