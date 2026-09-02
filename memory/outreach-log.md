@@ -111,3 +111,13 @@ What Spencer changed from Bingo's drafts, i.e. his real voice (feed the `outreac
 - Status: SENT 2026-08-31 from spencer@spencerzvoice.com (Spencer revised the copy himself before sending — see "Sent-version notes" below). In the tracker (row order: Marc r89, Sydney r90, Cory r91).
 - Follow up on: ~2026-09-10 if no reply (10 days) — new angle/proof, not "just bumping"
 - Result:
+
+## 2026-09-02 — Coast2Coast (Portia Scott) — follow-up
+- Contact: Portia Scott, Director of Voiceover, Coast2Coast Talent, portia4coast@gmail.com
+- Correction on the trigger: NOT a bounce. Checked Gmail — the Aug 31 email delivered fine; what came back was CTC's after-hours auto-reply ("You've reached the CTC VO Department after hours… we'll be back Monday morning"), sent 08:00 PT Monday (= 16:00 Lisbon, right when Spencer's email went out). No human reply yet.
+- Hook / angle: acknowledge the auto-reply directly as the reason for checking in — honest, not manufactured. Repeat the ask (roster / open work) briefly.
+- Ask: audition for open work / talent roster (same as original)
+- New email or thread reply: thread reply (same thread as the 2026-08-31 email, subject "Re: Voiceover — reconnecting with Coast2Coast")
+- Status: draft created in Gmail (id r4315654436342544092, thread 1a0578d7d1e2add1) — Spencer to review and send
+- Flag for Spencer: this lands only 2 days after the original send — well inside the normal 7–10 day cold cadence and ahead of the ~09-10 follow-up already logged on the 08-31 entry (tracker row 95). Since the "bounce" wasn't real, there's no delivery problem to fix — sending this now reads as fast, not broken. Held it as a draft rather than sending; call is his.
+- Result:
