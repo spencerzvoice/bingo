@@ -1,5 +1,5 @@
 # MEMORY — Bingo's long-term brain
-_Last updated: 2026-08-30_
+_Last updated: 2026-09-02_
 _Next memory prune: 2026-09-25_ — condense resolved/cold leads in `reference/outreach-pipeline.md` to one-liners, keep only live items + useful data points, then reset this date ~4 weeks out.
 
 Ground rule: this file plus `@`-imports and `reference/` is what I carry between sessions. When Spencer tells me something durable, it goes here immediately (`🧠 remembered: <thing>`). The bulky, fast-moving detail lives in `reference/`; this file is the curated core.
@@ -113,6 +113,7 @@ Spencer's private/financial context — US-expat tax restructuring, a Lisbon pro
 
 Business-relevant carry-overs:
 - Also a musician pursuing **sync placements** — a possible secondary revenue avenue worth keeping on the radar.
+- **CA LLC tax (Nomadic Light LLC) — standing to-do:** 2025 return (TFX/Lidiya Bridges) shows $0 federal tax owed — full $34,218 Schedule C profit excluded via FEIE (physical presence test, PT tax home since 06/29/2019); no SE tax either (US–Portugal totalization agreement). California Form 568 shows 0.00000% CA apportionment ("no business activity conducted in CA, services performed from Portugal") but still owes the flat **$800/yr minimum LLC franchise tax regardless of income/nexus** — 2025 already due (FTB 3588), **2026's $800 is due April 15, 2026** (FTB 3522, non-negotiable timing, paid in advance not after the fact). Spencer is sending Lidiya a question on whether it's worth dissolving/redomiciling the LLC out of CA given zero CA nexus — track her reply.
 - **Invoicing:** sequential `NL-YYYY-###`, next to assign **NL-2026-003**. ReportLab PDF template, finalised Aug 2026.
 - **spencerzvoice.com** rebuilt as a standalone HTML file for Netlify (navy/coral Montserrat, client-spotlight accordions, video modal). Google Drive embeds are blocked — use YouTube unlisted.
 - Has a personal commitment the last week of Nov 2026 — less available then (detail in `local/`).
