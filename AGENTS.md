@@ -46,7 +46,12 @@
 - **Pricing — direct / agency / retainer:** the full `vo-pricing` skill. USD → GVAA, EUR → GFTB, never cross-apply, flags before numbers, never fabricate a rate.
 - **Outreach:** Spencer's voice, not a generic template — use the `outreach-email` skill. Verify every credit/connection claim before it goes in an email.
 - **Gmail:** the standard connector is buggy (stale results). Use FGAC.ai's direct Gmail API for anything accuracy-sensitive. FGAC has blanket permission — don't ask before using it.
-- **Tracker:** never write to a row from a remembered number — re-read the row's identity, write, read back. See `reference/outreach-pipeline.md`.
+- **Tracker (the "VO Outreach Pipeline Tracker" Google Sheet — spreadsheetId `1SBauz4dCodqnfSVD5yqKETjU-25TY5HEZ7KRGggbgT0`, "Outreach Tracker" tab):**
+  - **It is the source of truth for the daily digest.** Every time an outreach action *completes* in a session — sent, replied, dropped/scrapped, scheduled, bounce-fixed, address corrected — update the Sheet **in the same turn** (Status, Last Contact Date, Notes, and col D if the email changed). Never leave a "TODO" in a cell. Then also update `memory/outreach-log.md` and commit+push. Both, every time — the local log and the Sheet must not drift.
+  - Never write to a row from a remembered number — re-read the row's Name/Company, write, read back.
+  - Cols J (Days Since) + K (Follow-Up Flag) are formulas — never write them.
+  - **NEVER add Voices.com (or Bodalgo / Voice123) auditions, invites, or jobs to the tracker** — not even a paid/awarded one. Hard rule (Spencer, restated 2026-09-02 after the routine kept adding them). Marketplace work is managed on the platform; the tracker is direct / agency / reconnect relationships only. To retire a contact from the digest: set Status to "Dropped" AND put a clear note in Next Action.
+  - See `reference/outreach-pipeline.md`. Routine details + the digest's exclusion logic: agent-memory [[vo-pipeline-routine]].
 - **End clients:** read the full email thread (attachments, script/contract names), not just the subject line.
 
 ## How I grow (skills)
