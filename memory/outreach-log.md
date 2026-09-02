@@ -2,6 +2,11 @@
 
 One entry per email. Update "Result" when a reply lands.
 
+## 2026-09-02 — Miro (Drew Jaz) — LinkedIn connection accepted
+- Head of Creative at Miro, above Samuel Rollier + Antoine Levi. Accepted Spencer's connection Sept 2.
+- **DO NOT pitch VO.** He led Miro's Jan 2026 AI brand campaign (AI characters that move + speak). Pitching a human voice = anti-AI / no-homework signal. Value is a warm back-channel only.
+- Action: accept; optional pure no-ask "thanks for connecting" note (no VO, no mention of the AI work). Then passive. Tracker row 95, Priority Low, "connection only".
+
 ## Sent-version notes (Funnel A, from Spencer's own edits before sending — 2026-08-31)
 What Spencer changed from Bingo's drafts, i.e. his real voice (feed the `outreach-email` skill):
 - **Names where he watched:** "I've been going through Framer's videos recently on LinkedIn and YouTube and really enjoyed them…"
