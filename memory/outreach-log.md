@@ -9,6 +9,8 @@ One entry per email. Update "Result" when a reply lands.
 
 ## Funnel B — 16 drafts (2026-08-31, NOT sent — pending Spencer review)
 Pitch shift vs Funnel A: recurring-voice / low-friction-vendor framing (locked rate, 24h turnaround, Source Connect, own edit+delivery), not "you have a VO gap." Custom sample is an *offer* in these drafts, not attached — Spencer may swap for a real re-voiced clip like Funnel A. Openers thin (Bingo hasn't watched these companies' videos) — Spencer to add one genuine specific per company. All emails: warm bass/baritone, credits AWS Sagemaker + Artlist.io + Venmo + Dell (no FIFA), "Hey [First]" for men / "Hello [First]" for women.
+**STATUS 2026-09-03: all 16 now sit as Gmail drafts** — Spencer created 11 himself (copied from Bingo drafts + subject lines of his own), Bingo created 5 (Brian Sherry, Eric Cirillo, Lauren Hirata, Rob Nikzad, Kirsten Golden). NOT sent — Spencer reviewing/personalizing openers.
+**+ Amalia Ho (monday.com, amaliaho@monday.com)** — Spencer found her himself, wrote a fully personalized draft (references her AI "Elevate masterclass"; angle = real voice for the brand films / Elevate sizzle+recap, not the AI masterclasses — same "never anti-AI" play as Miro). Her draft has Google-tracking-wrapped URLs to clean + old "low-register American voice" descriptor. She's the monday.com primary; Dan Brooks (VP Brand & Creative) optional 2nd, not yet drafted.
 **All emails now Apollo-verified (no more guesses):**
 - **HubSpot** — Jamal Meneide `jmeneide@hubspot.com` (primary) · Linda Hewing `lhewing@hubspot.com` (secondary — AI-soft "if a real voice is ever useful")
 - **Canva** — Jack Toohey `jackt@canva.com` (Head of Video — slate angle) · Lydia Sarks `lydia@canva.com` (EP of Brand — "roster to call on" angle)
