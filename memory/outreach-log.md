@@ -7,6 +7,14 @@ One entry per email. Update "Result" when a reply lands.
 - **DO NOT pitch VO.** He led Miro's Jan 2026 AI brand campaign (AI characters that move + speak). Pitching a human voice = anti-AI / no-homework signal. Value is a warm back-channel only.
 - Action: accept; optional pure no-ask "thanks for connecting" note (no VO, no mention of the AI work). Then passive. Tracker row 95, Priority Low, "connection only".
 
+## Funnel B — drafts (2026-08-31, NOT sent — pending Spencer review)
+Pitch shift vs Funnel A: recurring-voice / low-friction-vendor framing (locked rate, 24h turnaround, Source Connect, own edit+delivery), not "you have a VO gap." Custom sample is an *offer* in these drafts, not attached — Spencer may swap for a real re-voiced clip like Funnel A. Openers thin (Bingo hasn't watched these companies' videos) — Spencer to add one genuine specific per company. All emails: warm bass/baritone, credits AWS Sagemaker + Artlist.io + Venmo + Dell (no FIFA), "Hey [First]" for men / "Hello [First]" for women.
+- **HubSpot** — Jamal Meneide (jmeneide@hubspot.com?, primary) + Linda Hewing (lhewing@?, secondary — "if a real voice is ever useful" AI-soft phrasing). Emails need verify.
+- **Canva** — Jack Toohey (Head of Video — creative/slate angle) + Lydia Sarks (Head of Production — "roster to call on" operational angle). Emails need verify.
+- **Atlassian** — Sarah Fink (EP Content Studio, primary) + Genna Osborne (Creative Producer Brand, secondary, lighter). Emails need verify.
+- **Asana** — Aubrey Rogers (arogers@asana.com?) — pitched explicitly as a low-friction **vendor add** (she owns Brand vendor accounts + budget). Kyle O. Tier 2 pending Spencer's LinkedIn check.
+- All email addresses are pattern guesses — Gmail-hover to confirm (all Google Workspace).
+
 ## Sent-version notes (Funnel A, from Spencer's own edits before sending — 2026-08-31)
 What Spencer changed from Bingo's drafts, i.e. his real voice (feed the `outreach-email` skill):
 - **Names where he watched:** "I've been going through Framer's videos recently on LinkedIn and YouTube and really enjoyed them…"
