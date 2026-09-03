@@ -7,13 +7,18 @@ One entry per email. Update "Result" when a reply lands.
 - **DO NOT pitch VO.** He led Miro's Jan 2026 AI brand campaign (AI characters that move + speak). Pitching a human voice = anti-AI / no-homework signal. Value is a warm back-channel only.
 - Action: accept; optional pure no-ask "thanks for connecting" note (no VO, no mention of the AI work). Then passive. Tracker row 95, Priority Low, "connection only".
 
-## Funnel B — drafts (2026-08-31, NOT sent — pending Spencer review)
+## Funnel B — 16 drafts (2026-08-31, NOT sent — pending Spencer review)
 Pitch shift vs Funnel A: recurring-voice / low-friction-vendor framing (locked rate, 24h turnaround, Source Connect, own edit+delivery), not "you have a VO gap." Custom sample is an *offer* in these drafts, not attached — Spencer may swap for a real re-voiced clip like Funnel A. Openers thin (Bingo hasn't watched these companies' videos) — Spencer to add one genuine specific per company. All emails: warm bass/baritone, credits AWS Sagemaker + Artlist.io + Venmo + Dell (no FIFA), "Hey [First]" for men / "Hello [First]" for women.
-- **HubSpot** — Jamal Meneide (jmeneide@hubspot.com?, primary) + Linda Hewing (lhewing@?, secondary — "if a real voice is ever useful" AI-soft phrasing). Emails need verify.
-- **Canva** — Jack Toohey (Head of Video — creative/slate angle) + Lydia Sarks (Head of Production — "roster to call on" operational angle). Emails need verify.
-- **Atlassian** — Sarah Fink (EP Content Studio, primary) + Genna Osborne (Creative Producer Brand, secondary, lighter). Emails need verify.
-- **Asana** — Aubrey Rogers (arogers@asana.com?) — pitched explicitly as a low-friction **vendor add** (she owns Brand vendor accounts + budget). Kyle O. Tier 2 pending Spencer's LinkedIn check.
-- All email addresses are pattern guesses — Gmail-hover to confirm (all Google Workspace).
+**All emails now Apollo-verified (no more guesses):**
+- **HubSpot** — Jamal Meneide `jmeneide@hubspot.com` (primary) · Linda Hewing `lhewing@hubspot.com` (secondary — AI-soft "if a real voice is ever useful")
+- **Canva** — Jack Toohey `jackt@canva.com` (Head of Video — slate angle) · Lydia Sarks `lydia@canva.com` (EP of Brand — "roster to call on" angle)
+- **Atlassian** — Sarah Fink `sfink@atlassian.com` (EP Content Studio) · Genna Osborne `gosborne@atlassian.com` (Creative Producer Brand, lighter)
+- **Asana** — Aubrey Rogers `aubreyrogers@asana.com` (**vendor-add** angle — owns Brand vendor accounts + budget) · Kyle Osher `kyleosher@asana.com` (Sr Creative Producer, "expert in multimedia production")
+- **Zoom** — Dan Schunk `dan.schunk@zoom.us` (Head of Creative — slate) · Teddy Sirotek `teddy.sirotek@zoom.us` (Sr Video Producer — sample)
+- **ClickUp** — Brian Sherry `bsherry@clickup.com` (Ops Head of Creative — vendor-add) · Eric Cirillo `eric@clickup.com` (Sr Creative Producer — sample)
+- **monday.com** — Dan Brooks `danbr@monday.com` (VP Brand & Creative — slate) · Fabien Hameline `fabien@monday.com` (Expert Creative Producer, Brand Awareness — sample)
+- **Grammarly** — Lauren Hirata `lauren.hirata@grammarly.com` (Sr Creative Producer — only contact; thin, agency-heavy company)
+- **Airtable** — Rob Nikzad `rob.nikzad@airtable.com` (Head of Brand + Creative — slate) · Kirsten Golden `kirsten.golden@airtable.com` (Creative Producer, Brand Operations — vendor-add)
 
 ## Sent-version notes (Funnel A, from Spencer's own edits before sending — 2026-08-31)
 What Spencer changed from Bingo's drafts, i.e. his real voice (feed the `outreach-email` skill):
